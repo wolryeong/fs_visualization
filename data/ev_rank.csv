@@ -1,0 +1,1505 @@
+﻿University,date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+University of South Australia,2019-12,AU,0.85,16.0,14.0,15.0,12.0,14.0,,,,,,0.0,139.0,150.0
+Queensland University of Technology,2019-12,AU,0.85,16.0,12.0,5.0,2.0,9.0,,,,,,0.0,217.0,101.0
+Queensland University of Technology,2016-12,AU,0.9,32.0,28.0,28.0,26.0,23.0,,,,,,0.0,191.0,89.0
+Queensland University of Technology,2015-12,AU,0.92,29.0,29.0,26.0,,,,,,,,0.0,18.0,100.0
+Monash University (Melbourne),2019-12,AU,0.85,16.0,1.0,6.0,3.0,1.0,4.0,1.0,1.0,1.0,2.0,0.0,912.0,3.0
+Monash University (Melbourne),2018-12,AU,0.85,14.0,2.0,7.0,5.0,2.0,2.0,3.0,2.0,1.0,3.0,0.0,795.0,7.0
+Monash University (Melbourne),2018-08,DE,0.98,39.0,6.0,23.0,1.0,11.0,18.0,18.0,14.0,5.0,9.0,-55.0,634.0,8.0
+Monash University (Melbourne),2018-08,AT,0.97,19.0,4.0,8.0,2.0,9.0,14.0,12.0,10.0,4.0,8.0,-5.0,742.0,4.0
+Monash University (Melbourne),2018-07,UK,0.88,70.0,3.0,28.0,7.0,8.0,10.0,7.0,3.0,2.0,3.0,-4.0,767.0,9.0
+RMIT University (Melbourne),2019-12,AU,0.85,16.0,6.0,12.0,11.0,8.0,1.0,4.0,3.0,8.0,,0.0,641.0,22.0
+RMIT University (Melbourne),2018-12,AU,0.85,14.0,5.0,9.0,8.0,4.0,3.0,4.0,4.0,5.0,,0.0,428.0,23.0
+RMIT University (Melbourne),2016-12,AU,0.9,32.0,5.0,22.0,19.0,19.0,2.0,11.0,4.0,5.0,4.0,0.0,796.0,5.0
+RMIT University (Melbourne),2015-12,AU,0.92,29.0,7.0,22.0,13.0,19.0,15.0,9.0,7.0,5.0,1.0,0.0,681.0,9.0
+RMIT University (Melbourne),2014-12,AU,0.89,22.0,7.0,15.0,5.0,15.0,17.0,16.0,11.0,7.0,1.0,0.0,697.0,14.0
+RMIT University (Melbourne),2013-12,AU,0.87,23.0,10.0,2.0,3.0,13.0,17.0,16.0,8.0,12.0,,0.0,520.0,31.0
+RMIT University (Melbourne),2012-12,AU,0.88,21.0,20.0,1.0,17.0,18.0,,,19.0,,,0.0,230.0,38.0
+RMIT University (Melbourne),2011-12,AU,0.87,23.0,19.0,1.0,2.0,6.0,,,18.0,16.0,,0.0,325.0,13.0
+RMIT University (Melbourne),2010-12,AU,0.9,27.0,17.0,1.0,13.0,15.0,,,16.0,,,0.0,235.0,12.0
+Swinburne University of Technology,2019-12,AU,0.85,16.0,11.0,9.0,9.0,6.0,,9.0,11.0,10.0,,0.0,251.0,72.0
+Swinburne University of Technology,2018-12,AU,0.85,14.0,11.0,10.0,6.0,8.0,,,,,,0.0,230.0,51.0
+Swinburne University of Technology,2016-12,AU,0.9,32.0,6.0,17.0,20.0,9.0,5.0,9.0,9.0,10.0,2.0,0.0,782.0,14.0
+Swinburne University of Technology,2015-12,AU,0.92,29.0,22.0,18.0,17.0,6.0,,,,,,0.0,243.0,41.0
+Swinburne University of Technology,2014-12,AU,0.89,22.0,11.0,12.0,3.0,5.0,14.0,10.0,15.0,15.0,5.0,0.0,479.0,28.0
+Swinburne University of Technology,2013-12,AU,0.87,23.0,18.0,17.0,8.0,15.0,13.0,10.0,16.0,,,0.0,357.0,38.0
+Swinburne University of Technology,2012-12,AU,0.88,21.0,18.0,13.0,7.0,9.0,15.0,17.0,17.0,16.0,,0.0,333.0,34.0
+Swinburne University of Technology,2011-12,AU,0.87,23.0,21.0,10.0,15.0,14.0,18.0,18.0,18.0,,,0.0,247.0,23.0
+Swinburne University of Technology,2010-12,AU,0.9,27.0,24.0,16.0,27.0,17.0,,,,,,0.0,164.0,17.0
+University of Melbourne,2019-12,AU,0.85,16.0,10.0,9.0,13.0,5.0,,3.0,7.0,11.0,,0.0,351.0,64.0
+University of Melbourne,2018-12,AU,0.85,14.0,7.0,6.0,7.0,5.0,,5.0,7.0,6.0,,0.0,362.0,58.0
+University of Western Australia (Perth),2019-12,AU,0.85,16.0,13.0,11.0,8.0,13.0,,,,,,0.0,179.0,123.0
+University of Western Australia (Perth),2013-12,AU,0.87,23.0,23.0,22.0,23.0,22.0,,,,,,0.0,122.0,65.0
+University of Tasmania,2019-12,AU,0.85,16.0,16.0,13.0,,16.0,,,,,,0.0,84.0,170.0
+University of Tasmania,2018-12,AU,0.85,14.0,12.0,12.0,11.0,13.0,,,,10.0,,0.0,188.0,105.0
+University of Wollongong,2019-12,AU,0.85,16.0,7.0,4.0,6.0,10.0,6.0,7.0,8.0,4.0,8.0,0.0,633.0,38.0
+University of Wollongong,2018-12,AU,0.85,14.0,13.0,13.0,11.0,11.0,,,,11.0,,0.0,187.0,106.0
+Fachhochschule Joanneum Graz,,,,,,,,,,,,,,,,
+Technische Universität Graz,2012-08,HU,0.91,39.0,8.0,29.0,36.0,4.0,20.0,5.0,7.0,10.0,2.0,0.0,738.0,7.0
+Technische Universität Graz,2012-07,AT,0.95,37.0,15.0,21.0,36.0,11.0,24.0,10.0,22.0,20.0,5.0,-5.0,496.0,9.0
+Technische Universität Graz,2011-08,DE,0.98,28.0,9.0,2.0,12.0,8.0,,,,8.0,1.0,0.0,456.0,12.0
+Technische Universität Graz,2011-07,AT,0.94,27.0,21.0,16.0,16.0,19.0,,,,,,0.0,180.0,11.0
+Technische Universität Graz,2011-07,UK,0.85,10.0,8.0,8.0,10.0,5.0,,,,,,0.0,201.0,9.0
+Technische Universität Graz,2010-08,AT,0.93,27.0,17.0,21.0,16.0,22.0,25.0,25.0,12.0,15.0,3.0,0.0,452.0,5.0
+Technische Universität Graz,2010-08,DE,1.0,15.0,3.0,12.0,13.0,5.0,7.0,7.0,5.0,3.0,3.0,0.0,511.0,3.0
+Leopold-Franzens-Universität Innsbruck,,,,,,,,,,,,,,,,
+FH Campus Wien,,,,,,,,,,,,,,,,
+Technische Universität Wien,2019-08,ES,0.95,39.0,17.0,18.0,19.0,12.0,19.0,13.0,16.0,,,0.0,328.0,60.0
+Technische Universität Wien,2019-08,CZ,0.85,15.0,7.0,5.0,1.0,1.0,9.0,3.0,5.0,6.0,,0.0,483.0,60.0
+Technische Universität Wien,2019-08,AT,0.95,24.0,17.0,15.0,11.0,10.0,,,,,,-20.0,200.0,77.0
+Technische Universität Wien,2018-08,ES,0.97,38.0,20.0,27.0,10.0,27.0,16.0,18.0,15.0,,,0.0,284.0,57.0
+Technische Universität Wien,2018-08,AT,0.97,19.0,15.0,16.0,10.0,15.0,8.0,8.0,14.0,,,0.0,321.0,58.0
+Technische Universität Wien,2018-07,EA,0.88,16.0,11.0,11.0,9.0,9.0,,,,,,0.0,196.0,62.0
+Technische Universität Wien,2017-08,ES,0.97,30.0,16.0,19.0,6.0,13.0,,3.0,14.0,,,0.0,360.0,46.0
+Technische Universität Wien,2017-08,DE,0.96,34.0,18.0,6.0,12.0,6.0,,,,,,0.0,270.0,51.0
+Technische Universität Wien,2017-08,AT,0.92,19.0,12.0,10.0,9.0,10.0,,,,,,0.0,234.0,52.0
+Technische Universität Wien,2017-07,EA,0.99,38.0,27.0,16.0,19.0,12.0,,,,,,0.0,254.0,42.0
+Technische Universität Wien,2016-08,DE,1.0,37.0,14.0,24.0,33.0,4.0,20.0,,9.0,,4.0,-35.0,371.0,23.0
+Technische Universität Wien,2016-08,AT,0.99,18.0,11.0,,13.0,13.0,12.0,4.0,,9.0,4.0,0.0,436.0,19.0
+Technische Universität Wien,2015-09,CZ,0.85,13.0,3.0,1.0,1.0,1.0,6.0,2.0,4.0,3.0,2.0,0.0,773.0,16.0
+Technische Universität Wien,2015-08,AT,0.96,18.0,8.0,8.0,14.0,8.0,16.0,10.0,9.0,9.0,3.0,0.0,595.0,22.0
+Technische Universität Wien,2015-08,DE,0.98,39.0,22.0,5.0,38.0,14.0,,8.0,,,,-10.0,222.0,44.0
+Technische Universität Wien,2014-08,AT,0.97,18.0,11.0,13.0,15.0,6.0,18.0,6.0,12.0,,,0.0,330.0,42.0
+Technische Universität Wien,2014-08,DE,1.0,39.0,18.0,6.0,20.0,8.0,20.0,19.0,21.0,,,0.0,281.0,50.0
+Technische Universität Wien,2014-07,UK,0.98,90.0,65.0,79.0,60.0,28.0,,,,,,0.0,160.0,58.0
+Rajshahi University of Engineering & Technology,2019-08,JP,0.96,87.0,87.0,84.0,55.0,83.0,,,,,,-50.0,12.0,192.0
+Vrije Universiteit Brussel,,,,,,,,,,,,,,,,
+KU Leuven - Group T Campus,2019-08,CZ,0.85,15.0,8.0,10.0,8.0,6.0,3.0,8.0,9.0,,,0.0,370.0,69.0
+KU Leuven - Group T Campus,2019-08,DE,0.97,38.0,17.0,33.0,8.0,17.0,5.0,20.0,19.0,,,0.0,282.0,73.0
+KU Leuven - Group T Campus,2019-07,IT,0.85,25.0,10.0,10.0,11.0,7.0,,,10.0,,,0.0,260.0,76.0
+KU Leuven - Group T Campus,2019-07,NL,0.89,21.0,10.0,7.0,10.0,4.0,,,,,,0.0,266.0,72.0
+KU Leuven - Group T Campus,2017-08,CZ,0.86,14.0,10.0,11.0,11.0,4.0,,,7.0,8.0,,0.0,298.0,53.0
+KU Leuven - Group T Campus,2016-08,ES,0.97,29.0,16.0,23.0,16.0,10.0,11.0,,11.0,14.0,,0.0,324.0,42.0
+KU Leuven - Group T Campus,2016-08,DE,1.0,37.0,24.0,10.0,20.0,25.0,11.0,14.0,,,,-20.0,242.0,47.0
+KU Leuven - Group T Campus,2016-07,UK,0.98,106.0,57.0,61.0,44.0,15.0,,,,,,0.0,217.0,40.0
+KU Leuven - Group T Campus,2015-09,CZ,0.85,13.0,4.0,3.0,3.0,2.0,9.0,10.0,6.0,5.0,5.0,0.0,623.0,25.0
+KU Leuven - Group T Campus,2015-08,DE,0.98,39.0,16.0,6.0,18.0,23.0,7.0,10.0,14.0,,,0.0,297.0,40.0
+KU Leuven - Group T Campus,2015-07,UK,0.94,92.0,38.0,40.0,49.0,7.0,,,31.0,,,0.0,265.0,42.0
+KU Leuven - Group T Campus,2014-08,ES,0.96,23.0,15.0,13.0,10.0,11.0,16.0,11.0,12.0,,5.0,0.0,391.0,35.0
+KU Leuven - Group T Campus,2014-08,DE,1.0,39.0,23.0,30.0,11.0,20.0,16.0,,17.0,,,0.0,241.0,48.0
+KU Leuven - Group T Campus,2014-07,UK,0.98,90.0,50.0,45.0,10.0,51.0,,,,,,0.0,194.0,45.0
+KU Leuven - Group T Campus,2013-08,AT,0.97,39.0,28.0,35.0,33.0,28.0,20.0,15.0,24.0,19.0,,0.0,275.0,32.0
+KU Leuven - Group T Campus,2013-07,UK,0.97,83.0,41.0,23.0,32.0,28.0,,36.0,34.0,58.0,,0.0,302.0,29.0
+KU Leuven - Group T Campus,2012-09,IT,0.85,17.0,11.0,14.0,9.0,8.0,2.0,10.0,12.0,9.0,9.0,0.0,323.0,27.0
+KU Leuven - Group T Campus,2012-08,DE,0.99,32.0,11.0,23.0,19.0,24.0,7.0,23.0,14.0,8.0,8.0,0.0,430.0,18.0
+KU Leuven - Group T Campus,2012-07,UK,0.95,97.0,52.0,11.0,83.0,25.0,,,,,,-2.0,197.0,24.0
+Thomas More Mechelen - De Nayer (Sint-Katelijne-Waver),2014-08,ES,0.96,23.0,20.0,17.0,22.0,19.0,17.0,15.0,14.0,,,0.0,185.0,63.0
+Thomas More Mechelen - De Nayer (Sint-Katelijne-Waver),2014-07,UK,0.98,90.0,69.0,68.0,68.0,59.0,,,,,,0.0,139.0,65.0
+Thomas More Mechelen - De Nayer (Sint-Katelijne-Waver),2013-07,UK,0.97,83.0,78.0,75.0,20.0,69.0,,,,,,-60.0,64.0,58.0
+Thomas More Mechelen - De Nayer (Sint-Katelijne-Waver),2012-08,DE,0.99,32.0,29.0,30.0,30.0,29.0,20.0,18.0,18.0,,,-5.0,154.0,47.0
+Thomas More Mechelen - De Nayer (Sint-Katelijne-Waver),2012-07,UK,0.95,97.0,90.0,80.0,91.0,,,,29.0,,,-6.0,54.0,44.0
+Universidade Estadual de Campinas,2018-06,LN,0.85,21.0,8.0,11.0,5.0,5.0,4.0,,,,,0.0,334.0,39.0
+Universidade Estadual de Campinas,2017-06,LN,0.85,21.0,3.0,9.0,8.0,2.0,2.0,1.0,2.0,7.0,5.0,0.0,666.0,14.0
+Universidade Federal de Santa Catarina,,,,,,,,,,,,,,,,
+Universidade Federal de Itajubá - Itajubá,,,,,,,,,,,,,,,,
+Universidade Federal Fluminense - Niterói,,,,,,,,,,,,,,,,
+Centro Universitário da FEI,,,,,,,,,,,,,,,,
+Escola de Engenharia de São Carlos da Universidade de São Paulo,,,,,,,,,,,,,,,,
+Centro Universitário Facens (Sorocaba),,,,,,,,,,,,,,,,
+Simon Fraser University,,,,,,,,,,,,,,,,
+McMaster University (Hamilton),,,,,,,,,,,,,,,,
+École de Technologie Superieure,,,,,,,,,,,,,,,,
+École Polytechnique de Montréal,2019-06,LN,0.86,25.0,17.0,3.0,17.0,15.0,,,,,,-20.0,189.0,83.0
+École Polytechnique de Montréal,2018-06,LN,0.85,21.0,9.0,7.0,12.0,16.0,,,,7.0,1.0,0.0,285.0,62.0
+École Polytechnique de Montréal,2012-08,DE,0.99,32.0,32.0,,26.0,32.0,,,,,,0.0,66.0,53.0
+Carleton University,,,,,,,,,,,,,,,,
+Université Laval (Quebec City),2019-06,FN,0.85,12.0,3.0,3.0,9.0,4.0,3.0,4.0,3.0,2.0,1.0,0.0,670.0,43.0
+Université Laval (Quebec City),2018-08,DE,0.98,39.0,28.0,29.0,14.0,26.0,,,,,,-10.0,163.0,61.0
+Université Laval (Quebec City),2018-07,EA,0.88,16.0,8.0,13.0,13.0,4.0,,,,,,0.0,212.0,47.0
+Université Laval (Quebec City),2015-08,HU,0.9,37.0,4.0,11.0,19.0,2.0,9.0,10.0,9.0,16.0,2.0,0.0,723.0,17.0
+Université Laval (Quebec City),2015-08,AT,0.96,18.0,12.0,15.0,15.0,11.0,14.0,11.0,13.0,11.0,2.0,0.0,489.0,29.0
+Université Laval (Quebec City),2015-08,DE,0.98,39.0,25.0,7.0,21.0,31.0,,,,,,-5.0,184.0,61.0
+Université de Sherbrooke,,,,,,,,,,,,,,,,
+University of Waterloo,2019-06,FN,0.85,12.0,10.0,8.0,11.0,8.0,,,,,,0.0,163.0,114.0
+University of Waterloo,2017-06,LN,0.85,21.0,14.0,3.0,19.0,11.0,,,,,,0.0,183.0,91.0
+University of Manitoba,2019-06,LN,0.86,25.0,14.0,16.0,1.0,13.0,6.0,8.0,11.0,12.0,,0.0,243.0,76.0
+University of Manitoba,2019-06,FN,0.85,12.0,7.0,5.0,1.0,8.0,,,,,,0.0,208.0,77.0
+University of Manitoba,2018-06,LN,0.85,21.0,10.0,20.0,9.0,16.0,,,,6.0,5.0,0.0,269.0,66.0
+Beihang University,,,,,,,,,,,,,,,,
+Beijing Institute of Technology,2015-08,DE,0.98,39.0,27.0,16.0,23.0,28.0,,,20.0,12.0,,-35.0,178.0,63.0
+Jilin University (Changchun),2019-08,JP,0.96,87.0,57.0,,46.0,10.0,22.0,18.0,29.0,58.0,,-100.0,250.0,76.0
+Central South University - Changsha (Changsha),2018-09,JP,0.95,86.0,61.0,79.0,38.0,53.0,22.0,,,,,0.0,172.0,94.0
+Hunan University (Changsha),,,,,,,,,,,,,,,,
+Guangdong University of Technology (Guangzhou),2018-09,JP,0.95,86.0,62.0,61.0,38.0,26.0,,43.0,,,,0.0,171.0,95.0
+South China University of Technology,,,,,,,,,,,,,,,,
+Hefei University of Technology,2014-07,UK,0.98,90.0,27.0,72.0,87.0,51.0,,,,21.0,4.0,0.0,297.0,39.0
+Liaoning University of Technology (Jinzhou),2019-08,DE,0.97,38.0,35.0,35.0,31.0,35.0,19.0,,16.0,9.0,,-70.0,102.0,76.0
+Liaoning University of Technology (Jinzhou),2017-09,JP,0.92,83.0,20.0,70.0,42.0,56.0,18.0,27.0,46.0,18.0,3.0,0.0,563.0,20.0
+Guangxi Science and Technology University Lushan College,2019-08,DE,0.97,38.0,36.0,37.0,37.0,37.0,,,,,,0.0,93.0,167.0
+Tongji University (Shanghai),2019-08,JP,0.96,87.0,15.0,59.0,22.0,8.0,3.0,45.0,23.0,44.0,1.0,0.0,504.0,20.0
+Tongji University (Shanghai),2018-09,JP,0.95,86.0,10.0,54.0,13.0,3.0,,25.0,17.0,9.0,3.0,0.0,678.0,17.0
+Tongji University (Shanghai),2017-09,JP,0.92,83.0,37.0,67.0,20.0,15.0,1.0,23.0,21.0,,,0.0,396.0,54.0
+Tongji University (Shanghai),2015-09,JP,0.95,75.0,75.0,64.0,4.0,46.0,,,,,,0.0,19.0,91.0
+Hubei University of Automotive Technology,2018-08,DE,0.98,39.0,36.0,34.0,34.0,37.0,,,,,,-20.0,96.0,139.0
+Harbin Institute of Technology at Weihai,2019-08,JP,0.96,87.0,68.0,73.0,79.0,25.0,,,,,,-10.0,101.0,165.0
+Harbin Institute of Technology at Weihai,2016-09,JP,0.94,83.0,54.0,57.0,18.0,20.0,,,,,,0.0,154.0,83.0
+Harbin Institute of Technology at Weihai,2014-09,JP,0.93,75.0,60.0,64.0,38.0,32.0,,,,,,0.0,116.0,70.0
+Xiamen University of Technology,,,,,,,,,,,,,,,,
+University of Split,,,,,,,,,,,,,,,,
+University of Zagreb,2019-08,AT,0.95,24.0,19.0,5.0,6.0,16.0,,,,,,-45.0,186.0,94.0
+Brno University of Technology,,,,,,,,,,,,,,,,
+University of West Bohemia (Plzen),,,,,,,,,,,,,,,,
+Czech Technical University in Prague,2019-08,ES,0.95,39.0,23.0,,6.0,14.0,6.0,,12.0,,,0.0,259.0,47.0
+Czech Technical University in Prague,2019-08,CZ,0.85,15.0,2.0,5.0,3.0,7.0,1.0,2.0,2.0,2.0,5.0,0.0,789.0,29.0
+Czech Technical University in Prague,2019-07,IT,0.85,25.0,24.0,21.0,23.0,4.0,,,,,,-60.0,148.0,63.0
+Czech Technical University in Prague,2018-07,EA,0.88,16.0,7.0,6.0,1.0,7.0,4.0,5.0,5.0,,,0.0,395.0,28.0
+Czech Technical University in Prague,2017-08,CZ,0.86,14.0,3.0,6.0,1.0,6.0,5.0,5.0,4.0,2.0,7.0,0.0,829.0,16.0
+Czech Technical University in Prague,2017-07,EA,0.99,38.0,12.0,22.0,11.0,25.0,,9.0,7.0,13.0,5.0,0.0,528.0,31.0
+Czech Technical University in Prague,2016-08,CZ,0.85,10.0,8.0,4.0,3.0,3.0,2.0,4.0,,,,0.0,366.0,35.0
+Czech Technical University in Prague,2015-09,IT,0.85,20.0,11.0,8.0,9.0,5.0,5.0,4.0,8.0,13.0,,-75.0,344.0,22.0
+Czech Technical University in Prague,2015-09,CZ,0.85,13.0,2.0,4.0,13.0,3.0,4.0,1.0,1.0,2.0,9.0,0.0,839.0,12.0
+Czech Technical University in Prague,2015-08,HU,0.9,37.0,28.0,25.0,27.0,28.0,14.0,13.0,10.0,,,-15.0,352.0,25.0
+Czech Technical University in Prague,2014-09,IT,0.85,20.0,2.0,10.0,6.0,5.0,9.0,3.0,4.0,2.0,8.0,-90.0,728.0,21.0
+Czech Technical University in Prague,2014-08,HU,0.9,38.0,33.0,33.0,24.0,23.0,,,,,,0.0,180.0,42.0
+Czech Technical University in Prague,2013-09,IT,0.95,24.0,11.0,11.0,19.0,7.0,12.0,14.0,12.0,9.0,,0.0,495.0,29.0
+Czech Technical University in Prague,2013-08,AT,0.97,39.0,33.0,37.0,38.0,16.0,30.0,,35.0,19.0,,-10.0,205.0,31.0
+Czech Technical University in Prague,2013-08,HU,0.92,37.0,26.0,27.0,34.0,19.0,28.0,16.0,27.0,,,0.0,309.0,27.0
+Czech Technical University in Prague,2012-09,IT,0.85,17.0,8.0,13.0,16.0,11.0,10.0,9.0,9.0,8.0,8.0,0.0,555.0,14.0
+Czech Technical University in Prague,2012-08,HU,0.91,39.0,19.0,37.0,38.0,24.0,31.0,18.0,25.0,14.0,6.0,0.0,472.0,14.0
+Technical University of Denmark (Kgs. Lyngby),,,,,,,,,,,,,,,,
+University of Southern Denmark (Odense),2019-07,UK,0.85,64.0,51.0,44.0,49.0,49.0,,,,,,0.0,136.0,149.0
+University of Southern Denmark (Odense),2018-07,UK,0.88,70.0,48.0,49.0,21.0,49.0,35.0,30.0,37.0,47.0,,-14.0,166.0,102.0
+University of Southern Denmark (Odense),2017-07,UK,0.85,62.0,37.0,13.0,34.0,32.0,,,,,,0.0,186.0,93.0
+University of Southern Denmark (Odense),2016-07,UK,0.98,106.0,97.0,77.0,85.0,50.0,,,,,,-50.0,98.0,64.0
+University of Southern Denmark (Odense),2014-09,IT,0.85,20.0,13.0,3.0,8.0,12.0,,8.0,14.0,10.0,,0.0,285.0,48.0
+University of Southern Denmark (Odense),2014-07,UK,0.98,90.0,53.0,61.0,65.0,40.0,,,,24.0,,0.0,190.0,40.0
+University of Southern Denmark (Odense),2013-08,HU,0.92,37.0,24.0,8.0,18.0,33.0,25.0,11.0,26.0,,,0.0,344.0,25.0
+University of Southern Denmark (Odense),2013-08,DE,1.0,40.0,10.0,2.0,10.0,18.0,,18.0,15.0,9.0,4.0,0.0,540.0,18.0
+University of Southern Denmark (Odense),2013-07,UK,0.97,83.0,43.0,42.0,23.0,27.0,,45.0,40.0,,,0.0,272.0,33.0
+University of Southern Denmark (Odense),2012-08,DE,0.99,32.0,16.0,22.0,32.0,28.0,12.0,22.0,18.0,11.0,14.0,0.0,321.0,19.0
+Universidad de las Fuerzas Armadas - ESPE (Latacunga),,,,,,,,,,,,,,,,
+Ain Shams University (Cairo),2019-07,UK,0.85,64.0,37.0,6.0,18.0,44.0,,,,,,-10.0,204.0,97.0
+Cairo University (Giza),2019-07,UK,0.85,64.0,35.0,11.0,34.0,20.0,,,,,,0.0,223.0,86.0
+German University in Cairo,,,,,,,,,,,,,,,,
+Tallinn TU UAS,2019-08,ES,0.95,39.0,5.0,28.0,11.0,7.0,11.0,8.0,5.0,4.0,9.0,0.0,705.0,8.0
+Tallinn TU UAS,2019-08,AT,0.95,24.0,3.0,3.0,15.0,14.0,2.0,3.0,6.0,3.0,5.0,0.0,771.0,9.0
+Tallinn TU UAS,2019-07,IT,0.85,25.0,4.0,6.0,4.0,1.0,2.0,1.0,1.0,9.0,,-10.0,591.0,19.0
+Tallinn TU UAS,2019-07,EA,0.92,20.0,4.0,10.0,13.0,8.0,,,3.0,2.0,6.0,0.0,700.0,14.0
+Tallinn TU UAS,2018-08,DE,0.98,39.0,15.0,10.0,9.0,7.0,8.0,7.0,11.0,,,0.0,435.0,16.0
+Tallinn TU UAS,2018-08,AT,0.97,19.0,9.0,6.0,9.0,3.0,2.0,5.0,8.0,,,0.0,472.0,11.0
+Tallinn TU UAS,2018-07,EA,0.88,16.0,2.0,1.0,8.0,3.0,2.0,2.0,3.0,2.0,3.0,0.0,895.0,3.0
+Tallinn TU UAS,2018-07,IT,0.85,18.0,1.0,6.0,11.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,958.0,4.0
+Tallinn TU UAS,2017-08,CZ,0.86,14.0,2.0,8.0,8.0,3.0,1.0,1.0,3.0,3.0,5.0,0.0,872.0,9.0
+Tallinn TU UAS,2017-07,EA,0.99,38.0,5.0,21.0,27.0,24.0,2.0,5.0,8.0,4.0,8.0,0.0,750.0,15.0
+Tallinn TU UAS,2016-08,ES,0.97,29.0,13.0,9.0,13.0,13.0,9.0,5.0,10.0,13.0,3.0,0.0,528.0,24.0
+Tallinn TU UAS,2016-07,UK,0.98,106.0,36.0,35.0,66.0,23.0,,,32.0,33.0,9.0,-10.0,369.0,27.0
+Tallinn TU UAS,2015-09,CZ,0.85,13.0,6.0,6.0,7.0,6.0,9.0,4.0,8.0,6.0,6.0,0.0,497.0,22.0
+Tallinn TU UAS,2015-08,ES,0.97,30.0,23.0,26.0,17.0,10.0,,,,,,0.0,196.0,19.0
+Tallinn TU UAS,2014-09,IT,0.85,20.0,1.0,9.0,2.0,3.0,2.0,4.0,1.0,1.0,6.0,0.0,924.0,4.0
+Tallinn TU UAS,2014-08,HU,0.9,38.0,17.0,17.0,7.0,13.0,8.0,12.0,7.0,22.0,7.0,0.0,560.0,10.0
+Tallinn TU UAS,2014-08,AT,0.97,18.0,5.0,6.0,5.0,9.0,10.0,3.0,8.0,6.0,2.0,-10.0,631.0,6.0
+Tallinn TU UAS,2013-08,HU,0.92,37.0,15.0,9.0,11.0,17.0,2.0,17.0,7.0,,,0.0,475.0,16.0
+Aalto University (Espoo),,,,,,,,,,,,,,,,
+Helsinki Metropolia University of Applied Sciences,2019-08,CZ,0.85,15.0,3.0,4.0,5.0,9.0,5.0,4.0,4.0,3.0,3.0,0.0,721.0,33.0
+Helsinki Metropolia University of Applied Sciences,2019-08,DE,0.97,38.0,18.0,26.0,22.0,19.0,10.0,15.0,15.0,,,-35.0,277.0,55.0
+Helsinki Metropolia University of Applied Sciences,2019-07,IT,0.85,25.0,5.0,7.0,6.0,9.0,1.0,3.0,3.0,11.0,,0.0,499.0,47.0
+Helsinki Metropolia University of Applied Sciences,2019-07,EA,0.92,20.0,11.0,17.0,15.0,17.0,5.0,4.0,9.0,,,0.0,327.0,60.0
+Helsinki Metropolia University of Applied Sciences,2018-08,ES,0.97,38.0,26.0,37.0,33.0,29.0,18.0,17.0,18.0,,,0.0,202.0,49.0
+Helsinki Metropolia University of Applied Sciences,2017-08,CZ,0.86,14.0,6.0,9.0,12.0,12.0,5.0,6.0,5.0,6.0,2.0,0.0,615.0,31.0
+Helsinki Metropolia University of Applied Sciences,2017-07,EA,0.99,38.0,15.0,26.0,31.0,33.0,17.0,,24.0,12.0,2.0,0.0,390.0,34.0
+Helsinki Metropolia University of Applied Sciences,2015-08,HU,0.9,37.0,19.0,26.0,22.0,30.0,26.0,26.0,28.0,15.0,1.0,-10.0,496.0,30.0
+Helsinki Metropolia University of Applied Sciences,2015-08,AT,0.96,18.0,13.0,9.0,18.0,15.0,15.0,9.0,10.0,13.0,1.0,0.0,455.0,35.0
+Helsinki Metropolia University of Applied Sciences,2015-08,DE,0.98,39.0,18.0,28.0,34.0,27.0,11.0,,,,4.0,-35.0,249.0,57.0
+Helsinki Metropolia University of Applied Sciences,2015-07,UK,0.94,92.0,78.0,63.0,,24.0,,,,,,-30.0,107.0,65.0
+Helsinki Metropolia University of Applied Sciences,2013-08,AT,0.97,39.0,27.0,12.0,26.0,23.0,,,30.0,19.0,,0.0,275.0,37.0
+Helsinki Metropolia University of Applied Sciences,2013-08,HU,0.92,37.0,31.0,20.0,26.0,9.0,,,,,,0.0,251.0,40.0
+ESTACA - West (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),2018-07,IT,0.85,18.0,15.0,16.0,17.0,17.0,,,,,,0.0,131.0,133.0
+ESTACA - West (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),2016-07,IT,0.85,20.0,20.0,,20.0,20.0,,,,,,-20.0,22.0,98.0
+University of Burgundy - ISAT (Nevers),2019-07,NL,0.89,21.0,20.0,21.0,18.0,20.0,,,,,,-5.0,101.0,152.0
+EPF Ecole d'ingénieur-e-s Paris (Sceaux),,,,,,,,,,,,,,,,
+Rheinisch-Westfälische Technische Hochschule Aachen,2019-08,DE,0.97,38.0,4.0,10.0,2.0,7.0,6.0,19.0,9.0,3.0,5.0,0.0,700.0,22.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2019-08,AT,0.95,24.0,13.0,18.0,7.0,4.0,,,,,,-13.0,246.0,45.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2019-07,EA,0.92,20.0,5.0,5.0,2.0,4.0,6.0,9.0,7.0,6.0,5.0,0.0,662.0,34.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2018-08,DE,0.98,39.0,20.0,12.0,7.0,11.0,,,13.0,,,-30.0,273.0,46.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2018-08,AT,0.97,19.0,13.0,11.0,14.0,8.0,9.0,7.0,9.0,,,0.0,413.0,33.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2018-07,EA,0.88,16.0,4.0,5.0,4.0,5.0,5.0,7.0,6.0,5.0,2.0,0.0,699.0,32.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2017-08,AT,0.92,19.0,11.0,9.0,3.0,5.0,,,,,,-30.0,246.0,47.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2017-07,EA,0.99,38.0,25.0,18.0,4.0,13.0,,,,,,0.0,266.0,38.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2016-08,DE,1.0,37.0,12.0,7.0,9.0,5.0,9.0,13.0,13.0,,,0.0,390.0,18.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2016-08,AT,0.99,18.0,10.0,6.0,8.0,4.0,6.0,,11.0,13.0,2.0,0.0,477.0,17.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2016-07,UK,0.98,106.0,16.0,7.0,77.0,15.0,13.0,17.0,15.0,35.0,6.0,0.0,532.0,14.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2015-08,AT,0.96,18.0,6.0,9.0,1.0,12.0,10.0,5.0,11.0,8.0,6.0,0.0,640.0,11.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2015-08,DE,0.98,39.0,9.0,19.0,11.0,19.0,6.0,9.0,19.0,11.0,3.0,-5.0,530.0,15.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2015-07,UK,0.94,92.0,19.0,43.0,10.0,16.0,,9.0,36.0,17.0,5.0,-30.0,498.0,25.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2014-08,DE,1.0,39.0,19.0,9.0,4.0,14.0,,13.0,,,,0.0,280.0,40.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2011-08,DE,0.98,28.0,28.0,,24.0,,,,,,,0.0,46.0,35.0
+Rheinisch-Westfälische Technische Hochschule Aachen,2010-08,DE,1.0,15.0,10.0,10.0,9.0,9.0,7.0,6.0,,,,0.0,229.0,10.0
+Hochschule Aalen - Technik und Wirtschaft,2019-08,AT,0.95,24.0,15.0,9.0,11.0,19.0,,,9.0,,,0.0,209.0,79.0
+Hochschule Aalen - Technik und Wirtschaft,2019-07,IT,0.85,25.0,8.0,1.0,21.0,10.0,,,7.0,11.0,,0.0,292.0,77.0
+Hochschule Aalen - Technik und Wirtschaft,2018-08,DE,0.98,39.0,27.0,25.0,12.0,31.0,,,,,,-10.0,168.0,72.0
+Hochschule Aalen - Technik und Wirtschaft,2018-08,AT,0.97,19.0,17.0,15.0,7.0,16.0,,,,,,-5.0,228.0,65.0
+Hochschule Aalen - Technik und Wirtschaft,2017-08,AT,0.92,19.0,13.0,7.0,15.0,13.0,,,7.0,,,-10.0,210.0,62.0
+Hochschule Aalen - Technik und Wirtschaft,2017-07,IT,0.85,18.0,7.0,14.0,11.0,4.0,6.0,5.0,5.0,8.0,,0.0,440.0,60.0
+Hochschule Aalen - Technik und Wirtschaft,2016-08,DE,1.0,37.0,35.0,33.0,26.0,12.0,,,,,,-70.0,115.0,61.0
+Hochschule Aalen - Technik und Wirtschaft,2016-08,AT,0.99,18.0,17.0,14.0,15.0,15.0,,,12.0,15.0,,0.0,218.0,55.0
+Hochschule Aalen - Technik und Wirtschaft,2015-09,IT,0.85,20.0,9.0,16.0,4.0,17.0,8.0,3.0,6.0,8.0,2.0,-70.0,393.0,52.0
+Hochschule Aalen - Technik und Wirtschaft,2015-08,DE,0.98,39.0,33.0,24.0,24.0,31.0,,,,,,-35.0,132.0,66.0
+Hochschule Aalen - Technik und Wirtschaft,2014-09,IT,0.85,20.0,12.0,15.0,15.0,15.0,8.0,12.0,9.0,11.0,,0.0,293.0,58.0
+Hochschule Aalen - Technik und Wirtschaft,2013-09,IT,0.95,24.0,21.0,23.0,23.0,18.0,16.0,14.0,,16.0,,0.0,129.0,67.0
+Hochschule Aalen - Technik und Wirtschaft,2012-09,IT,0.85,17.0,17.0,15.0,14.0,17.0,13.0,12.0,12.0,9.0,9.0,-50.0,7.0,63.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2019-08,ES,0.95,39.0,19.0,21.0,8.0,15.0,15.0,19.0,19.0,,,0.0,303.0,56.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2019-08,CZ,0.85,15.0,9.0,9.0,8.0,3.0,,,,,,0.0,280.0,40.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2019-08,DE,0.97,38.0,26.0,31.0,19.0,17.0,,,,,,-15.0,188.0,25.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2018-08,ES,0.97,38.0,3.0,15.0,16.0,11.0,7.0,12.0,4.0,4.0,13.0,0.0,766.0,2.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2018-08,DE,0.98,39.0,3.0,7.0,18.0,17.0,7.0,8.0,4.0,1.0,5.0,-10.0,837.0,2.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2017-08,DE,0.96,34.0,4.0,23.0,20.0,13.0,6.0,11.0,3.0,2.0,8.0,0.0,782.0,6.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2017-08,CZ,0.86,14.0,1.0,4.0,12.0,2.0,2.0,3.0,1.0,1.0,6.0,0.0,933.0,7.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2016-08,DE,1.0,37.0,4.0,25.0,27.0,15.0,8.0,8.0,2.0,3.0,8.0,0.0,758.0,5.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2016-08,CZ,0.85,10.0,5.0,2.0,7.0,1.0,1.0,1.0,1.0,,,0.0,560.0,20.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2016-07,UK,0.98,106.0,24.0,14.0,68.0,7.0,4.0,13.0,4.0,,,0.0,487.0,19.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2015-08,HU,0.9,37.0,3.0,8.0,12.0,18.0,21.0,4.0,5.0,7.0,5.0,0.0,753.0,18.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2015-08,DE,0.98,39.0,24.0,21.0,16.0,31.0,,,,,,0.0,184.0,32.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2015-07,UK,0.94,92.0,16.0,23.0,42.0,12.0,7.0,3.0,9.0,29.0,4.0,0.0,549.0,21.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2014-08,AT,0.97,18.0,15.0,18.0,9.0,10.0,17.0,18.0,11.0,16.0,,0.0,286.0,23.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2014-08,DE,1.0,39.0,17.0,21.0,17.0,16.0,17.0,14.0,16.0,,,0.0,281.0,12.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2013-08,DE,1.0,40.0,6.0,6.0,17.0,18.0,18.0,13.0,8.0,4.0,11.0,0.0,641.0,4.0
+Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2013-07,UK,0.97,83.0,7.0,57.0,50.0,22.0,28.0,20.0,35.0,7.0,5.0,0.0,656.0,6.0
+Hochschule für angewandte Wissenschaften Augsburg,2019-07,NL,0.89,21.0,12.0,18.0,9.0,14.0,4.0,,8.0,,,0.0,243.0,88.0
+Hochschule für angewandte Wissenschaften Augsburg,2017-08,DE,0.96,34.0,29.0,31.0,29.0,30.0,,,16.0,,,5.0,146.0,73.0
+Hochschule für angewandte Wissenschaften Augsburg,2017-08,AT,0.92,19.0,15.0,18.0,17.0,12.0,,,,,,0.0,167.0,65.0
+Hochschule für angewandte Wissenschaften Augsburg,2016-08,DE,1.0,37.0,30.0,35.0,23.0,15.0,,,,,,-20.0,159.0,43.0
+Hochschule für angewandte Wissenschaften Augsburg,2015-08,AT,0.96,18.0,14.0,13.0,6.0,16.0,8.0,12.0,14.0,14.0,10.0,0.0,451.0,19.0
+Hochschule für angewandte Wissenschaften Augsburg,2015-08,DE,0.98,39.0,10.0,23.0,19.0,11.0,13.0,6.0,18.0,10.0,5.0,-35.0,499.0,20.0
+Hochschule für angewandte Wissenschaften Augsburg,2014-08,AT,0.97,18.0,17.0,16.0,9.0,16.0,6.0,14.0,10.0,7.0,,-70.0,270.0,32.0
+Hochschule für angewandte Wissenschaften Augsburg,2014-08,DE,1.0,39.0,12.0,10.0,14.0,22.0,,6.0,18.0,,9.0,0.0,363.0,25.0
+Hochschule für angewandte Wissenschaften Augsburg,2013-09,IT,0.95,24.0,13.0,15.0,10.0,12.0,6.0,12.0,14.0,13.0,1.0,0.0,467.0,33.0
+Hochschule für angewandte Wissenschaften Augsburg,2013-08,DE,1.0,40.0,22.0,17.0,19.0,26.0,8.0,19.0,18.0,,,0.0,305.0,37.0
+Hochschule für angewandte Wissenschaften Augsburg,2012-08,DE,0.99,32.0,31.0,31.0,31.0,31.0,,,,,,0.0,91.0,51.0
+Universität Bayreuth,2019-08,CZ,0.85,15.0,4.0,3.0,8.0,5.0,7.0,6.0,6.0,4.0,4.0,0.0,688.0,42.0
+Universität Bayreuth,2019-08,DE,0.97,38.0,16.0,5.0,23.0,24.0,16.0,21.0,13.0,,,0.0,292.0,74.0
+Universität Bayreuth,2019-07,NL,0.89,21.0,11.0,16.0,17.0,14.0,7.0,,7.0,5.0,,0.0,247.0,80.0
+Universität Bayreuth,2017-08,DE,0.96,34.0,23.0,17.0,11.0,22.0,,,,,,24.0,194.0,54.0
+Universität Bayreuth,2016-08,DE,1.0,37.0,27.0,18.0,29.0,32.0,,,,,,0.0,170.0,41.0
+Universität Bayreuth,2016-08,AT,0.99,18.0,18.0,15.0,17.0,17.0,,,,,,0.0,150.0,30.0
+Universität Bayreuth,2015-09,CZ,0.85,13.0,1.0,2.0,2.0,4.0,2.0,3.0,2.0,1.0,7.0,0.0,859.0,7.0
+Universität Bayreuth,2015-08,AT,0.96,18.0,7.0,12.0,3.0,13.0,9.0,17.0,8.0,6.0,4.0,0.0,633.0,13.0
+Universität Bayreuth,2015-08,DE,0.98,39.0,7.0,14.0,12.0,23.0,19.0,14.0,10.0,7.0,1.0,0.0,583.0,16.0
+Universität Bayreuth,2014-08,AT,0.97,18.0,10.0,4.0,13.0,15.0,8.0,11.0,16.0,15.0,,0.0,335.0,28.0
+Universität Bayreuth,2014-08,DE,1.0,39.0,25.0,23.0,15.0,26.0,,,12.0,,,0.0,230.0,20.0
+Universität Bayreuth,2013-08,AT,0.97,39.0,13.0,25.0,15.0,19.0,11.0,17.0,22.0,14.0,3.0,0.0,571.0,14.0
+Universität Bayreuth,2013-08,DE,1.0,40.0,12.0,34.0,4.0,8.0,7.0,15.0,16.0,,12.0,0.0,442.0,21.0
+Universität Bayreuth,2012-08,DE,0.99,32.0,13.0,11.0,22.0,24.0,21.0,9.0,13.0,10.0,11.0,0.0,406.0,17.0
+Universität Bayreuth,2011-08,DE,0.98,28.0,16.0,14.0,14.0,11.0,,,,,,0.0,210.0,19.0
+Berlin School of Economics,,,,,,,,,,,,,,,,
+Technische Universität Berlin,2019-08,CZ,0.85,15.0,12.0,1.0,7.0,14.0,,,,,,0.0,226.0,106.0
+Technische Universität Berlin,2019-08,DE,0.97,38.0,28.0,16.0,25.0,30.0,,,,,,-10.0,180.0,121.0
+Technische Universität Berlin,2019-07,EA,0.92,20.0,19.0,16.0,12.0,20.0,,,,,,0.0,174.0,137.0
+Technische Universität Berlin,2018-08,DE,0.98,39.0,39.0,37.0,39.0,31.0,,,,,,-59.0,50.0,152.0
+Technische Universität Berlin,2010-08,DE,1.0,15.0,9.0,11.0,4.0,5.0,,,,,,0.0,229.0,9.0
+Ruhr-Universität Bochum,,,,,,,,,,,,,,,,
+Technische Universität Braunschweig,2019-08,DE,0.97,38.0,33.0,24.0,36.0,27.0,,,17.0,,,-15.0,163.0,117.0
+Technische Universität Braunschweig,2019-07,NL,0.89,21.0,18.0,20.0,7.0,17.0,12.0,7.0,,,,0.0,180.0,112.0
+Technische Universität Braunschweig,2018-08,DE,0.98,39.0,34.0,16.0,36.0,37.0,,,,,,-33.0,112.0,110.0
+Technische Universität Braunschweig,2017-08,DE,0.96,34.0,22.0,32.0,32.0,26.0,16.0,,10.0,,,5.0,200.0,82.0
+Technische Universität Braunschweig,2016-08,DE,1.0,37.0,34.0,30.0,31.0,37.0,,,,,,-10.0,130.0,74.0
+Technische Universität Braunschweig,2016-07,UK,0.98,106.0,77.0,69.0,91.0,50.0,,,,,,0.0,149.0,68.0
+Technische Universität Braunschweig,2015-09,CZ,0.85,13.0,12.0,7.0,10.0,10.0,,,,,,0.0,198.0,60.0
+Technische Universität Braunschweig,2015-08,ES,0.97,30.0,24.0,22.0,29.0,11.0,,,,,,0.0,176.0,56.0
+Technische Universität Braunschweig,2014-08,AT,0.97,18.0,12.0,12.0,14.0,18.0,12.0,12.0,13.0,7.0,,0.0,308.0,37.0
+Technische Universität Braunschweig,2014-08,DE,1.0,39.0,32.0,33.0,27.0,16.0,,,,,,0.0,187.0,41.0
+Technische Universität Braunschweig,2013-08,AT,0.97,39.0,19.0,29.0,18.0,18.0,8.0,18.0,15.0,17.0,1.0,0.0,440.0,27.0
+Technische Universität Braunschweig,2013-08,DE,1.0,40.0,19.0,14.0,30.0,18.0,6.0,14.0,14.0,,,0.0,339.0,31.0
+Technische Universität Braunschweig,2012-09,IT,0.85,17.0,13.0,8.0,14.0,4.0,,,,,,0.0,242.0,41.0
+Universität Bremen,2019-07,IT,0.85,25.0,17.0,11.0,15.0,20.0,,,11.0,6.0,,-50.0,175.0,132.0
+Universität Bremen,2018-08,DE,0.98,39.0,32.0,33.0,23.0,35.0,,,,,,0.0,146.0,124.0
+Universität Bremen,2017-08,DE,0.96,34.0,33.0,30.0,33.0,32.0,,,,,,84.0,37.0,124.0
+Universität Bremen,2017-07,IT,0.85,18.0,13.0,5.0,15.0,15.0,,,,,,0.0,167.0,100.0
+Universität Bremen,2016-08,ES,0.97,29.0,27.0,20.0,27.0,25.0,,,,,,0.0,153.0,81.0
+Universität Bremen,2015-08,DE,0.98,39.0,38.0,39.0,31.0,35.0,,,,,,-45.0,62.0,75.0
+Universität Bremen,2014-08,DE,1.0,39.0,36.0,26.0,34.0,31.0,20.0,,21.0,,,0.0,171.0,58.0
+Universität Bremen,2013-09,IT,0.95,24.0,18.0,19.0,17.0,20.0,,,,,,0.0,170.0,56.0
+Technische Universität Chemnitz,2019-08,DE,0.97,38.0,32.0,27.0,32.0,30.0,,,,,,0.0,166.0,126.0
+Technische Universität Chemnitz,2018-08,DE,0.98,39.0,33.0,35.0,26.0,31.0,,,,,,-20.0,121.0,122.0
+Technische Universität Clausthal,2019-08,CZ,0.85,15.0,5.0,13.0,4.0,10.0,6.0,7.0,7.0,5.0,2.0,0.0,495.0,73.0
+Technische Universität Clausthal,2019-08,AT,0.95,24.0,23.0,21.0,24.0,22.0,,,9.0,,,-22.0,121.0,128.0
+Technische Universität Clausthal,2018-08,DE,0.98,39.0,25.0,11.0,38.0,31.0,16.0,,22.0,,,0.0,202.0,77.0
+Technische Universität Clausthal,2017-08,AT,0.92,19.0,18.0,19.0,14.0,19.0,8.0,10.0,10.0,,,-50.0,135.0,77.0
+Technische Universität Clausthal,2015-09,IT,0.85,20.0,13.0,13.0,15.0,15.0,11.0,12.0,7.0,11.0,,0.0,321.0,56.0
+Technische Universität Clausthal,2015-09,CZ,0.85,13.0,11.0,9.0,10.0,7.0,8.0,6.0,9.0,,,-20.0,280.0,62.0
+Technische Universität Clausthal,2014-08,DE,1.0,39.0,39.0,39.0,39.0,39.0,,,,,,0.0,75.0,66.0
+Technische Universität Clausthal,2012-08,HU,0.91,39.0,33.0,33.0,8.0,20.0,,,,,,0.0,221.0,39.0
+Technische Universität Clausthal,2011-08,DE,0.98,28.0,24.0,22.0,18.0,25.0,,,,,,0.0,133.0,31.0
+"Hochschule Darmstadt, UAS",2013-08,AT,0.97,39.0,38.0,33.0,25.0,38.0,,,36.0,19.0,,-60.0,93.0,57.0
+"Hochschule Darmstadt, UAS",2013-08,DE,1.0,40.0,39.0,39.0,24.0,40.0,,,,,,0.0,124.0,54.0
+"Hochschule Darmstadt, UAS",2012-09,IT,0.85,17.0,14.0,11.0,10.0,14.0,,,,,,-50.0,144.0,50.0
+Technische Universität Darmstadt,2019-08,ES,0.95,39.0,18.0,24.0,16.0,16.0,8.0,20.0,20.0,13.0,,0.0,322.0,68.0
+Technische Universität Darmstadt,2019-08,DE,0.97,38.0,15.0,16.0,6.0,15.0,17.0,10.0,18.0,,,-5.0,302.0,69.0
+Technische Universität Darmstadt,2019-08,AT,0.95,24.0,18.0,12.0,20.0,18.0,,,9.0,,,0.0,197.0,70.0
+Technische Universität Darmstadt,2017-08,ES,0.97,30.0,15.0,6.0,13.0,15.0,15.0,2.0,16.0,,,0.0,391.0,38.0
+Technische Universität Darmstadt,2017-08,DE,0.96,34.0,19.0,8.0,24.0,6.0,,,,,,0.0,254.0,41.0
+Technische Universität Darmstadt,2017-07,EA,0.99,38.0,30.0,27.0,22.0,26.0,,,,,,0.0,211.0,37.0
+Technische Universität Darmstadt,2016-08,ES,0.97,29.0,9.0,17.0,16.0,17.0,,7.0,8.0,8.0,6.0,0.0,608.0,19.0
+Technische Universität Darmstadt,2016-08,DE,1.0,37.0,10.0,12.0,6.0,12.0,10.0,2.0,10.0,,,0.0,417.0,22.0
+Technische Universität Darmstadt,2016-07,UK,0.98,106.0,26.0,67.0,19.0,15.0,5.0,7.0,12.0,53.0,,0.0,445.0,20.0
+Technische Universität Darmstadt,2015-08,ES,0.97,30.0,5.0,11.0,4.0,7.0,9.0,3.0,8.0,6.0,3.0,0.0,625.0,16.0
+Technische Universität Darmstadt,2015-08,DE,0.98,39.0,28.0,22.0,26.0,11.0,,,,,,-35.0,168.0,25.0
+Technische Universität Darmstadt,2015-07,UK,0.94,92.0,10.0,17.0,9.0,12.0,5.0,30.0,23.0,12.0,6.0,-30.0,656.0,13.0
+Technische Universität Darmstadt,2014-09,IT,0.85,20.0,7.0,5.0,1.0,1.0,1.0,2.0,5.0,7.0,9.0,-40.0,592.0,20.0
+Technische Universität Darmstadt,2014-08,AT,0.97,18.0,8.0,8.0,6.0,4.0,5.0,10.0,9.0,12.0,7.0,0.0,495.0,16.0
+Technische Universität Darmstadt,2014-08,DE,1.0,39.0,15.0,7.0,9.0,5.0,11.0,3.0,,,,0.0,346.0,30.0
+Technische Universität Darmstadt,2014-07,UK,0.98,90.0,38.0,52.0,18.0,7.0,40.0,25.0,,33.0,,-20.0,256.0,33.0
+Technische Universität Darmstadt,2013-09,IT,0.95,24.0,12.0,14.0,7.0,4.0,10.0,6.0,10.0,12.0,11.0,0.0,483.0,24.0
+Technische Universität Darmstadt,2013-08,AT,0.97,39.0,23.0,27.0,13.0,15.0,,10.0,27.0,19.0,,0.0,334.0,23.0
+Technische Universität Darmstadt,2013-08,HU,0.92,37.0,13.0,19.0,21.0,3.0,11.0,3.0,8.0,,,0.0,508.0,20.0
+Technische Universität Darmstadt,2013-08,DE,1.0,40.0,17.0,31.0,14.0,5.0,,1.0,5.0,,,-10.0,371.0,23.0
+Technische Universität Darmstadt,2013-07,UK,0.97,83.0,48.0,18.0,46.0,13.0,,,,,,0.0,234.0,22.0
+Technische Universität Darmstadt,2012-09,IT,0.85,17.0,2.0,4.0,12.0,5.0,1.0,1.0,2.0,2.0,2.0,0.0,894.0,13.0
+Technische Universität Darmstadt,2012-08,DE,0.99,32.0,22.0,12.0,14.0,19.0,8.0,,,,,-10.0,237.0,30.0
+Technische Universität Darmstadt,2012-07,UK,0.95,97.0,51.0,42.0,31.0,27.0,,,,,,-4.0,200.0,25.0
+Technische Universität Darmstadt,2011-07,UK,0.85,10.0,7.0,11.0,12.0,4.0,,,5.0,7.0,,0.0,211.0,15.0
+Deggendorf Institute of Technology,2019-08,ES,0.95,39.0,31.0,11.0,30.0,35.0,,,,,,0.0,180.0,57.0
+Deggendorf Institute of Technology,2018-08,ES,0.97,38.0,15.0,23.0,13.0,31.0,12.0,19.0,13.0,14.0,12.0,0.0,437.0,28.0
+Deggendorf Institute of Technology,2018-08,DE,0.98,39.0,7.0,32.0,22.0,18.0,11.0,16.0,18.0,7.0,7.0,0.0,592.0,29.0
+Deggendorf Institute of Technology,2018-08,AT,0.97,19.0,8.0,16.0,16.0,19.0,10.0,15.0,13.0,6.0,6.0,0.0,539.0,40.0
+Deggendorf Institute of Technology,2017-08,CZ,0.86,14.0,8.0,3.0,5.0,7.0,7.0,6.0,9.0,,,0.0,340.0,48.0
+Deggendorf Institute of Technology,2016-08,ES,0.97,29.0,20.0,11.0,19.0,10.0,,10.0,17.0,,,0.0,300.0,44.0
+Deggendorf Institute of Technology,2016-08,DE,1.0,37.0,18.0,26.0,14.0,8.0,21.0,,23.0,,12.0,0.0,340.0,42.0
+Deggendorf Institute of Technology,2016-08,AT,0.99,18.0,15.0,13.0,10.0,14.0,,,13.0,12.0,,0.0,244.0,48.0
+Deggendorf Institute of Technology,2015-08,ES,0.97,30.0,16.0,18.0,19.0,20.0,18.0,7.0,14.0,,,0.0,250.0,35.0
+Deggendorf Institute of Technology,2015-08,AT,0.96,18.0,15.0,13.0,13.0,18.0,13.0,14.0,12.0,10.0,7.0,0.0,429.0,33.0
+Deggendorf Institute of Technology,2015-08,DE,0.98,39.0,29.0,35.0,22.0,19.0,,,,,,0.0,163.0,35.0
+Deggendorf Institute of Technology,2014-08,ES,0.96,23.0,12.0,19.0,11.0,10.0,14.0,10.0,14.0,8.0,15.0,0.0,493.0,21.0
+Deggendorf Institute of Technology,2014-08,AT,0.97,18.0,13.0,10.0,8.0,12.0,15.0,16.0,17.0,7.0,,0.0,292.0,29.0
+Deggendorf Institute of Technology,2014-08,DE,1.0,39.0,21.0,36.0,18.0,11.0,20.0,8.0,21.0,10.0,,0.0,269.0,19.0
+Deggendorf Institute of Technology,2013-09,ES,0.85,16.0,7.0,14.0,10.0,5.0,12.0,4.0,12.0,4.0,5.0,0.0,576.0,19.0
+Deggendorf Institute of Technology,2013-08,DE,1.0,40.0,9.0,8.0,13.0,18.0,20.0,4.0,19.0,10.0,9.0,0.0,544.0,19.0
+Deggendorf Institute of Technology,2012-09,ES,0.85,13.0,7.0,10.0,10.0,9.0,10.0,8.0,9.0,6.0,,0.0,355.0,25.0
+Deggendorf Institute of Technology,2012-08,DE,0.99,32.0,24.0,19.0,13.0,14.0,21.0,,15.0,,,0.0,232.0,20.0
+Deggendorf Institute of Technology,2011-08,DE,0.98,28.0,10.0,7.0,4.0,11.0,8.0,5.0,6.0,,8.0,0.0,368.0,9.0
+Deggendorf Institute of Technology,2010-08,AT,0.93,27.0,14.0,23.0,18.0,18.0,26.0,11.0,26.0,14.0,1.0,0.0,482.0,6.0
+Deggendorf Institute of Technology,2010-08,DE,1.0,15.0,6.0,7.0,10.0,12.0,6.0,5.0,7.0,,1.0,0.0,351.0,6.0
+Fachhochschule für Wirtschaft und Technik,2019-08,ES,0.95,39.0,26.0,15.0,25.0,32.0,,,,13.0,,0.0,209.0,84.0
+Fachhochschule für Wirtschaft und Technik,2019-07,EA,0.92,20.0,15.0,12.0,5.0,19.0,11.0,13.0,13.0,,,0.0,236.0,81.0
+Fachhochschule für Wirtschaft und Technik,2018-08,DE,0.98,39.0,22.0,24.0,20.0,25.0,21.0,,,10.0,,0.0,212.0,82.0
+Fachhochschule für Wirtschaft und Technik,2017-08,DE,0.96,34.0,30.0,22.0,25.0,29.0,,,,,,35.0,138.0,87.0
+Fachhochschule für Wirtschaft und Technik,2016-08,ES,0.97,29.0,24.0,27.0,8.0,26.0,,,,,,0.0,169.0,59.0
+Fachhochschule für Wirtschaft und Technik,2016-07,IT,0.85,20.0,15.0,2.0,8.0,17.0,,,,,,0.0,232.0,56.0
+Fachhochschule für Wirtschaft und Technik,2014-09,IT,0.85,20.0,11.0,2.0,5.0,13.0,11.0,13.0,13.0,13.0,,0.0,307.0,51.0
+Fachhochschule für Wirtschaft und Technik,2013-08,DE,1.0,40.0,27.0,28.0,7.0,34.0,,20.0,21.0,,,0.0,206.0,36.0
+Fachhochschule für Wirtschaft und Technik,2012-08,DE,0.99,32.0,15.0,14.0,2.0,17.0,13.0,14.0,16.0,,,0.0,321.0,22.0
+Fachhochschule für Wirtschaft und Technik,2011-08,DE,0.98,28.0,11.0,5.0,21.0,8.0,9.0,12.0,,,4.0,0.0,299.0,13.0
+Fachhochschule für Wirtschaft und Technik,2010-08,DE,1.0,15.0,14.0,14.0,8.0,12.0,,,,,,0.0,164.0,14.0
+Technische Universität Dortmund,,,,,,,,,,,,,,,,
+Technische Universität Dresden,2019-08,ES,0.95,39.0,4.0,23.0,2.0,6.0,3.0,6.0,4.0,5.0,2.0,0.0,758.0,17.0
+Technische Universität Dresden,2019-08,DE,0.97,38.0,11.0,27.0,1.0,11.0,3.0,7.0,6.0,,,0.0,424.0,36.0
+Technische Universität Dresden,2019-08,AT,0.95,24.0,7.0,22.0,1.0,8.0,1.0,6.0,3.0,,,0.0,434.0,35.0
+Technische Universität Dresden,2019-07,NL,0.89,21.0,5.0,15.0,3.0,7.0,2.0,3.0,5.0,,,0.0,447.0,37.0
+Technische Universität Dresden,2018-08,ES,0.97,38.0,16.0,5.0,3.0,7.0,1.0,14.0,8.0,,,0.0,436.0,31.0
+Technische Universität Dresden,2018-08,DE,0.98,39.0,12.0,9.0,3.0,10.0,1.0,14.0,3.0,,,0.0,486.0,31.0
+Technische Universität Dresden,2018-08,AT,0.97,19.0,11.0,8.0,12.0,10.0,11.0,1.0,6.0,,,-10.0,426.0,30.0
+Technische Universität Dresden,2017-08,ES,0.97,30.0,7.0,22.0,1.0,20.0,9.0,17.0,8.0,8.0,1.0,0.0,649.0,21.0
+Technische Universität Dresden,2017-08,DE,0.96,34.0,14.0,9.0,2.0,19.0,10.0,10.0,9.0,,,0.0,393.0,29.0
+Technische Universität Dresden,2017-08,AT,0.92,19.0,4.0,5.0,10.0,17.0,9.0,8.0,,3.0,,0.0,477.0,29.0
+Technische Universität Dresden,2017-07,IT,0.85,18.0,6.0,2.0,1.0,9.0,2.0,3.0,8.0,,,0.0,447.0,29.0
+Technische Universität Dresden,2016-08,ES,0.97,29.0,6.0,14.0,5.0,19.0,10.0,19.0,6.0,7.0,9.0,0.0,630.0,18.0
+Technische Universität Dresden,2016-08,DE,1.0,37.0,15.0,14.0,4.0,28.0,13.0,3.0,12.0,,,-15.0,370.0,24.0
+Technische Universität Dresden,2016-07,IT,0.85,20.0,1.0,11.0,5.0,6.0,3.0,3.0,2.0,1.0,5.0,-10.0,892.0,23.0
+Technische Universität Dresden,2015-09,IT,0.85,20.0,14.0,,2.0,9.0,13.0,5.0,10.0,14.0,,-50.0,232.0,59.0
+Technische Universität Dresden,2015-08,DE,0.98,39.0,21.0,26.0,5.0,14.0,16.0,,20.0,,,-10.0,230.0,52.0
+Technische Universität Dresden,2015-07,UK,0.94,92.0,41.0,55.0,5.0,16.0,,,,25.0,,0.0,248.0,48.0
+Technische Universität Dresden,2014-08,AT,0.97,18.0,18.0,15.0,12.0,14.0,16.0,13.0,18.0,13.0,,0.0,250.0,40.0
+Technische Universität Dresden,2014-08,DE,1.0,39.0,31.0,19.0,23.0,31.0,,,,,,0.0,189.0,33.0
+Technische Universität Dresden,2014-07,UK,0.98,90.0,57.0,39.0,50.0,51.0,,,,,,0.0,178.0,23.0
+Technische Universität Dresden,2013-09,IT,0.95,24.0,7.0,10.0,12.0,7.0,3.0,7.0,13.0,10.0,7.0,0.0,593.0,9.0
+Technische Universität Dresden,2013-08,DE,1.0,40.0,5.0,34.0,25.0,10.0,5.0,2.0,10.0,5.0,5.0,0.0,670.0,6.0
+Technische Universität Dresden,2013-07,UK,0.97,83.0,5.0,44.0,14.0,34.0,3.0,22.0,13.0,8.0,2.0,0.0,744.0,13.0
+Technische Universität Dresden,2012-08,DE,0.99,32.0,14.0,25.0,27.0,14.0,14.0,7.0,17.0,,1.0,0.0,388.0,21.0
+Technische Universität Dresden,2012-07,UK,0.95,97.0,48.0,44.0,68.0,12.0,,,,,,0.0,209.0,19.0
+Technische Universität Dresden,2011-08,DE,0.98,28.0,15.0,17.0,3.0,8.0,11.0,,,,,0.0,228.0,16.0
+Universität Duisburg-Essen,2019-08,CZ,0.85,15.0,14.0,11.0,11.0,13.0,,,,,,0.0,199.0,119.0
+Universität Duisburg-Essen,2019-07,IT,0.85,25.0,18.0,23.0,9.0,21.0,,,,,,0.0,165.0,117.0
+Universität Duisburg-Essen,2018-07,IT,0.85,18.0,13.0,9.0,11.0,16.0,,,,,,0.0,182.0,92.0
+Universität Duisburg-Essen,2017-08,ES,0.97,30.0,30.0,,25.0,,,,,,,0.0,49.0,89.0
+Universität Duisburg-Essen,2016-08,CZ,0.85,10.0,6.0,8.0,5.0,9.0,7.0,9.0,5.0,5.0,4.0,0.0,500.0,50.0
+Universität Duisburg-Essen,2016-07,EA,0.89,28.0,22.0,25.0,22.0,15.0,,,,,,0.0,128.0,84.0
+Universität Duisburg-Essen,2015-09,IT,0.85,20.0,16.0,17.0,18.0,13.0,,,,,,-50.0,132.0,78.0
+Universität Duisburg-Essen,2015-08,ES,0.97,30.0,29.0,29.0,26.0,28.0,,,,,,0.0,101.0,80.0
+Universität Duisburg-Essen,2013-08,DE,1.0,40.0,40.0,36.0,36.0,39.0,,,,,,0.0,121.0,57.0
+Universität Duisburg-Essen,2012-09,IT,0.85,17.0,16.0,15.0,12.0,16.0,,,,,,0.0,19.0,61.0
+Hochschule Düsseldorf,2017-07,IT,0.85,18.0,17.0,13.0,17.0,14.0,,,,,,-100.0,40.0,124.0
+Friedrich-Alexander-Universität Erlangen-Nürnberg,,,,,,,,,,,,,,,,
+Hochschule Esslingen,2019-08,ES,0.95,39.0,28.0,31.0,32.0,27.0,23.0,22.0,20.0,,,0.0,204.0,81.0
+Hochschule Esslingen,2019-08,CZ,0.85,15.0,10.0,12.0,14.0,8.0,8.0,9.0,9.0,,,0.0,275.0,62.0
+Hochschule Esslingen,2019-07,IT,0.85,25.0,11.0,8.0,18.0,3.0,,,,7.0,,0.0,260.0,50.0
+Hochschule Esslingen,2016-08,CZ,0.85,10.0,4.0,7.0,10.0,5.0,,5.0,7.0,1.0,6.0,0.0,638.0,14.0
+Hochschule Esslingen,2016-07,EA,0.89,28.0,7.0,10.0,5.0,4.0,14.0,7.0,4.0,4.0,3.0,-160.0,629.0,16.0
+Hochschule Esslingen,2016-07,IT,0.85,20.0,5.0,10.0,16.0,7.0,,,5.0,2.0,6.0,0.0,724.0,21.0
+Hochschule Esslingen,2016-07,UK,0.98,106.0,28.0,76.0,61.0,36.0,,,45.0,15.0,7.0,-30.0,441.0,30.0
+Hochschule Esslingen,2015-08,ES,0.97,30.0,15.0,19.0,25.0,6.0,12.0,15.0,14.0,,,0.0,265.0,30.0
+Hochschule Esslingen,2015-08,HU,0.9,37.0,15.0,29.0,12.0,18.0,,14.0,27.0,12.0,7.0,-5.0,585.0,20.0
+Hochschule Esslingen,2015-08,DE,0.98,39.0,34.0,30.0,39.0,31.0,14.0,,,,,-40.0,120.0,31.0
+Hochschule Esslingen,2014-08,ES,0.96,23.0,7.0,5.0,12.0,3.0,5.0,,,6.0,9.0,0.0,591.0,14.0
+Hochschule Esslingen,2014-08,HU,0.9,38.0,11.0,24.0,18.0,10.0,30.0,8.0,12.0,16.0,4.0,0.0,659.0,16.0
+Hochschule Esslingen,2013-09,IT,0.95,24.0,9.0,,13.0,16.0,5.0,8.0,8.0,7.0,12.0,0.0,526.0,32.0
+Hochschule Esslingen,2013-09,ES,0.85,16.0,13.0,,15.0,8.0,7.0,14.0,6.0,,,0.0,300.0,45.0
+Hochschule Esslingen,2013-08,DE,1.0,40.0,26.0,,39.0,38.0,14.0,16.0,21.0,,15.0,0.0,213.0,50.0
+Hochschule Esslingen,2012-09,IT,0.85,17.0,15.0,15.0,17.0,7.0,13.0,12.0,12.0,9.0,9.0,0.0,112.0,56.0
+Technische Universität Bergakademie Freiberg,2019-08,DE,0.97,38.0,3.0,14.0,21.0,11.0,11.0,12.0,4.0,2.0,4.0,0.0,712.0,3.0
+Technische Universität Bergakademie Freiberg,2019-08,AT,0.95,24.0,4.0,5.0,16.0,7.0,5.0,8.0,7.0,4.0,4.0,0.0,706.0,6.0
+Technische Universität Bergakademie Freiberg,2019-07,EA,0.92,20.0,3.0,8.0,11.0,11.0,8.0,8.0,6.0,4.0,4.0,0.0,716.0,8.0
+Technische Universität Bergakademie Freiberg,2018-08,ES,0.97,38.0,8.0,4.0,27.0,16.0,20.0,16.0,10.0,6.0,6.0,0.0,673.0,10.0
+Technische Universität Bergakademie Freiberg,2018-08,AT,0.97,19.0,2.0,2.0,6.0,13.0,5.0,11.0,12.0,1.0,4.0,-5.0,814.0,12.0
+Technische Universität Bergakademie Freiberg,2018-07,EA,0.88,16.0,3.0,2.0,5.0,6.0,7.0,4.0,4.0,3.0,4.0,0.0,785.0,27.0
+Technische Universität Bergakademie Freiberg,2017-08,ES,0.97,30.0,13.0,6.0,12.0,12.0,14.0,14.0,4.0,,,0.0,421.0,39.0
+Technische Universität Bergakademie Freiberg,2017-08,DE,0.96,34.0,20.0,13.0,22.0,26.0,11.0,,11.0,,,50.0,241.0,47.0
+Technische Universität Bergakademie Freiberg,2016-08,ES,0.97,29.0,15.0,19.0,20.0,15.0,17.0,9.0,7.0,,,0.0,354.0,36.0
+Technische Universität Bergakademie Freiberg,2016-08,DE,1.0,37.0,25.0,1.0,22.0,15.0,,,,,,-5.0,219.0,34.0
+Technische Universität Bergakademie Freiberg,2016-08,AT,0.99,18.0,16.0,5.0,12.0,11.0,,,,,,0.0,224.0,22.0
+Technische Universität Bergakademie Freiberg,2015-09,IT,0.85,20.0,3.0,1.0,6.0,7.0,9.0,9.0,,1.0,4.0,-20.0,724.0,6.0
+Technische Universität Bergakademie Freiberg,2015-08,ES,0.97,30.0,3.0,3.0,12.0,9.0,17.0,6.0,4.0,3.0,7.0,0.0,766.0,5.0
+Technische Universität Bergakademie Freiberg,2015-08,DE,0.98,39.0,5.0,17.0,9.0,6.0,18.0,2.0,9.0,5.0,7.0,-25.0,665.0,7.0
+Technische Universität Bergakademie Freiberg,2014-08,ES,0.96,23.0,4.0,7.0,5.0,4.0,13.0,3.0,7.0,5.0,6.0,0.0,721.0,7.0
+Technische Universität Bergakademie Freiberg,2014-08,AT,0.97,18.0,4.0,1.0,7.0,8.0,14.0,8.0,7.0,5.0,1.0,0.0,672.0,9.0
+Technische Universität Bergakademie Freiberg,2014-08,DE,1.0,39.0,22.0,5.0,6.0,8.0,,,,,,0.0,265.0,11.0
+Technische Universität Bergakademie Freiberg,2013-09,IT,0.95,24.0,5.0,3.0,5.0,6.0,8.0,9.0,8.0,6.0,4.0,0.0,688.0,8.0
+Technische Universität Bergakademie Freiberg,2013-09,ES,0.85,16.0,3.0,1.0,2.0,4.0,9.0,1.0,5.0,5.0,4.0,0.0,732.0,10.0
+Technische Universität Bergakademie Freiberg,2013-08,DE,1.0,40.0,23.0,4.0,5.0,5.0,,,,,,0.0,278.0,10.0
+Technische Universität Bergakademie Freiberg,2012-09,IT,0.85,17.0,4.0,3.0,3.0,2.0,4.0,6.0,7.0,5.0,6.0,0.0,795.0,4.0
+Technische Universität Bergakademie Freiberg,2012-08,HU,0.91,39.0,10.0,12.0,4.0,18.0,9.0,8.0,22.0,11.0,1.0,0.0,723.0,4.0
+Technische Universität Bergakademie Freiberg,2012-08,DE,0.99,32.0,5.0,8.0,12.0,6.0,,6.0,6.0,7.0,4.0,0.0,599.0,4.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,2019-08,DE,0.97,38.0,21.0,15.0,12.0,21.0,19.0,16.0,19.0,,,-5.0,248.0,66.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,2019-07,IT,0.85,25.0,9.0,3.0,3.0,6.0,,,,10.0,,0.0,286.0,58.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,2018-08,DE,0.98,39.0,11.0,19.0,17.0,15.0,19.0,19.0,22.0,9.0,3.0,0.0,499.0,44.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,2018-07,IT,0.85,18.0,6.0,1.0,2.0,6.0,7.0,9.0,9.0,4.0,,0.0,327.0,55.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,2017-08,DE,0.96,34.0,21.0,11.0,14.0,24.0,17.0,14.0,18.0,,,35.0,222.0,48.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,2017-07,IT,0.85,18.0,5.0,1.0,7.0,11.0,8.0,6.0,7.0,5.0,1.0,0.0,585.0,46.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,2016-08,DE,1.0,37.0,28.0,20.0,30.0,25.0,,,,,,-15.0,168.0,62.0
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,2016-07,IT,0.85,20.0,13.0,9.0,2.0,13.0,,,,,,0.0,240.0,59.0
+Helmut Schmidt Universität / Universität der Bundeswehr Hamburg,,,,,,,,,,,,,,,,
+Technische Universität Hamburg-Harburg,2019-08,ES,0.95,39.0,20.0,37.0,17.0,19.0,18.0,15.0,15.0,13.0,,0.0,284.0,44.0
+Technische Universität Hamburg-Harburg,2019-08,AT,0.95,24.0,5.0,11.0,14.0,15.0,9.0,7.0,8.0,5.0,1.0,-10.0,568.0,33.0
+Technische Universität Hamburg-Harburg,2019-07,EA,0.92,20.0,13.0,7.0,19.0,10.0,,12.0,8.0,,,0.0,302.0,42.0
+Technische Universität Hamburg-Harburg,2018-08,DE,0.98,39.0,17.0,3.0,37.0,18.0,13.0,15.0,8.0,,,0.0,378.0,30.0
+Technische Universität Hamburg-Harburg,2018-08,AT,0.97,19.0,1.0,8.0,18.0,5.0,6.0,6.0,7.0,2.0,7.0,0.0,826.0,17.0
+Technische Universität Hamburg-Harburg,2017-08,DE,0.96,34.0,10.0,28.0,16.0,24.0,14.0,15.0,8.0,9.0,9.0,20.0,479.0,36.0
+Technische Universität Hamburg-Harburg,2017-08,AT,0.92,19.0,10.0,7.0,12.0,14.0,7.0,11.0,8.0,,,0.0,273.0,54.0
+Technische Universität Hamburg-Harburg,2017-07,EA,0.99,38.0,29.0,28.0,17.0,20.0,,,,,,0.0,227.0,48.0
+Technische Universität Hamburg-Harburg,2016-08,DE,1.0,37.0,21.0,34.0,12.0,15.0,12.0,,18.0,,,0.0,290.0,29.0
+Technische Universität Hamburg-Harburg,2016-08,AT,0.99,18.0,9.0,16.0,16.0,11.0,7.0,11.0,7.0,10.0,1.0,0.0,551.0,24.0
+Technische Universität Hamburg-Harburg,2016-07,UK,0.98,106.0,14.0,42.0,51.0,36.0,8.0,16.0,,11.0,3.0,0.0,570.0,28.0
+Technische Universität Hamburg-Harburg,2015-09,IT,0.85,20.0,12.0,11.0,11.0,11.0,7.0,8.0,9.0,9.0,,-50.0,322.0,46.0
+Technische Universität Hamburg-Harburg,2015-08,HU,0.9,37.0,26.0,16.0,5.0,26.0,8.0,22.0,25.0,28.0,,0.0,384.0,43.0
+Technische Universität Hamburg-Harburg,2015-08,DE,0.98,39.0,26.0,27.0,6.0,19.0,,,,,,-20.0,182.0,54.0
+Technische Universität Hamburg-Harburg,2015-07,UK,0.94,92.0,66.0,45.0,72.0,24.0,,,,,,-50.0,140.0,51.0
+Technische Universität Hamburg-Harburg,2014-08,HU,0.9,38.0,25.0,19.0,4.0,26.0,14.0,18.0,30.0,24.0,2.0,0.0,467.0,30.0
+Technische Universität Hamburg-Harburg,2014-08,AT,0.97,18.0,14.0,14.0,16.0,13.0,9.0,17.0,15.0,7.0,,0.0,292.0,50.0
+Technische Universität Hamburg-Harburg,2014-08,DE,1.0,39.0,27.0,24.0,26.0,25.0,19.0,12.0,21.0,,,0.0,228.0,55.0
+Technische Universität Hamburg-Harburg,2013-08,DE,1.0,40.0,32.0,18.0,20.0,26.0,15.0,,,,,-60.0,181.0,49.0
+Technische Universität Hamburg-Harburg,2012-08,DE,0.99,32.0,26.0,17.0,23.0,18.0,21.0,,,,,-5.0,200.0,38.0
+Technische Universität Hamburg-Harburg,2012-07,UK,0.95,97.0,80.0,81.0,86.0,61.0,,,,,,0.0,121.0,39.0
+Leibniz Universität Hannover,2019-08,ES,0.95,39.0,24.0,30.0,28.0,23.0,14.0,17.0,,,,0.0,249.0,75.0
+Leibniz Universität Hannover,2019-08,AT,0.95,24.0,12.0,17.0,22.0,23.0,4.0,,9.0,6.0,,0.0,251.0,66.0
+Leibniz Universität Hannover,2019-07,NL,0.89,21.0,7.0,13.0,14.0,16.0,6.0,,10.0,4.0,3.0,0.0,390.0,58.0
+Leibniz Universität Hannover,2018-08,ES,0.97,38.0,17.0,20.0,18.0,20.0,17.0,22.0,20.0,15.0,1.0,0.0,436.0,54.0
+Leibniz Universität Hannover,2018-08,DE,0.98,39.0,26.0,22.0,28.0,23.0,,,22.0,,,-20.0,174.0,79.0
+Leibniz Universität Hannover,2018-07,EA,0.88,16.0,12.0,7.0,9.0,13.0,,,,,,0.0,177.0,76.0
+Leibniz Universität Hannover,2017-08,ES,0.97,30.0,21.0,29.0,9.0,25.0,7.0,18.0,,,,0.0,266.0,62.0
+Leibniz Universität Hannover,2017-08,DE,0.96,34.0,24.0,29.0,19.0,20.0,,,,,,5.0,189.0,68.0
+Leibniz Universität Hannover,2017-08,AT,0.92,19.0,14.0,17.0,13.0,15.0,,,,,,0.0,184.0,64.0
+Leibniz Universität Hannover,2016-08,ES,0.97,29.0,17.0,11.0,13.0,18.0,7.0,17.0,19.0,,,0.0,322.0,50.0
+Leibniz Universität Hannover,2016-08,DE,1.0,37.0,29.0,22.0,21.0,35.0,,,,,,0.0,159.0,58.0
+Leibniz Universität Hannover,2016-07,IT,0.85,20.0,11.0,13.0,6.0,3.0,,,,,,0.0,269.0,50.0
+Leibniz Universität Hannover,2015-09,CZ,0.85,13.0,7.0,8.0,4.0,7.0,1.0,7.0,3.0,,,0.0,421.0,41.0
+Leibniz Universität Hannover,2015-08,ES,0.97,30.0,20.0,21.0,13.0,18.0,,,11.0,,,0.0,224.0,55.0
+Leibniz Universität Hannover,2015-07,UK,0.94,92.0,53.0,42.0,58.0,16.0,,,,,,-20.0,188.0,50.0
+Leibniz Universität Hannover,2014-08,ES,0.96,23.0,19.0,11.0,21.0,6.0,,,,,,0.0,226.0,34.0
+Leibniz Universität Hannover,2014-08,DE,1.0,39.0,33.0,32.0,24.0,22.0,,,,,,0.0,186.0,21.0
+Leibniz Universität Hannover,2013-09,ES,0.85,16.0,2.0,6.0,11.0,7.0,2.0,9.0,4.0,2.0,7.0,0.0,765.0,15.0
+Leibniz Universität Hannover,2013-08,DE,1.0,40.0,7.0,37.0,9.0,14.0,,10.0,11.0,3.0,13.0,0.0,600.0,22.0
+Leibniz Universität Hannover,2013-07,UK,0.97,83.0,60.0,66.0,34.0,65.0,,,47.0,43.0,,0.0,165.0,45.0
+Leibniz Universität Hannover,2012-09,ES,0.85,13.0,8.0,2.0,9.0,7.0,4.0,7.0,7.0,,,0.0,344.0,34.0
+Leibniz Universität Hannover,2012-07,UK,0.95,97.0,72.0,50.0,71.0,53.0,,,,,,-2.0,158.0,35.0
+Leibniz Universität Hannover,2011-08,DE,0.98,28.0,25.0,24.0,16.0,22.0,,,,,,0.0,131.0,32.0
+Hochschule Heilbronn,,,,,,,,,,,,,,,,
+Hochschule für Angewandte Wissenschaften Hof,2019-07,IT,0.85,25.0,13.0,17.0,2.0,22.0,9.0,,,7.0,,0.0,226.0,103.0
+Hochschule für Angewandte Wissenschaften Hof,2019-07,NL,0.89,21.0,17.0,12.0,8.0,19.0,,,,,,0.0,189.0,122.0
+Hochschule für Angewandte Wissenschaften Hof,2017-08,CZ,0.86,14.0,14.0,13.0,14.0,14.0,9.0,11.0,9.0,,,0.0,180.0,116.0
+Hochschule für Angewandte Wissenschaften Hof,2017-07,IT,0.85,18.0,18.0,18.0,13.0,16.0,,,,,,-100.0,23.0,119.0
+Hochschule für Angewandte Wissenschaften Hof,2016-08,CZ,0.85,10.0,9.0,,9.0,10.0,7.0,7.0,,,,0.0,177.0,82.0
+Hochschule für Angewandte Wissenschaften Hof,2016-07,EA,0.89,28.0,24.0,,16.0,17.0,,,,,,-10.0,110.0,98.0
+Hochschule für Angewandte Wissenschaften Hof,2014-09,IT,0.85,20.0,20.0,,20.0,20.0,,,,,,-50.0,6.0,85.0
+Technische Universität Ilmenau,2018-08,DE,0.98,39.0,38.0,38.0,21.0,26.0,,,,,,-50.0,84.0,128.0
+Technische Universität Ilmenau,2016-08,DE,1.0,37.0,26.0,29.0,28.0,31.0,23.0,,22.0,,,0.0,190.0,55.0
+Technische Universität Ilmenau,2014-08,DE,1.0,39.0,14.0,38.0,36.0,20.0,,5.0,14.0,9.0,2.0,0.0,350.0,42.0
+Technische Universität Ilmenau,2013-08,DE,1.0,40.0,37.0,33.0,29.0,32.0,,,,,,-10.0,158.0,45.0
+Technische Universität Ilmenau,2012-09,IT,0.85,17.0,10.0,9.0,4.0,9.0,11.0,12.0,10.0,9.0,9.0,0.0,337.0,36.0
+Technische Universität Ilmenau,2012-07,UK,0.95,97.0,71.0,29.0,53.0,58.0,,,,,,-7.0,165.0,33.0
+Technische Hochschule Ingolstadt,2018-08,DE,0.98,39.0,30.0,17.0,29.0,26.0,,,,,,-20.0,159.0,80.0
+Technische Hochschule Ingolstadt,2017-08,DE,0.96,34.0,26.0,25.0,21.0,28.0,,,,,,15.0,160.0,64.0
+Technische Hochschule Ingolstadt,2017-08,AT,0.92,19.0,17.0,14.0,16.0,11.0,,,,,,-55.0,145.0,57.0
+Technische Hochschule Ingolstadt,2016-08,DE,1.0,37.0,23.0,37.0,16.0,32.0,23.0,,21.0,,9.0,-10.0,261.0,32.0
+Technische Hochschule Ingolstadt,2016-08,AT,0.99,18.0,12.0,10.0,18.0,16.0,13.0,12.0,14.0,8.0,9.0,0.0,412.0,26.0
+Technische Hochschule Ingolstadt,2016-07,IT,0.85,20.0,4.0,16.0,14.0,4.0,7.0,7.0,7.0,3.0,4.0,0.0,743.0,20.0
+Technische Hochschule Ingolstadt,2015-09,IT,0.85,20.0,6.0,12.0,14.0,10.0,10.0,7.0,4.0,6.0,8.0,-40.0,460.0,30.0
+Technische Hochschule Ingolstadt,2015-08,DE,0.98,39.0,31.0,29.0,30.0,28.0,,,,,,-15.0,136.0,28.0
+Technische Hochschule Ingolstadt,2014-09,IT,0.85,20.0,6.0,13.0,3.0,2.0,3.0,5.0,2.0,9.0,5.0,0.0,610.0,12.0
+Technische Hochschule Ingolstadt,2014-08,AT,0.97,18.0,6.0,17.0,18.0,11.0,13.0,9.0,6.0,4.0,3.0,0.0,603.0,8.0
+Technische Hochschule Ingolstadt,2014-08,DE,1.0,39.0,8.0,29.0,32.0,14.0,14.0,,9.0,8.0,6.0,0.0,418.0,7.0
+Technische Hochschule Ingolstadt,2013-09,IT,0.95,24.0,6.0,16.0,16.0,10.0,9.0,11.0,3.0,5.0,10.0,0.0,678.0,10.0
+Technische Hochschule Ingolstadt,2013-08,DE,1.0,40.0,15.0,16.0,32.0,14.0,16.0,9.0,9.0,12.0,,0.0,379.0,8.0
+Technische Hochschule Ingolstadt,2012-09,IT,0.85,17.0,5.0,12.0,11.0,10.0,7.0,8.0,3.0,3.0,3.0,0.0,777.0,9.0
+Technische Hochschule Ingolstadt,2012-08,DE,0.99,32.0,8.0,24.0,17.0,6.0,11.0,12.0,11.0,9.0,9.0,0.0,490.0,8.0
+Technische Universität Kaiserslautern,2019-08,ES,0.95,39.0,11.0,2.0,29.0,29.0,22.0,10.0,18.0,10.0,1.0,0.0,489.0,48.0
+Technische Universität Kaiserslautern,2019-07,EA,0.92,20.0,9.0,6.0,9.0,13.0,10.0,3.0,12.0,,,0.0,337.0,62.0
+Technische Universität Kaiserslautern,2019-07,NL,0.89,21.0,13.0,3.0,10.0,12.0,,,,,,0.0,240.0,65.0
+Technische Universität Kaiserslautern,2018-08,ES,0.97,38.0,14.0,1.0,21.0,22.0,19.0,21.0,20.0,12.0,2.0,0.0,500.0,46.0
+Technische Universität Kaiserslautern,2018-08,DE,0.98,39.0,23.0,13.0,13.0,18.0,,,,,,-10.0,210.0,65.0
+Technische Universität Kaiserslautern,2017-08,ES,0.97,30.0,24.0,6.0,3.0,26.0,,,21.0,,,0.0,230.0,51.0
+Technische Universität Kaiserslautern,2017-08,DE,0.96,34.0,11.0,18.0,26.0,15.0,15.0,16.0,17.0,10.0,1.0,5.0,422.0,45.0
+Technische Universität Kaiserslautern,2016-08,ES,0.97,29.0,21.0,21.0,24.0,21.0,14.0,14.0,19.0,,,0.0,272.0,57.0
+Technische Universität Kaiserslautern,2016-08,DE,1.0,37.0,36.0,31.0,37.0,25.0,,,,,,-35.0,110.0,73.0
+Technische Universität Kaiserslautern,2015-08,ES,0.97,30.0,22.0,14.0,18.0,15.0,20.0,20.0,14.0,,,0.0,215.0,60.0
+Technische Universität Kaiserslautern,2015-08,DE,0.98,39.0,35.0,34.0,33.0,23.0,,,,,,-35.0,116.0,64.0
+Technische Universität Kaiserslautern,2014-08,ES,0.96,23.0,18.0,8.0,16.0,13.0,,,14.0,,,0.0,231.0,52.0
+Technische Universität Kaiserslautern,2014-08,DE,1.0,39.0,30.0,15.0,30.0,16.0,,,,,,0.0,207.0,51.0
+Technische Universität Kaiserslautern,2013-09,ES,0.85,16.0,14.0,7.0,8.0,12.0,11.0,11.0,,,,0.0,299.0,44.0
+Technische Universität Kaiserslautern,2013-08,DE,1.0,40.0,30.0,22.0,22.0,28.0,,,,,,0.0,196.0,43.0
+Technische Universität Kaiserslautern,2012-08,DE,0.99,32.0,23.0,15.0,8.0,24.0,,20.0,,,,-5.0,232.0,31.0
+Technische Universität Kaiserslautern,2012-07,AT,0.95,37.0,31.0,35.0,32.0,32.0,,,26.0,,4.0,0.0,181.0,30.0
+Hochschule Karlsruhe - Technik und Wirtschaft,2011-08,DE,0.98,28.0,19.0,9.0,6.0,24.0,,,,,,0.0,182.0,24.0
+Karlsruhe Institute of Technology,2019-08,ES,0.95,39.0,7.0,11.0,27.0,2.0,4.0,3.0,17.0,11.0,6.0,0.0,598.0,16.0
+Karlsruhe Institute of Technology,2019-08,DE,0.97,38.0,2.0,5.0,3.0,3.0,2.0,5.0,8.0,4.0,2.0,0.0,760.0,17.0
+Karlsruhe Institute of Technology,2019-07,EA,0.92,20.0,12.0,4.0,8.0,2.0,,,,,,0.0,307.0,40.0
+Karlsruhe Institute of Technology,2018-08,ES,0.97,38.0,19.0,17.0,29.0,5.0,13.0,8.0,16.0,,,0.0,361.0,24.0
+Karlsruhe Institute of Technology,2018-08,DE,0.98,39.0,4.0,1.0,11.0,4.0,21.0,9.0,15.0,3.0,2.0,-5.0,791.0,9.0
+Karlsruhe Institute of Technology,2018-08,AT,0.97,19.0,16.0,13.0,15.0,5.0,,,14.0,,,-19.0,238.0,20.0
+Karlsruhe Institute of Technology,2017-08,ES,0.97,30.0,3.0,6.0,5.0,5.0,3.0,8.0,1.0,5.0,6.0,0.0,836.0,4.0
+Karlsruhe Institute of Technology,2017-08,DE,0.96,34.0,6.0,1.0,6.0,3.0,12.0,1.0,18.0,7.0,7.0,15.0,666.0,4.0
+Karlsruhe Institute of Technology,2017-08,AT,0.92,19.0,2.0,3.0,5.0,3.0,4.0,2.0,2.0,2.0,4.0,0.0,892.0,1.0
+Karlsruhe Institute of Technology,2017-07,EA,0.99,38.0,2.0,4.0,15.0,10.0,1.0,1.0,1.0,2.0,7.0,0.0,937.0,1.0
+Karlsruhe Institute of Technology,2016-08,ES,0.97,29.0,4.0,15.0,8.0,4.0,4.0,8.0,3.0,3.0,7.0,0.0,865.0,1.0
+Karlsruhe Institute of Technology,2016-08,DE,1.0,37.0,1.0,6.0,3.0,3.0,3.0,1.0,1.0,2.0,2.0,-5.0,918.0,1.0
+Karlsruhe Institute of Technology,2016-08,AT,0.99,18.0,2.0,9.0,1.0,6.0,3.0,6.0,2.0,3.0,7.0,0.0,866.0,2.0
+Karlsruhe Institute of Technology,2016-07,UK,0.98,106.0,18.0,26.0,19.0,3.0,1.0,2.0,5.0,64.0,,0.0,521.0,4.0
+Karlsruhe Institute of Technology,2015-08,ES,0.97,30.0,2.0,7.0,5.0,2.0,4.0,4.0,2.0,1.0,5.0,0.0,897.0,2.0
+Karlsruhe Institute of Technology,2015-08,HU,0.9,37.0,1.0,5.0,9.0,4.0,1.0,3.0,1.0,1.0,4.0,0.0,942.0,6.0
+Karlsruhe Institute of Technology,2015-08,DE,0.98,39.0,12.0,2.0,13.0,2.0,4.0,4.0,2.0,,,0.0,472.0,14.0
+Karlsruhe Institute of Technology,2015-07,UK,0.94,92.0,37.0,13.0,25.0,6.0,,,,41.0,,0.0,267.0,16.0
+Karlsruhe Institute of Technology,2014-08,ES,0.96,23.0,2.0,3.0,7.0,2.0,3.0,5.0,3.0,3.0,12.0,0.0,870.0,3.0
+Karlsruhe Institute of Technology,2014-08,HU,0.9,38.0,3.0,9.0,16.0,9.0,1.0,3.0,4.0,4.0,3.0,0.0,884.0,6.0
+Karlsruhe Institute of Technology,2014-08,DE,1.0,39.0,13.0,22.0,2.0,11.0,4.0,,8.0,,,0.0,353.0,17.0
+Karlsruhe Institute of Technology,2014-07,UK,0.98,90.0,47.0,41.0,51.0,21.0,,,,,,0.0,203.0,19.0
+Karlsruhe Institute of Technology,2013-08,AT,0.97,39.0,16.0,16.0,2.0,3.0,4.0,12.0,2.0,,8.0,-55.0,485.0,5.0
+Karlsruhe Institute of Technology,2013-08,HU,0.92,37.0,4.0,4.0,18.0,7.0,1.0,28.0,1.0,7.0,2.0,0.0,848.0,4.0
+Karlsruhe Institute of Technology,2013-08,DE,1.0,40.0,3.0,15.0,8.0,2.0,3.0,7.0,1.0,7.0,6.0,0.0,759.0,5.0
+Karlsruhe Institute of Technology,2013-07,UK,0.97,83.0,30.0,12.0,61.0,6.0,,3.0,,26.0,6.0,0.0,386.0,10.0
+Karlsruhe Institute of Technology,2012-09,ES,0.85,13.0,2.0,4.0,6.0,2.0,2.0,4.0,2.0,3.0,,0.0,827.0,4.0
+Karlsruhe Institute of Technology,2012-08,HU,0.91,39.0,2.0,13.0,26.0,8.0,3.0,2.0,4.0,5.0,4.0,0.0,838.0,5.0
+Karlsruhe Institute of Technology,2012-08,DE,0.99,32.0,9.0,10.0,3.0,9.0,5.0,4.0,3.0,,13.0,-10.0,459.0,9.0
+Karlsruhe Institute of Technology,2012-07,AT,0.95,37.0,20.0,8.0,9.0,16.0,14.0,,26.0,23.0,7.0,-5.0,440.0,6.0
+Karlsruhe Institute of Technology,2011-08,DE,0.98,28.0,5.0,16.0,1.0,4.0,,3.0,8.0,3.0,6.0,0.0,675.0,7.0
+Karlsruhe Institute of Technology,2010-08,DE,1.0,15.0,8.0,8.0,3.0,9.0,,,,,,0.0,233.0,8.0
+Universität Kassel,2019-08,DE,0.97,38.0,27.0,10.0,33.0,15.0,,,,,,-37.0,187.0,120.0
+Universität Kassel,2019-07,IT,0.85,25.0,19.0,18.0,19.0,18.0,,,,,,-20.0,159.0,146.0
+Universität Kassel,2018-07,IT,0.85,18.0,17.0,8.0,18.0,18.0,,,,,,-30.0,92.0,136.0
+UAS Kempten,,,,,,,,,,,,,,,,
+Fachhochschule Kiel,2019-08,ES,0.95,39.0,22.0,36.0,10.0,24.0,17.0,17.0,13.0,,,0.0,260.0,82.0
+Fachhochschule Kiel,2019-08,DE,0.97,38.0,29.0,30.0,14.0,34.0,19.0,17.0,19.0,,,-20.0,176.0,97.0
+Fachhochschule Kiel,2019-08,AT,0.95,24.0,21.0,19.0,10.0,21.0,,,9.0,,,-10.0,170.0,93.0
+Fachhochschule Kiel,2019-07,EA,0.92,20.0,17.0,11.0,9.0,16.0,,,,,,0.0,221.0,82.0
+Fachhochschule Kiel,2018-08,ES,0.97,38.0,25.0,8.0,7.0,30.0,,,,,,0.0,210.0,73.0
+Fachhochschule Kiel,2018-08,DE,0.98,39.0,29.0,21.0,16.0,21.0,,,,,,-45.0,161.0,73.0
+Fachhochschule Kiel,2017-08,ES,0.97,30.0,27.0,16.0,25.0,28.0,,,,,,0.0,192.0,60.0
+Fachhochschule Kiel,2017-08,CZ,0.86,14.0,12.0,9.0,5.0,10.0,,9.0,,,,0.0,264.0,54.0
+Fachhochschule Kiel,2017-07,IT,0.85,18.0,9.0,8.0,2.0,8.0,,,,7.0,,0.0,266.0,50.0
+Fachhochschule Kiel,2016-08,ES,0.97,29.0,18.0,16.0,8.0,28.0,,,19.0,12.0,14.0,0.0,319.0,31.0
+Fachhochschule Kiel,2016-08,CZ,0.85,10.0,2.0,3.0,6.0,8.0,4.0,6.0,3.0,2.0,5.0,0.0,772.0,30.0
+Fachhochschule Kiel,2016-07,IT,0.85,20.0,14.0,18.0,10.0,8.0,9.0,8.0,,10.0,,0.0,243.0,58.0
+Fachhochschule Kiel,2015-08,DE,0.98,39.0,30.0,18.0,25.0,38.0,,,17.0,,,-35.0,137.0,51.0
+Fachhochschule Kiel,2015-07,UK,0.94,92.0,52.0,31.0,64.0,24.0,,,,47.0,,-10.0,192.0,34.0
+Fachhochschule Kiel,2014-08,ES,0.96,23.0,10.0,15.0,15.0,17.0,6.0,7.0,9.0,9.0,3.0,0.0,535.0,19.0
+Fachhochschule Kiel,2014-08,DE,1.0,39.0,20.0,31.0,33.0,31.0,7.0,16.0,13.0,10.0,,0.0,273.0,29.0
+Fachhochschule Kiel,2014-07,UK,0.98,90.0,30.0,71.0,63.0,40.0,3.0,21.0,24.0,49.0,,0.0,294.0,22.0
+Fachhochschule Kiel,2013-09,ES,0.85,16.0,4.0,13.0,9.0,10.0,5.0,3.0,7.0,3.0,2.0,0.0,708.0,13.0
+Fachhochschule Kiel,2013-08,DE,1.0,40.0,13.0,24.0,40.0,14.0,9.0,11.0,13.0,,8.0,0.0,397.0,15.0
+Fachhochschule Kiel,2013-07,UK,0.97,83.0,12.0,33.0,58.0,50.0,14.0,37.0,26.0,11.0,4.0,0.0,553.0,15.0
+Fachhochschule Kiel,2012-07,AT,0.95,37.0,21.0,34.0,16.0,16.0,21.0,16.0,21.0,,6.0,-10.0,378.0,12.0
+Rhein-Waal University of Applied Sciences,2016-08,ES,0.97,29.0,29.0,,28.0,,,,,,,0.0,22.0,104.0
+Technische Hochschule Köln,2019-08,ES,0.95,39.0,25.0,21.0,30.0,21.0,20.0,,,,,0.0,224.0,94.0
+Technische Hochschule Köln,2019-08,AT,0.95,24.0,22.0,23.0,23.0,13.0,,,,,,-29.0,146.0,103.0
+Technische Hochschule Köln,2018-08,ES,0.97,38.0,23.0,20.0,20.0,21.0,22.0,23.0,20.0,,,0.0,242.0,78.0
+Technische Hochschule Köln,2018-08,DE,0.98,39.0,31.0,29.0,33.0,26.0,,,,,,-5.0,152.0,96.0
+Technische Hochschule Köln,2017-08,ES,0.97,30.0,26.0,25.0,13.0,22.0,,,,,,0.0,196.0,88.0
+Technische Hochschule Köln,2017-08,DE,0.96,34.0,32.0,21.0,31.0,22.0,,,,,,94.0,86.0,101.0
+Technische Hochschule Köln,2016-08,DE,1.0,37.0,31.0,19.0,35.0,28.0,,,,,,-10.0,155.0,59.0
+Technische Hochschule Köln,2016-07,IT,0.85,20.0,12.0,19.0,18.0,16.0,8.0,10.0,8.0,6.0,,0.0,245.0,57.0
+Technische Hochschule Köln,2015-08,ES,0.97,30.0,21.0,27.0,22.0,19.0,19.0,19.0,,8.0,,0.0,216.0,54.0
+Technische Hochschule Köln,2015-08,DE,0.98,39.0,36.0,31.0,27.0,28.0,,,,,,-40.0,111.0,45.0
+Technische Hochschule Köln,2015-07,UK,0.94,92.0,29.0,,68.0,16.0,,,,21.0,2.0,-10.0,366.0,31.0
+Technische Hochschule Köln,2014-09,IT,0.85,20.0,8.0,,19.0,6.0,7.0,7.0,3.0,8.0,7.0,0.0,479.0,29.0
+Technische Hochschule Köln,2013-09,ES,0.85,16.0,10.0,8.0,13.0,16.0,8.0,7.0,2.0,,,0.0,384.0,31.0
+Technische Hochschule Köln,2013-08,DE,1.0,40.0,16.0,38.0,28.0,34.0,19.0,,17.0,11.0,2.0,0.0,374.0,27.0
+Technische Hochschule Köln,2012-09,ES,0.85,13.0,10.0,8.0,13.0,4.0,11.0,9.0,6.0,,,0.0,294.0,31.0
+Technische Hochschule Köln,2012-08,DE,0.99,32.0,20.0,29.0,16.0,6.0,19.0,13.0,,,,0.0,276.0,26.0
+Technische Hochschule Köln,2012-07,UK,0.95,97.0,41.0,66.0,57.0,17.0,,,19.0,26.0,,-27.0,243.0,18.0
+Technische Hochschule Köln,2011-08,DE,0.98,28.0,14.0,23.0,13.0,16.0,11.0,7.0,7.0,,,-5.0,229.0,20.0
+Technische Hochschule Köln,2010-08,DE,1.0,15.0,15.0,13.0,12.0,12.0,,,,,,0.0,149.0,15.0
+Universität zu Köln,,,,,,,,,,,,,,,,
+Fachhochschule Konstanz,,,,,,,,,,,,,,,,
+Hochschule Niederrhein (Krefeld),2014-09,IT,0.85,20.0,16.0,8.0,9.0,14.0,,,,,,0.0,201.0,60.0
+Hochschule Landshut,2017-08,DE,0.96,34.0,34.0,34.0,34.0,,,,,,,35.0,3.0,125.0
+Hochschule Landshut,2014-09,IT,0.85,20.0,9.0,,11.0,10.0,,,11.0,6.0,3.0,-50.0,334.0,53.0
+Hochschule Landshut,2014-08,DE,1.0,39.0,37.0,25.0,35.0,37.0,,,,,,-5.0,143.0,56.0
+Hochschule Landshut,2012-09,IT,0.85,17.0,12.0,10.0,8.0,15.0,12.0,11.0,11.0,9.0,9.0,0.0,290.0,39.0
+Hochschule Landshut,2012-08,DE,0.99,32.0,28.0,27.0,25.0,19.0,,,,,,0.0,170.0,39.0
+Hochschule Landshut,2011-08,DE,0.98,28.0,22.0,20.0,26.0,19.0,10.0,13.0,10.0,,,0.0,167.0,28.0
+Technische Hochschule Ostwestfalen-Lippe (Lemgo),2019-08,DE,0.97,38.0,37.0,34.0,34.0,36.0,,,,,,-40.0,89.0,168.0
+Otto-von-Guericke-Universität Magdeburg,,,,,,,,,,,,,,,,
+Duale Hochschule Baden-Württemberg - Mannheim,2019-08,AT,0.95,24.0,20.0,10.0,19.0,20.0,,,,,,-20.0,171.0,126.0
+Duale Hochschule Baden-Württemberg - Mannheim,2019-07,IT,0.85,25.0,21.0,19.0,12.0,,8.0,7.0,9.0,5.0,,0.0,154.0,134.0
+Duale Hochschule Baden-Württemberg - Mannheim,2019-07,NL,0.89,21.0,19.0,14.0,13.0,18.0,,,,,,-5.0,164.0,130.0
+Duale Hochschule Baden-Württemberg - Mannheim,2018-07,IT,0.85,18.0,16.0,11.0,9.0,13.0,,,,,,-110.0,100.0,131.0
+Hochschule Mannheim,2019-08,ES,0.95,39.0,38.0,,14.0,36.0,,,,,,0.0,102.0,168.0
+Hochschule Mannheim,2019-08,DE,0.97,38.0,38.0,,13.0,,,,,,,-35.0,26.0,171.0
+Hochschule Mannheim,2018-07,EA,0.88,16.0,13.0,9.0,6.0,15.0,,,,,,0.0,172.0,77.0
+Hochschule Mannheim,2017-08,CZ,0.86,14.0,13.0,12.0,2.0,9.0,,,,,,0.0,238.0,59.0
+Hochschule Mannheim,2015-09,CZ,0.85,13.0,8.0,12.0,8.0,5.0,3.0,9.0,7.0,,8.0,-10.0,411.0,32.0
+Hochschule für Technik und Wirtschaft Mittweida,2019-07,EA,0.92,20.0,20.0,19.0,20.0,18.0,,,,,,0.0,161.0,115.0
+Duale Hochschule Baden-Württemberg Mosbach,2010-08,DE,1.0,15.0,13.0,6.0,11.0,12.0,,,,,,0.0,177.0,13.0
+Hochschule Ruhr West - UAS (Mülheim a.d.R.),2018-12,AU,0.85,14.0,10.0,14.0,10.0,10.0,7.0,6.0,10.0,8.0,,0.0,235.0,117.0
+Hochschule Ruhr West - UAS (Mülheim a.d.R.),2018-08,DE,0.98,39.0,35.0,39.0,32.0,36.0,21.0,21.0,22.0,10.0,,-45.0,100.0,140.0
+Hochschule Ruhr West - UAS (Mülheim a.d.R.),2018-07,IT,0.85,18.0,18.0,17.0,16.0,15.0,7.0,8.0,8.0,8.0,,-100.0,76.0,134.0
+Hochschule Ruhr West - UAS (Mülheim a.d.R.),2017-07,IT,0.85,18.0,15.0,11.0,18.0,17.0,8.0,8.0,8.0,9.0,,0.0,142.0,110.0
+Hochschule Ruhr West - UAS (Mülheim a.d.R.),2016-07,IT,0.85,20.0,19.0,17.0,17.0,19.0,,,,,,0.0,105.0,89.0
+Fachhochschule München,2018-08,ES,0.97,38.0,10.0,18.0,3.0,19.0,8.0,6.0,9.0,10.0,4.0,0.0,631.0,16.0
+Fachhochschule München,2018-08,DE,0.98,39.0,18.0,28.0,8.0,11.0,,10.0,12.0,,,-5.0,335.0,22.0
+Fachhochschule München,2018-08,AT,0.97,19.0,7.0,6.0,11.0,17.0,,,3.0,5.0,2.0,0.0,647.0,9.0
+Fachhochschule München,2017-08,ES,0.97,30.0,6.0,21.0,9.0,8.0,4.0,4.0,5.0,6.0,5.0,0.0,762.0,10.0
+Fachhochschule München,2017-08,DE,0.96,34.0,3.0,19.0,18.0,6.0,2.0,4.0,5.0,3.0,6.0,0.0,791.0,14.0
+Fachhochschule München,2017-08,AT,0.92,19.0,7.0,4.0,2.0,6.0,,1.0,4.0,,,-25.0,412.0,22.0
+Fachhochschule München,2016-08,ES,0.97,29.0,5.0,3.0,1.0,7.0,3.0,6.0,5.0,5.0,10.0,0.0,761.0,10.0
+Fachhochschule München,2016-08,DE,1.0,37.0,17.0,5.0,8.0,8.0,4.0,,8.0,,,-35.0,351.0,17.0
+Fachhochschule München,2016-08,AT,0.99,18.0,8.0,1.0,2.0,3.0,2.0,8.0,4.0,14.0,10.0,0.0,578.0,14.0
+Fachhochschule München,2015-08,ES,0.97,30.0,7.0,2.0,1.0,5.0,3.0,5.0,5.0,,10.0,0.0,535.0,10.0
+Fachhochschule München,2015-08,AT,0.96,18.0,10.0,2.0,4.0,9.0,4.0,7.0,5.0,16.0,9.0,0.0,558.0,9.0
+Fachhochschule München,2015-08,DE,0.98,39.0,11.0,3.0,1.0,6.0,2.0,,8.0,,9.0,-5.0,490.0,9.0
+Fachhochschule München,2014-08,ES,0.96,23.0,6.0,2.0,7.0,6.0,4.0,2.0,4.0,7.0,10.0,0.0,691.0,4.0
+Fachhochschule München,2014-08,AT,0.97,18.0,9.0,2.0,3.0,3.0,4.0,2.0,5.0,17.0,,0.0,488.0,5.0
+Fachhochschule München,2014-08,DE,1.0,39.0,4.0,1.0,3.0,6.0,13.0,10.0,6.0,6.0,3.0,0.0,659.0,4.0
+Fachhochschule München,2013-09,IT,0.95,24.0,4.0,9.0,11.0,2.0,7.0,4.0,5.0,3.0,5.0,0.0,766.0,5.0
+Fachhochschule München,2013-09,ES,0.85,16.0,1.0,5.0,1.0,2.0,6.0,2.0,1.0,1.0,6.0,0.0,906.0,7.0
+Fachhochschule München,2013-08,DE,1.0,40.0,8.0,7.0,25.0,11.0,12.0,,12.0,8.0,7.0,0.0,589.0,13.0
+Fachhochschule München,2012-09,ES,0.85,13.0,5.0,7.0,5.0,5.0,8.0,,8.0,5.0,,0.0,510.0,23.0
+Fachhochschule München,2012-08,DE,0.99,32.0,18.0,13.0,11.0,19.0,17.0,15.0,9.0,,12.0,0.0,308.0,25.0
+Fachhochschule München,2012-07,AT,0.95,37.0,30.0,26.0,15.0,11.0,,,,,,-10.0,206.0,19.0
+Fachhochschule München,2011-08,DE,0.98,28.0,12.0,8.0,11.0,22.0,7.0,13.0,10.0,9.0,,0.0,265.0,17.0
+Fachhochschule München,2011-07,AT,0.94,27.0,22.0,24.0,5.0,23.0,,,,,,0.0,173.0,16.0
+Fachhochschule München,2010-08,DE,1.0,15.0,11.0,5.0,14.0,5.0,,,,,,0.0,213.0,11.0
+Technical University of Munich,2019-08,ES,0.95,39.0,1.0,20.0,24.0,2.0,5.0,1.0,1.0,1.0,7.0,0.0,919.0,1.0
+Technical University of Munich,2019-08,DE,0.97,38.0,1.0,8.0,25.0,5.0,4.0,1.0,1.0,1.0,3.0,0.0,926.0,1.0
+Technical University of Munich,2019-08,AT,0.95,24.0,1.0,14.0,3.0,2.0,3.0,1.0,1.0,1.0,3.0,0.0,949.0,1.0
+Technical University of Munich,2019-07,EA,0.92,20.0,1.0,9.0,6.0,5.0,4.0,1.0,1.0,1.0,1.0,0.0,947.0,2.0
+Technical University of Munich,2018-12,AU,0.85,14.0,1.0,5.0,9.0,1.0,1.0,1.0,1.0,4.0,1.0,0.0,910.0,11.0
+Technical University of Munich,2018-08,ES,0.97,38.0,12.0,2.0,13.0,2.0,6.0,2.0,1.0,,,0.0,539.0,22.0
+Technical University of Munich,2018-08,DE,0.98,39.0,10.0,14.0,6.0,2.0,3.0,1.0,1.0,,,0.0,534.0,25.0
+Technical University of Munich,2018-07,UK,0.88,70.0,4.0,38.0,21.0,1.0,1.0,1.0,1.0,12.0,1.0,-100.0,666.0,24.0
+Technical University of Munich,2017-08,ES,0.97,30.0,11.0,24.0,19.0,2.0,6.0,5.0,9.0,,,0.0,459.0,30.0
+Technical University of Munich,2017-08,DE,0.96,34.0,15.0,24.0,5.0,4.0,,2.0,,,,5.0,343.0,30.0
+Technical University of Munich,2017-08,AT,0.92,19.0,6.0,6.0,4.0,1.0,3.0,4.0,9.0,,,-25.0,427.0,27.0
+Technical University of Munich,2017-07,EA,0.99,38.0,24.0,17.0,18.0,3.0,,,22.0,,,0.0,300.0,18.0
+Technical University of Munich,2016-08,ES,0.97,29.0,3.0,1.0,2.0,3.0,5.0,3.0,2.0,4.0,15.0,0.0,883.0,4.0
+Technical University of Munich,2016-08,DE,1.0,37.0,7.0,11.0,10.0,10.0,6.0,,4.0,,11.0,0.0,482.0,7.0
+Technical University of Munich,2016-08,AT,0.99,18.0,4.0,2.0,6.0,2.0,5.0,3.0,5.0,4.0,13.0,0.0,832.0,5.0
+Technical University of Munich,2016-07,UK,0.98,106.0,19.0,70.0,22.0,15.0,,,,8.0,4.0,0.0,519.0,10.0
+Technical University of Munich,2015-08,HU,0.9,37.0,14.0,14.0,33.0,7.0,4.0,1.0,2.0,21.0,6.0,0.0,595.0,8.0
+Technical University of Munich,2015-08,AT,0.96,18.0,5.0,7.0,11.0,3.0,5.0,1.0,,4.0,13.0,-20.0,647.0,7.0
+Technical University of Munich,2015-07,UK,0.94,92.0,5.0,24.0,13.0,34.0,4.0,7.0,7.0,13.0,8.0,-10.0,725.0,7.0
+Technical University of Munich,2014-08,HU,0.9,38.0,5.0,12.0,12.0,7.0,2.0,1.0,8.0,8.0,1.0,0.0,809.0,11.0
+Technical University of Munich,2014-08,DE,1.0,39.0,11.0,17.0,7.0,22.0,5.0,8.0,5.0,,,0.0,374.0,23.0
+Technical University of Munich,2014-07,UK,0.98,90.0,62.0,57.0,59.0,40.0,,,,,,0.0,171.0,26.0
+Technical University of Munich,2013-08,AT,0.97,39.0,12.0,10.0,32.0,24.0,16.0,11.0,11.0,12.0,2.0,0.0,604.0,10.0
+Technical University of Munich,2013-08,DE,1.0,40.0,11.0,27.0,15.0,5.0,17.0,6.0,3.0,,14.0,0.0,492.0,12.0
+Technical University of Munich,2012-08,HU,0.91,39.0,28.0,25.0,33.0,12.0,8.0,,,,,0.0,306.0,13.0
+Technical University of Munich,2012-08,DE,0.99,32.0,6.0,7.0,21.0,3.0,9.0,17.0,,6.0,3.0,0.0,597.0,5.0
+Technical University of Munich,2012-07,AT,0.95,37.0,14.0,32.0,12.0,5.0,4.0,2.0,25.0,22.0,1.0,-10.0,548.0,4.0
+Technical University of Munich,2011-08,DE,0.98,28.0,4.0,25.0,17.0,6.0,3.0,4.0,1.0,2.0,9.0,0.0,732.0,4.0
+Technical University of Munich,2011-07,AT,0.94,27.0,14.0,22.0,10.0,9.0,3.0,14.0,12.0,,,0.0,372.0,8.0
+Universität der Bundeswehr München,2014-08,DE,1.0,39.0,38.0,34.0,38.0,38.0,,,,,,0.0,119.0,64.0
+Georg-Simon-Ohm-Hochschule Nürnberg,2018-08,DE,0.98,39.0,8.0,29.0,24.0,26.0,17.0,17.0,17.0,6.0,6.0,-10.0,581.0,45.0
+Georg-Simon-Ohm-Hochschule Nürnberg,2018-08,AT,0.97,19.0,19.0,19.0,12.0,18.0,13.0,14.0,,,,-75.0,174.0,74.0
+Georg-Simon-Ohm-Hochschule Nürnberg,2018-07,IT,0.85,18.0,7.0,18.0,7.0,8.0,7.0,6.0,6.0,6.0,2.0,-100.0,287.0,64.0
+Georg-Simon-Ohm-Hochschule Nürnberg,2016-08,DE,1.0,37.0,33.0,23.0,24.0,35.0,,,,,,-10.0,147.0,51.0
+Georg-Simon-Ohm-Hochschule Nürnberg,2016-08,AT,0.99,18.0,14.0,17.0,13.0,18.0,,,14.0,11.0,8.0,0.0,298.0,42.0
+Georg-Simon-Ohm-Hochschule Nürnberg,2015-09,IT,0.85,20.0,10.0,4.0,8.0,13.0,,,12.0,5.0,3.0,-100.0,360.0,34.0
+Georg-Simon-Ohm-Hochschule Nürnberg,2014-09,IT,0.85,20.0,5.0,12.0,18.0,11.0,5.0,11.0,8.0,4.0,2.0,0.0,617.0,24.0
+Georg-Simon-Ohm-Hochschule Nürnberg,2013-09,IT,0.95,24.0,19.0,21.0,24.0,13.0,,,,,,0.0,155.0,59.0
+Hochschule Offenburg,,,,,,,,,,,,,,,,
+Fachhochschule Osnabrück,2018-08,ES,0.97,38.0,31.0,29.0,10.0,33.0,,,,,,0.0,146.0,48.0
+Fachhochschule Osnabrück,2017-08,ES,0.97,30.0,10.0,27.0,23.0,21.0,13.0,16.0,20.0,10.0,9.0,0.0,523.0,19.0
+Fachhochschule Osnabrück,2017-08,DE,0.96,34.0,9.0,4.0,30.0,15.0,13.0,13.0,15.0,6.0,4.0,15.0,553.0,20.0
+Fachhochschule Osnabrück,2016-08,ES,0.97,29.0,8.0,7.0,25.0,19.0,16.0,15.0,12.0,6.0,8.0,0.0,612.0,16.0
+Fachhochschule Osnabrück,2016-08,DE,1.0,37.0,19.0,15.0,32.0,15.0,22.0,7.0,19.0,,,0.0,317.0,20.0
+Fachhochschule Osnabrück,2015-08,ES,0.97,30.0,6.0,8.0,13.0,14.0,11.0,11.0,9.0,5.0,6.0,0.0,599.0,8.0
+Fachhochschule Osnabrück,2015-08,DE,0.98,39.0,6.0,15.0,14.0,4.0,8.0,14.0,12.0,9.0,6.0,0.0,583.0,12.0
+Fachhochschule Osnabrück,2014-08,ES,0.96,23.0,9.0,12.0,6.0,15.0,10.0,9.0,10.0,10.0,4.0,0.0,537.0,16.0
+Fachhochschule Osnabrück,2014-08,DE,1.0,39.0,6.0,14.0,31.0,34.0,10.0,22.0,10.0,7.0,1.0,0.0,516.0,16.0
+Fachhochschule Osnabrück,2013-08,DE,1.0,40.0,38.0,29.0,33.0,18.0,,,,,,-40.0,153.0,34.0
+Fachhochschule Osnabrück,2012-08,DE,0.99,32.0,7.0,6.0,9.0,19.0,,11.0,7.0,4.0,10.0,0.0,498.0,12.0
+Fachhochschule Osnabrück,2011-08,DE,0.98,28.0,21.0,19.0,27.0,18.0,,,,,,0.0,167.0,27.0
+Universität Paderborn,,,,,,,,,,,,,,,,
+Hochschule Pforzheim,,,,,,,,,,,,,,,,
+Duale Hochschule Baden-Württemberg Ravensburg,2019-08,DE,0.97,38.0,31.0,32.0,15.0,19.0,,,,,,-28.0,172.0,30.0
+Duale Hochschule Baden-Württemberg Ravensburg,2018-08,ES,0.97,38.0,5.0,19.0,31.0,13.0,11.0,5.0,6.0,5.0,7.0,0.0,723.0,4.0
+Duale Hochschule Baden-Württemberg Ravensburg,2018-07,IT,0.85,18.0,2.0,7.0,5.0,12.0,3.0,2.0,1.0,2.0,3.0,0.0,901.0,7.0
+Duale Hochschule Baden-Württemberg Ravensburg,2017-08,ES,0.97,30.0,8.0,20.0,9.0,11.0,17.0,10.0,11.0,7.0,3.0,0.0,647.0,12.0
+Duale Hochschule Baden-Württemberg Ravensburg,2017-07,IT,0.85,18.0,2.0,9.0,4.0,2.0,4.0,4.0,4.0,2.0,3.0,0.0,905.0,10.0
+Duale Hochschule Baden-Württemberg Ravensburg,2016-08,DE,1.0,37.0,11.0,2.0,1.0,12.0,13.0,11.0,11.0,,,-5.0,392.0,10.0
+Duale Hochschule Baden-Württemberg Ravensburg,2016-08,AT,0.99,18.0,5.0,8.0,11.0,8.0,8.0,10.0,3.0,6.0,3.0,0.0,695.0,4.0
+Duale Hochschule Baden-Württemberg Ravensburg,2015-08,AT,0.96,18.0,3.0,6.0,8.0,7.0,6.0,8.0,4.0,3.0,15.0,0.0,747.0,4.0
+Duale Hochschule Baden-Württemberg Ravensburg,2015-08,DE,0.98,39.0,4.0,10.0,3.0,6.0,5.0,12.0,5.0,4.0,13.0,0.0,777.0,4.0
+Duale Hochschule Baden-Württemberg Ravensburg,2014-08,AT,0.97,18.0,3.0,11.0,11.0,7.0,7.0,7.0,4.0,3.0,6.0,0.0,682.0,7.0
+Duale Hochschule Baden-Württemberg Ravensburg,2014-08,DE,1.0,39.0,16.0,13.0,16.0,16.0,12.0,,11.0,,,0.0,288.0,13.0
+Duale Hochschule Baden-Württemberg Ravensburg,2013-08,AT,0.97,39.0,6.0,9.0,3.0,26.0,5.0,8.0,7.0,7.0,7.0,0.0,759.0,8.0
+Duale Hochschule Baden-Württemberg Ravensburg,2013-08,DE,1.0,40.0,18.0,13.0,6.0,8.0,4.0,17.0,,,,0.0,367.0,20.0
+Duale Hochschule Baden-Württemberg Ravensburg,2012-08,DE,0.99,32.0,10.0,8.0,7.0,5.0,2.0,10.0,5.0,,,0.0,448.0,10.0
+Duale Hochschule Baden-Württemberg Ravensburg,2012-07,AT,0.95,37.0,23.0,8.0,5.0,4.0,28.0,26.0,,21.0,,0.0,375.0,7.0
+Duale Hochschule Baden-Württemberg Ravensburg,2011-08,DE,0.98,28.0,3.0,4.0,8.0,6.0,1.0,10.0,3.0,7.0,5.0,0.0,746.0,5.0
+Duale Hochschule Baden-Württemberg Ravensburg,2011-07,AT,0.94,27.0,17.0,26.0,7.0,13.0,17.0,10.0,14.0,,,-10.0,302.0,10.0
+Ostbayerische Technische Hochschule Regensburg,2019-08,ES,0.95,39.0,21.0,5.0,4.0,21.0,25.0,23.0,20.0,,,0.0,261.0,79.0
+Ostbayerische Technische Hochschule Regensburg,2019-08,AT,0.95,24.0,16.0,20.0,18.0,16.0,,,,6.0,,0.0,208.0,83.0
+Ostbayerische Technische Hochschule Regensburg,2013-09,ES,0.85,16.0,5.0,2.0,4.0,11.0,3.0,6.0,8.0,6.0,8.0,0.0,665.0,23.0
+Ostbayerische Technische Hochschule Regensburg,2013-08,AT,0.97,39.0,26.0,20.0,23.0,28.0,15.0,18.0,28.0,,,0.0,282.0,28.0
+Ostbayerische Technische Hochschule Regensburg,2013-07,UK,0.97,83.0,53.0,36.0,33.0,39.0,,,,,,0.0,198.0,27.0
+Ostbayerische Technische Hochschule Regensburg,2012-08,HU,0.91,39.0,11.0,23.0,8.0,13.0,23.0,19.0,19.0,12.0,5.0,0.0,704.0,11.0
+Ostbayerische Technische Hochschule Regensburg,2012-08,DE,0.99,32.0,19.0,21.0,28.0,9.0,18.0,8.0,18.0,,,0.0,283.0,27.0
+Ostbayerische Technische Hochschule Regensburg,2011-08,DE,0.98,28.0,20.0,18.0,28.0,16.0,,,,,,0.0,171.0,26.0
+Saarland University (Saarbrücken),2018-08,DE,0.98,39.0,37.0,36.0,27.0,39.0,,,,,,-22.0,87.0,117.0
+Saarland University (Saarbrücken),2017-07,EA,0.99,38.0,32.0,29.0,32.0,34.0,,,,,,0.0,134.0,75.0
+Saarland University (Saarbrücken),2015-09,CZ,0.85,13.0,10.0,11.0,12.0,10.0,9.0,11.0,10.0,7.0,3.0,0.0,334.0,50.0
+Saarland University (Saarbrücken),2014-09,IT,0.85,20.0,14.0,1.0,4.0,9.0,,,,,,0.0,269.0,54.0
+Saarland University (Saarbrücken),2013-09,IT,0.95,24.0,17.0,4.0,13.0,18.0,17.0,14.0,15.0,15.0,,0.0,229.0,49.0
+Saarland University (Saarbrücken),2013-08,DE,1.0,40.0,28.0,25.0,21.0,28.0,20.0,21.0,21.0,,,0.0,205.0,42.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2019-08,DE,0.97,38.0,13.0,20.0,27.0,6.0,9.0,11.0,5.0,,,-25.0,375.0,32.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2019-07,EA,0.92,20.0,6.0,13.0,7.0,11.0,3.0,7.0,5.0,5.0,3.0,0.0,654.0,24.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2019-07,NL,0.89,21.0,2.0,5.0,16.0,5.0,9.0,5.0,1.0,3.0,4.0,0.0,706.0,35.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2018-08,DE,0.98,39.0,19.0,27.0,30.0,21.0,15.0,12.0,19.0,,,-5.0,295.0,51.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2018-08,AT,0.97,19.0,18.0,18.0,17.0,14.0,,,,,,0.0,206.0,45.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2017-08,DE,0.96,34.0,12.0,6.0,13.0,15.0,7.0,7.0,6.0,,,0.0,417.0,26.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2017-08,AT,0.92,19.0,5.0,16.0,7.0,7.0,,7.0,,5.0,2.0,0.0,455.0,16.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2017-07,IT,0.85,18.0,4.0,17.0,9.0,3.0,5.0,7.0,1.0,4.0,2.0,0.0,752.0,13.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2016-08,DE,1.0,37.0,6.0,28.0,18.0,15.0,16.0,15.0,14.0,5.0,3.0,0.0,588.0,8.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2016-08,AT,0.99,18.0,7.0,11.0,4.0,9.0,11.0,9.0,6.0,7.0,5.0,0.0,641.0,10.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2016-07,IT,0.85,20.0,2.0,14.0,3.0,1.0,2.0,2.0,3.0,4.0,1.0,0.0,859.0,15.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2015-08,ES,0.97,30.0,12.0,17.0,8.0,13.0,7.0,13.0,10.0,,,0.0,329.0,32.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2015-08,AT,0.96,18.0,17.0,18.0,10.0,6.0,11.0,13.0,6.0,15.0,,0.0,389.0,28.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2015-08,DE,0.98,39.0,20.0,36.0,37.0,6.0,,11.0,6.0,,,-35.0,238.0,30.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2014-09,IT,0.85,20.0,3.0,4.0,11.0,8.0,10.0,1.0,6.0,3.0,4.0,0.0,720.0,16.0
+Hochschule Bonn-Rhein-Sieg (Sankt Augustin),2014-08,DE,1.0,39.0,29.0,28.0,25.0,26.0,18.0,20.0,21.0,,,0.0,212.0,54.0
+FH Schmalkalden,,,,,,,,,,,,,,,,
+UAS Würzburg-Schweinfurt,2019-08,CZ,0.85,15.0,11.0,5.0,2.0,11.0,,,,,,0.0,239.0,85.0
+UAS Würzburg-Schweinfurt,2019-08,DE,0.97,38.0,24.0,2.0,38.0,25.0,,,,,,0.0,192.0,92.0
+Universität Siegen,2019-07,IT,0.85,25.0,16.0,22.0,13.0,15.0,,,6.0,,,-50.0,192.0,108.0
+Universität Siegen,2015-08,ES,0.97,30.0,19.0,23.0,23.0,24.0,6.0,16.0,12.0,,,0.0,227.0,33.0
+Universität Siegen,2015-08,AT,0.96,18.0,11.0,5.0,16.0,17.0,17.0,15.0,15.0,7.0,8.0,0.0,515.0,17.0
+Universität Siegen,2015-08,DE,0.98,39.0,13.0,32.0,29.0,36.0,,,15.0,8.0,11.0,-30.0,378.0,22.0
+Universität Siegen,2014-08,ES,0.96,23.0,11.0,9.0,17.0,16.0,8.0,12.0,11.0,11.0,2.0,0.0,516.0,22.0
+Universität Siegen,2014-08,DE,1.0,39.0,35.0,37.0,37.0,36.0,20.0,17.0,21.0,10.0,,0.0,176.0,34.0
+Universität Siegen,2013-09,ES,0.85,16.0,6.0,11.0,12.0,14.0,4.0,9.0,11.0,7.0,2.0,0.0,592.0,25.0
+Universität Siegen,2013-08,DE,1.0,40.0,33.0,32.0,38.0,18.0,,,,,,0.0,176.0,28.0
+Universität Siegen,2012-09,ES,0.85,13.0,4.0,11.0,4.0,10.0,5.0,3.0,5.0,4.0,,0.0,628.0,15.0
+Universität Siegen,2012-08,DE,0.99,32.0,17.0,20.0,10.0,9.0,15.0,16.0,10.0,,,0.0,321.0,23.0
+Universität Siegen,2011-08,DE,0.98,28.0,17.0,11.0,25.0,11.0,,,,,,0.0,200.0,21.0
+Fachhochschule Stralsund,,,,,,,,,,,,,,,,
+Duale Hochschule Baden-Württemberg Stuttgart,2019-08,ES,0.95,39.0,2.0,6.0,21.0,4.0,2.0,4.0,2.0,2.0,11.0,0.0,868.0,5.0
+Duale Hochschule Baden-Württemberg Stuttgart,2019-07,NL,0.89,21.0,4.0,5.0,6.0,9.0,1.0,2.0,2.0,,,0.0,484.0,15.0
+Duale Hochschule Baden-Württemberg Stuttgart,2018-08,ES,0.97,38.0,2.0,16.0,25.0,9.0,2.0,1.0,5.0,2.0,10.0,0.0,810.0,11.0
+Duale Hochschule Baden-Württemberg Stuttgart,2018-08,DE,0.98,39.0,14.0,4.0,25.0,7.0,5.0,3.0,7.0,,,0.0,461.0,18.0
+Duale Hochschule Baden-Württemberg Stuttgart,2018-07,IT,0.85,18.0,4.0,10.0,5.0,2.0,1.0,3.0,3.0,,,0.0,573.0,14.0
+Duale Hochschule Baden-Württemberg Stuttgart,2017-08,ES,0.97,30.0,5.0,6.0,2.0,10.0,2.0,13.0,12.0,4.0,4.0,0.0,775.0,7.0
+Duale Hochschule Baden-Württemberg Stuttgart,2017-08,DE,0.96,34.0,5.0,4.0,4.0,15.0,1.0,12.0,13.0,5.0,2.0,10.0,708.0,8.0
+Duale Hochschule Baden-Württemberg Stuttgart,2017-07,IT,0.85,18.0,1.0,3.0,5.0,1.0,1.0,2.0,3.0,1.0,4.0,0.0,962.0,9.0
+Duale Hochschule Baden-Württemberg Stuttgart,2016-08,DE,1.0,37.0,13.0,27.0,2.0,10.0,7.0,10.0,15.0,,,0.0,389.0,12.0
+Duale Hochschule Baden-Württemberg Stuttgart,2016-07,IT,0.85,20.0,3.0,3.0,4.0,2.0,1.0,1.0,1.0,5.0,3.0,-50.0,849.0,6.0
+Duale Hochschule Baden-Württemberg Stuttgart,2015-09,IT,0.85,20.0,2.0,9.0,3.0,3.0,2.0,10.0,,3.0,5.0,0.0,742.0,11.0
+Duale Hochschule Baden-Württemberg Stuttgart,2015-08,ES,0.97,30.0,11.0,24.0,6.0,12.0,10.0,14.0,14.0,,9.0,0.0,355.0,18.0
+Duale Hochschule Baden-Württemberg Stuttgart,2015-08,DE,0.98,39.0,8.0,25.0,10.0,14.0,20.0,,13.0,6.0,2.0,-5.0,556.0,10.0
+Duale Hochschule Baden-Württemberg Stuttgart,2014-08,ES,0.96,23.0,5.0,21.0,12.0,11.0,7.0,6.0,6.0,4.0,8.0,0.0,699.0,9.0
+Duale Hochschule Baden-Württemberg Stuttgart,2014-08,DE,1.0,39.0,7.0,27.0,19.0,34.0,,11.0,15.0,4.0,4.0,0.0,505.0,10.0
+Duale Hochschule Baden-Württemberg Stuttgart,2013-09,IT,0.95,24.0,14.0,7.0,2.0,11.0,11.0,5.0,6.0,16.0,,0.0,450.0,21.0
+Duale Hochschule Baden-Württemberg Stuttgart,2013-08,DE,1.0,40.0,14.0,26.0,18.0,12.0,13.0,3.0,6.0,,,0.0,391.0,14.0
+Duale Hochschule Baden-Württemberg Stuttgart,2012-09,IT,0.85,17.0,7.0,6.0,7.0,13.0,8.0,4.0,6.0,7.0,4.0,0.0,734.0,12.0
+Duale Hochschule Baden-Württemberg Stuttgart,2012-08,DE,0.99,32.0,21.0,26.0,18.0,19.0,16.0,19.0,18.0,,,0.0,242.0,28.0
+Universität Stuttgart,2019-08,ES,0.95,39.0,3.0,6.0,15.0,1.0,1.0,5.0,3.0,3.0,8.0,0.0,828.0,7.0
+Universität Stuttgart,2019-08,DE,0.97,38.0,7.0,1.0,5.0,4.0,1.0,6.0,3.0,,,0.0,504.0,16.0
+Universität Stuttgart,2019-08,AT,0.95,24.0,8.0,8.0,8.0,6.0,8.0,9.0,5.0,,,0.0,414.0,13.0
+Universität Stuttgart,2019-07,EA,0.92,20.0,2.0,1.0,14.0,1.0,2.0,10.0,4.0,3.0,2.0,0.0,825.0,4.0
+Universität Stuttgart,2018-08,ES,0.97,38.0,1.0,11.0,21.0,3.0,3.0,4.0,3.0,1.0,8.0,0.0,880.0,5.0
+Universität Stuttgart,2018-08,DE,0.98,39.0,13.0,5.0,1.0,6.0,6.0,5.0,9.0,,,-5.0,476.0,12.0
+Universität Stuttgart,2018-08,AT,0.97,19.0,6.0,5.0,1.0,4.0,7.0,3.0,4.0,7.0,3.0,-5.0,698.0,7.0
+Universität Stuttgart,2018-07,EA,0.88,16.0,6.0,3.0,3.0,2.0,1.0,1.0,1.0,,,0.0,554.0,8.0
+Universität Stuttgart,2017-08,ES,0.97,30.0,2.0,2.0,17.0,4.0,5.0,6.0,6.0,2.0,7.0,0.0,877.0,2.0
+Universität Stuttgart,2017-08,DE,0.96,34.0,1.0,3.0,1.0,6.0,4.0,5.0,1.0,1.0,5.0,0.0,918.0,1.0
+Universität Stuttgart,2017-08,AT,0.92,19.0,3.0,2.0,1.0,4.0,1.0,3.0,3.0,4.0,3.0,0.0,810.0,4.0
+Universität Stuttgart,2017-07,EA,0.99,38.0,1.0,6.0,3.0,4.0,3.0,2.0,3.0,1.0,3.0,0.0,969.0,3.0
+Universität Stuttgart,2016-08,ES,0.97,29.0,11.0,5.0,3.0,5.0,6.0,2.0,9.0,,11.0,0.0,568.0,5.0
+Universität Stuttgart,2016-08,DE,1.0,37.0,3.0,13.0,12.0,2.0,5.0,6.0,6.0,4.0,6.0,0.0,834.0,2.0
+Universität Stuttgart,2016-08,AT,0.99,18.0,3.0,3.0,5.0,5.0,3.0,2.0,8.0,2.0,12.0,0.0,852.0,3.0
+Universität Stuttgart,2016-07,UK,0.98,106.0,32.0,59.0,76.0,23.0,7.0,3.0,6.0,,,0.0,412.0,8.0
+Universität Stuttgart,2015-08,ES,0.97,30.0,4.0,15.0,16.0,3.0,1.0,2.0,6.0,4.0,4.0,0.0,712.0,4.0
+Universität Stuttgart,2015-08,AT,0.96,18.0,2.0,11.0,11.0,4.0,2.0,2.0,1.0,2.0,11.0,0.0,868.0,3.0
+Universität Stuttgart,2015-08,DE,0.98,39.0,3.0,11.0,7.0,1.0,15.0,5.0,4.0,3.0,10.0,-20.0,825.0,6.0
+Universität Stuttgart,2015-07,UK,0.94,92.0,21.0,22.0,48.0,4.0,13.0,,1.0,32.0,,0.0,453.0,10.0
+Universität Stuttgart,2014-08,ES,0.96,23.0,8.0,1.0,9.0,9.0,2.0,4.0,2.0,,13.0,0.0,545.0,6.0
+Universität Stuttgart,2014-08,AT,0.97,18.0,7.0,3.0,1.0,5.0,2.0,5.0,1.0,14.0,,0.0,522.0,3.0
+Universität Stuttgart,2014-08,DE,1.0,39.0,2.0,2.0,1.0,2.0,1.0,7.0,3.0,2.0,10.0,0.0,889.0,3.0
+Universität Stuttgart,2013-09,IT,0.95,24.0,1.0,2.0,2.0,4.0,2.0,3.0,1.0,1.0,8.0,0.0,880.0,4.0
+Universität Stuttgart,2013-08,AT,0.97,39.0,5.0,5.0,12.0,4.0,3.0,,5.0,6.0,6.0,-20.0,786.0,6.0
+Universität Stuttgart,2013-08,DE,1.0,40.0,21.0,12.0,12.0,3.0,,,7.0,,,0.0,329.0,9.0
+Universität Stuttgart,2013-07,UK,0.97,83.0,14.0,21.0,48.0,5.0,1.0,9.0,2.0,58.0,,0.0,507.0,8.0
+Universität Stuttgart,2012-09,ES,0.85,13.0,3.0,6.0,3.0,3.0,3.0,2.0,3.0,2.0,,0.0,825.0,3.0
+Universität Stuttgart,2012-08,DE,0.99,32.0,3.0,18.0,19.0,9.0,4.0,2.0,4.0,3.0,5.0,0.0,767.0,3.0
+Universität Stuttgart,2012-07,AT,0.95,37.0,7.0,15.0,21.0,16.0,8.0,1.0,10.0,9.0,3.0,0.0,685.0,3.0
+Universität Stuttgart,2011-08,DE,0.98,28.0,7.0,12.0,10.0,5.0,,8.0,9.0,6.0,7.0,0.0,592.0,3.0
+Universität Stuttgart,2010-08,DE,1.0,15.0,1.0,3.0,1.0,4.0,1.0,1.0,1.0,1.0,5.0,0.0,880.0,1.0
+Fachhochschule Ulm,,,,,,,,,,,,,,,,
+University of Applied Sciences Ravensburg-Weingarten,,,,,,,,,,,,,,,,
+Hochschule RheinMain (Wiesbaden),2015-09,CZ,0.85,13.0,5.0,5.0,8.0,9.0,5.0,5.0,5.0,4.0,1.0,-105.0,540.0,33.0
+Hochschule RheinMain (Wiesbaden),2015-08,ES,0.97,30.0,10.0,10.0,24.0,21.0,15.0,12.0,13.0,,1.0,0.0,357.0,45.0
+Hochschule RheinMain (Wiesbaden),2015-08,DE,0.98,39.0,32.0,38.0,32.0,19.0,,,,,,-10.0,134.0,59.0
+Hochschule RheinMain (Wiesbaden),2014-08,ES,0.96,23.0,17.0,16.0,20.0,18.0,12.0,13.0,14.0,,,0.0,234.0,48.0
+Hochschule RheinMain (Wiesbaden),2014-08,AT,0.97,18.0,16.0,9.0,16.0,17.0,11.0,15.0,14.0,7.0,,-20.0,271.0,38.0
+Hochschule RheinMain (Wiesbaden),2014-08,DE,1.0,39.0,28.0,35.0,28.0,26.0,,21.0,19.0,10.0,,0.0,212.0,35.0
+Hochschule RheinMain (Wiesbaden),2013-09,IT,0.95,24.0,8.0,12.0,7.0,14.0,14.0,13.0,11.0,11.0,6.0,0.0,534.0,31.0
+Hochschule RheinMain (Wiesbaden),2013-09,ES,0.85,16.0,12.0,15.0,16.0,9.0,10.0,13.0,9.0,,,0.0,306.0,39.0
+Hochschule RheinMain (Wiesbaden),2013-08,DE,1.0,40.0,34.0,30.0,37.0,34.0,20.0,,20.0,,,0.0,168.0,39.0
+Hochschule RheinMain (Wiesbaden),2012-09,ES,0.85,13.0,6.0,9.0,1.0,6.0,7.0,10.0,10.0,7.0,,0.0,374.0,29.0
+Hochschule RheinMain (Wiesbaden),2012-08,DE,0.99,32.0,25.0,16.0,15.0,14.0,,,,,,0.0,217.0,32.0
+Hochschule RheinMain (Wiesbaden),2011-08,DE,0.98,28.0,18.0,13.0,22.0,20.0,,,,9.0,,0.0,197.0,22.0
+Jade Hochschule (Wilhelmshaven),,,,,,,,,,,,,,,,
+Ostfalia University of Applied Sciences (Wolfenbüttel),2019-08,DE,0.97,38.0,6.0,25.0,7.0,13.0,7.0,8.0,7.0,8.0,1.0,-20.0,550.0,42.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2019-08,AT,0.95,24.0,10.0,15.0,17.0,11.0,6.0,5.0,9.0,,,0.0,316.0,74.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2019-07,NL,0.89,21.0,14.0,10.0,12.0,10.0,,,,,,0.0,235.0,77.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2018-08,DE,0.98,39.0,24.0,20.0,35.0,23.0,14.0,22.0,20.0,,,-45.0,202.0,66.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2016-07,IT,0.85,20.0,16.0,6.0,12.0,14.0,,,,,,0.0,213.0,43.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2015-09,IT,0.85,20.0,4.0,3.0,10.0,8.0,1.0,2.0,5.0,6.0,1.0,0.0,590.0,21.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2015-08,DE,0.98,39.0,17.0,12.0,15.0,14.0,9.0,13.0,16.0,,,-10.0,280.0,23.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2014-09,IT,0.85,20.0,4.0,14.0,7.0,7.0,4.0,6.0,7.0,5.0,1.0,0.0,675.0,19.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2014-08,DE,1.0,39.0,26.0,20.0,10.0,26.0,15.0,,20.0,,,0.0,230.0,18.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2013-09,IT,0.95,24.0,10.0,17.0,7.0,17.0,,,7.0,8.0,9.0,0.0,524.0,17.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2013-08,HU,0.92,37.0,11.0,26.0,26.0,11.0,12.0,15.0,24.0,12.0,3.0,0.0,632.0,13.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2013-08,DE,1.0,40.0,35.0,19.0,34.0,32.0,,,,,,-10.0,168.0,25.0
+Ostfalia University of Applied Sciences (Wolfenbüttel),2012-09,IT,0.85,17.0,6.0,7.0,5.0,6.0,5.0,3.0,5.0,6.0,7.0,-20.0,738.0,6.0
+Bergische Universität Wuppertal,,,,,,,,,,,,,,,,
+Westsächsische Hochschule Zwickau,2019-08,ES,0.95,39.0,6.0,10.0,38.0,8.0,9.0,2.0,6.0,6.0,3.0,0.0,669.0,6.0
+Westsächsische Hochschule Zwickau,2019-08,CZ,0.85,15.0,1.0,8.0,13.0,4.0,2.0,1.0,1.0,1.0,1.0,0.0,940.0,5.0
+Westsächsische Hochschule Zwickau,2019-07,UK,0.85,64.0,3.0,23.0,56.0,1.0,2.0,1.0,1.0,2.0,3.0,-150.0,731.0,20.0
+Westsächsische Hochschule Zwickau,2018-08,ES,0.97,38.0,9.0,13.0,21.0,4.0,14.0,11.0,14.0,9.0,5.0,0.0,663.0,27.0
+Westsächsische Hochschule Zwickau,2018-08,AT,0.97,19.0,14.0,11.0,19.0,10.0,3.0,10.0,11.0,,,0.0,370.0,47.0
+Westsächsische Hochschule Zwickau,2017-08,ES,0.97,30.0,20.0,18.0,27.0,9.0,17.0,21.0,18.0,,,0.0,304.0,43.0
+Westsächsische Hochschule Zwickau,2017-08,DE,0.96,34.0,25.0,27.0,27.0,12.0,,,,,,25.0,181.0,38.0
+Westsächsische Hochschule Zwickau,2016-08,ES,0.97,29.0,10.0,8.0,7.0,12.0,12.0,,13.0,9.0,13.0,0.0,589.0,21.0
+Westsächsische Hochschule Zwickau,2016-08,DE,1.0,37.0,20.0,17.0,19.0,23.0,16.0,16.0,16.0,,,0.0,309.0,27.0
+Westsächsische Hochschule Zwickau,2016-08,AT,0.99,18.0,13.0,7.0,7.0,10.0,9.0,7.0,10.0,16.0,,0.0,386.0,21.0
+Westsächsische Hochschule Zwickau,2016-07,UK,0.98,106.0,25.0,8.0,14.0,23.0,41.0,26.0,26.0,34.0,8.0,0.0,480.0,9.0
+Westsächsische Hochschule Zwickau,2015-09,IT,0.85,20.0,1.0,5.0,1.0,1.0,6.0,1.0,1.0,2.0,7.0,-20.0,930.0,7.0
+Westsächsische Hochschule Zwickau,2015-08,ES,0.97,30.0,9.0,5.0,7.0,15.0,8.0,8.0,3.0,,11.0,0.0,464.0,15.0
+Westsächsische Hochschule Zwickau,2015-08,DE,0.98,39.0,14.0,4.0,8.0,10.0,10.0,,7.0,,,0.0,355.0,11.0
+Westsächsische Hochschule Zwickau,2015-07,UK,0.94,92.0,2.0,9.0,53.0,7.0,14.0,6.0,8.0,4.0,7.0,0.0,792.0,3.0
+Westsächsische Hochschule Zwickau,2014-08,ES,0.96,23.0,3.0,6.0,2.0,5.0,11.0,8.0,5.0,1.0,14.0,0.0,815.0,5.0
+Westsächsische Hochschule Zwickau,2014-08,DE,1.0,39.0,10.0,8.0,13.0,7.0,9.0,14.0,7.0,,,0.0,376.0,9.0
+Westsächsische Hochschule Zwickau,2014-07,UK,0.98,90.0,21.0,24.0,70.0,16.0,4.0,7.0,11.0,49.0,,0.0,385.0,8.0
+Westsächsische Hochschule Zwickau,2013-09,IT,0.95,24.0,3.0,1.0,4.0,3.0,4.0,2.0,4.0,4.0,2.0,0.0,802.0,3.0
+Westsächsische Hochschule Zwickau,2013-08,DE,1.0,40.0,4.0,5.0,1.0,4.0,10.0,12.0,4.0,6.0,1.0,0.0,731.0,3.0
+Westsächsische Hochschule Zwickau,2013-07,UK,0.97,83.0,2.0,25.0,35.0,3.0,5.0,4.0,9.0,2.0,1.0,-10.0,852.0,3.0
+Westsächsische Hochschule Zwickau,2012-09,IT,0.85,17.0,1.0,5.0,1.0,1.0,9.0,2.0,4.0,1.0,1.0,0.0,901.0,8.0
+Westsächsische Hochschule Zwickau,2012-08,DE,0.99,32.0,12.0,4.0,1.0,4.0,10.0,5.0,12.0,,,0.0,415.0,7.0
+Westsächsische Hochschule Zwickau,2012-07,UK,0.95,97.0,9.0,43.0,2.0,10.0,12.0,,18.0,8.0,2.0,-2.0,662.0,6.0
+Westsächsische Hochschule Zwickau,2011-08,DE,0.98,28.0,8.0,3.0,7.0,3.0,5.0,2.0,4.0,,,0.0,483.0,8.0
+Westsächsische Hochschule Zwickau,2011-07,UK,0.85,10.0,4.0,4.0,1.0,2.0,4.0,2.0,3.0,4.0,5.0,0.0,549.0,5.0
+Westsächsische Hochschule Zwickau,2010-08,DE,1.0,15.0,4.0,2.0,5.0,2.0,2.0,4.0,2.0,,,0.0,498.0,4.0
+National Technical University of Athens,,,,,,,,,,,,,,,,
+University of Patras,2018-08,DE,0.98,39.0,21.0,8.0,31.0,15.0,20.0,20.0,21.0,,,-13.0,261.0,58.0
+University of Patras,2017-08,DE,0.96,34.0,28.0,33.0,22.0,20.0,,,,,,15.0,149.0,49.0
+University of Patras,2017-07,UK,0.85,62.0,10.0,3.0,21.0,6.0,,,,10.0,1.0,0.0,534.0,33.0
+University of Patras,2016-08,CZ,0.85,10.0,7.0,1.0,7.0,6.0,3.0,8.0,4.0,,3.0,0.0,472.0,36.0
+University of Patras,2016-07,IT,0.85,20.0,8.0,1.0,10.0,9.0,4.0,6.0,10.0,11.0,,0.0,346.0,37.0
+University of Patras,2014-07,UK,0.98,90.0,15.0,54.0,33.0,17.0,13.0,18.0,27.0,20.0,6.0,0.0,489.0,28.0
+University of Patras,2013-09,IT,0.95,24.0,16.0,5.0,15.0,15.0,13.0,14.0,15.0,14.0,,0.0,266.0,45.0
+University of Patras,2013-08,DE,1.0,40.0,29.0,10.0,35.0,28.0,,21.0,21.0,,,0.0,200.0,44.0
+Aristotle University of Thessaloniki,2019-08,DE,0.97,38.0,20.0,20.0,24.0,27.0,13.0,18.0,19.0,,,0.0,254.0,44.0
+Aristotle University of Thessaloniki,2019-07,IT,0.85,25.0,3.0,3.0,1.0,19.0,5.0,5.0,4.0,3.0,2.0,-40.0,669.0,29.0
+Aristotle University of Thessaloniki,2018-07,EA,0.88,16.0,5.0,8.0,12.0,10.0,6.0,8.0,8.0,4.0,5.0,0.0,569.0,41.0
+Aristotle University of Thessaloniki,2018-07,IT,0.85,18.0,5.0,12.0,1.0,7.0,5.0,7.0,5.0,5.0,5.0,-100.0,411.0,54.0
+Aristotle University of Thessaloniki,2017-08,DE,0.96,34.0,27.0,25.0,15.0,30.0,,,18.0,,,15.0,155.0,67.0
+Aristotle University of Thessaloniki,2017-07,IT,0.85,18.0,8.0,12.0,3.0,6.0,7.0,8.0,6.0,6.0,,0.0,355.0,51.0
+Democritus University of Thrace (Xanthi),,,,,,,,,,,,,,,,
+Budapest University of Technology and Economics,2019-08,ES,0.95,39.0,9.0,26.0,36.0,18.0,12.0,12.0,11.0,7.0,10.0,0.0,522.0,41.0
+Budapest University of Technology and Economics,2019-07,IT,0.85,25.0,6.0,13.0,24.0,4.0,,,5.0,4.0,4.0,-60.0,388.0,57.0
+Budapest University of Technology and Economics,2019-07,EA,0.92,20.0,18.0,18.0,15.0,14.0,,,,,,0.0,214.0,65.0
+Budapest University of Technology and Economics,2018-07,EA,0.88,16.0,10.0,10.0,11.0,8.0,,,,,,0.0,199.0,33.0
+Budapest University of Technology and Economics,2017-08,CZ,0.86,14.0,4.0,4.0,7.0,5.0,4.0,4.0,6.0,4.0,1.0,0.0,761.0,12.0
+Budapest University of Technology and Economics,2017-07,EA,0.99,38.0,9.0,8.0,22.0,23.0,6.0,10.0,13.0,10.0,9.0,0.0,650.0,13.0
+Budapest University of Technology and Economics,2016-07,EA,0.89,28.0,3.0,9.0,11.0,3.0,1.0,2.0,3.0,7.0,2.0,0.0,832.0,10.0
+Budapest University of Technology and Economics,2016-07,UK,0.98,106.0,8.0,37.0,49.0,7.0,,22.0,16.0,14.0,2.0,0.0,632.0,25.0
+Budapest University of Technology and Economics,2015-08,HU,0.9,37.0,30.0,27.0,23.0,22.0,,,,,,0.0,199.0,45.0
+Budapest University of Technology and Economics,2014-08,HU,0.9,38.0,27.0,13.0,31.0,21.0,17.0,19.0,17.0,29.0,,0.0,382.0,27.0
+Budapest University of Technology and Economics,2014-08,DE,1.0,39.0,34.0,18.0,29.0,26.0,,,,,,0.0,186.0,27.0
+Budapest University of Technology and Economics,2013-08,HU,0.92,37.0,9.0,5.0,16.0,1.0,16.0,12.0,14.0,11.0,1.0,0.0,742.0,8.0
+Budapest University of Technology and Economics,2012-08,HU,0.91,39.0,24.0,17.0,31.0,22.0,14.0,29.0,20.0,,,0.0,386.0,26.0
+Budapest University of Technology and Economics,2012-07,UK,0.95,97.0,59.0,19.0,86.0,20.0,,,,,,-20.0,183.0,28.0
+University of Pécs,,,,,,,,,,,,,,,,
+University of Iceland (Reykjavík),2019-08,ES,0.95,39.0,33.0,32.0,23.0,36.0,25.0,24.0,20.0,,,0.0,148.0,157.0
+University of Iceland (Reykjavík),2019-08,AT,0.95,24.0,24.0,,13.0,24.0,,,,,,-10.0,46.0,165.0
+University of Iceland (Reykjavík),2019-07,IT,0.85,25.0,20.0,24.0,7.0,23.0,7.0,8.0,,,,-20.0,155.0,140.0
+University of Iceland (Reykjavík),2018-08,ES,0.97,38.0,34.0,38.0,17.0,32.0,,,20.0,,,0.0,116.0,115.0
+University of Iceland (Reykjavík),2017-08,AT,0.92,19.0,19.0,13.0,18.0,16.0,,,,,,-99.0,81.0,101.0
+University of Iceland (Reykjavík),2017-07,IT,0.85,18.0,11.0,10.0,6.0,10.0,,,,,,-20.0,221.0,70.0
+University of Iceland (Reykjavík),2016-07,IT,0.85,20.0,10.0,15.0,7.0,11.0,9.0,11.0,9.0,9.0,,0.0,279.0,55.0
+University of Iceland (Reykjavík),2016-07,UK,0.98,106.0,64.0,26.0,13.0,50.0,,,,,,-10.0,192.0,60.0
+University of Iceland (Reykjavík),2015-07,UK,0.94,92.0,43.0,15.0,16.0,24.0,,,,,,0.0,231.0,60.0
+University of Iceland (Reykjavík),2014-07,UK,0.98,90.0,56.0,14.0,8.0,67.0,,,,,,0.0,180.0,59.0
+University of Iceland (Reykjavík),2012-07,UK,0.95,97.0,87.0,77.0,77.0,88.0,,,,,,-2.0,87.0,43.0
+University of Iceland (Reykjavík),2011-07,UK,0.85,10.0,13.0,13.0,11.0,,,,,,,0.0,53.0,22.0
+PES Institute of Technology (Bangalore),,,,,,,,,,,,,,,,
+PES University (Bangalore),,,,,,,,,,,,,,,,
+R.V.College of Engineering (Bangalore),2015-09,IT,0.85,20.0,17.0,6.0,11.0,20.0,,,,,,-20.0,132.0,76.0
+Ramaiah Institute of Technology,,,,,,,,,,,,,,,,
+Visvesvaraya Technological University,,,,,,,,,,,,,,,,
+Gogte Institute of Technology (Belgaum),,,,,,,,,,,,,,,,
+Kalinga Institute of Industrial Technology (Bhubaneswar),,,,,,,,,,,,,,,,
+Chandigarh Engineering College,,,,,,,,,,,,,,,,
+Panjab University,,,,,,,,,,,,,,,,
+Indian Institute of Technology Madras (Chennai),,,,,,,,,,,,,,,,
+RMK Engineering College (Chennai),,,,,,,,,,,,,,,,
+Sri Sairam Engineering College,,,,,,,,,,,,,,,,
+SRM Institute of Science and Technology - Kattankulathur (Chennai),2015-09,IT,0.85,20.0,18.0,15.0,17.0,19.0,,,,,,0.0,131.0,77.0
+Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College,,,,,,,,,,,,,,,,
+VIT University - Chennai,2016-12,AU,0.9,32.0,30.0,29.0,14.0,30.0,,,,,,0.0,151.0,84.0
+PSG College of Technology (Coimbatore),,,,,,,,,,,,,,,,
+Delhi Technological University,,,,,,,,,,,,,,,,
+Manipal Academy of Higher Education,,,,,,,,,,,,,,,,
+Don Bosco Institute of Technology,,,,,,,,,,,,,,,,
+Dwarkadas. J. Sanghvi College of Engineering (Mumbai),2018-07,EA,0.88,16.0,16.0,16.0,7.0,16.0,,,,,,0.0,78.0,145.0
+Indian Institute of Technology Bombay (Mumbai),2019-07,UK,0.85,64.0,30.0,34.0,43.0,30.0,,,18.0,27.0,,0.0,247.0,82.0
+Indian Institute of Technology Bombay (Mumbai),2018-07,UK,0.88,70.0,45.0,37.0,44.0,27.0,,,,,,-4.0,184.0,87.0
+Indian Institute of Technology Bombay (Mumbai),2016-07,UK,0.98,106.0,67.0,45.0,88.0,50.0,,,56.0,41.0,,0.0,182.0,67.0
+Indian Institute of Technology Bombay (Mumbai),2015-07,UK,0.94,92.0,56.0,60.0,36.0,34.0,,,,,,0.0,183.0,63.0
+Indian Institute of Technology Bombay (Mumbai),2014-07,UK,0.98,90.0,55.0,44.0,52.0,28.0,40.0,39.0,43.0,24.0,,-50.0,180.0,56.0
+Indian Institute of Technology Bombay (Mumbai),2013-07,UK,0.97,83.0,54.0,37.0,36.0,53.0,,,47.0,47.0,,0.0,193.0,50.0
+Indian Institute of Technology Bombay (Mumbai),2012-07,UK,0.95,97.0,79.0,78.0,65.0,67.0,,,,,,-2.0,125.0,38.0
+K. J. Somaiya College of Engineering (Mumbai),2019-08,DE,0.97,38.0,22.0,16.0,4.0,30.0,,,,,,-10.0,203.0,84.0
+Rajiv Gandhi Institute of Technology - Mumbai,,,,,,,,,,,,,,,,
+"Sardar Patel College of Engineering, Mumbai (Mumbai)",,,,,,,,,,,,,,,,
+Thakur College of Engineering and Technology (Mumbai),,,,,,,,,,,,,,,,
+Sandip University,,,,,,,,,,,,,,,,
+Pillai College Of Engineering (Navi Mumbai),,,,,,,,,,,,,,,,
+Indian Institute of Technology Delhi,2019-08,DE,0.97,38.0,25.0,20.0,30.0,25.0,19.0,,19.0,,,-10.0,189.0,106.0
+Indian Institute of Technology Delhi,2017-08,DE,0.96,34.0,31.0,19.0,28.0,32.0,,,,,,20.0,135.0,113.0
+Indian Institute of Technology Delhi,2016-08,DE,1.0,37.0,37.0,36.0,36.0,34.0,,,,,,-35.0,82.0,96.0
+Jamia Millia Islamia,,,,,,,,,,,,,,,,
+University of Delhi,,,,,,,,,,,,,,,,
+"J.S.S. Academy of Technical Education, Noida",,,,,,,,,,,,,,,,
+"Birla Institute of Technology & Science , Pilani",,,,,,,,,,,,,,,,
+Indian Institute of Technology Goa,,,,,,,,,,,,,,,,
+College of Engineering Pune,,,,,,,,,,,,,,,,
+"D.Y. Patil School of Engineering Academy, Ambi (Pune)",,,,,,,,,,,,,,,,
+Dr. D. Y. Patil Institute Of Engineering and Technology (Pune),,,,,,,,,,,,,,,,
+Pimpri Chinchwad College Of Engineering (Pune),,,,,,,,,,,,,,,,
+RMD Sinhgad School of Engineering,,,,,,,,,,,,,,,,
+Savitribai Phule Pune University,,,,,,,,,,,,,,,,
+Smt. Kashibai Navale College of Engineering (Pune),,,,,,,,,,,,,,,,
+Vishwakarma Institute of Technology (Pune),,,,,,,,,,,,,,,,
+"Birla Institute of Technology, Mesra",,,,,,,,,,,,,,,,
+Indian Institute of Technology Roorkee,2015-12,AU,0.92,29.0,25.0,19.0,20.0,24.0,,,,24.0,,0.0,195.0,66.0
+National Institute of Technology - Rourkela,,,,,,,,,,,,,,,,
+"A.P. Shah Institute of Technology, Thane",,,,,,,,,,,,,,,,
+VIT University - Vellore,2018-07,IT,0.85,18.0,12.0,5.0,8.0,13.0,,,,,,-20.0,200.0,85.0
+VIT University - Vellore,2015-08,DE,0.98,39.0,39.0,37.0,36.0,39.0,,,,,,-55.0,22.0,86.0
+VIT University - Vellore,2014-09,IT,0.85,20.0,19.0,,15.0,18.0,,,,,,-20.0,63.0,79.0
+VIT University - Vellore,2013-07,UK,0.97,83.0,76.0,55.0,77.0,82.0,,,,,,0.0,80.0,59.0
+National Institute of Technology - Warangal,,,,,,,,,,,,,,,,
+Islamic University of Indonesia (Sleman),,,,,,,,,,,,,,,,
+Sepuluh Nopember Institute of Technology,2019-08,JP,0.96,87.0,77.0,64.0,37.0,77.0,,,,,,-16.0,76.0,176.0
+Gadjah Mada University,2019-08,JP,0.96,87.0,81.0,85.0,11.0,75.0,,,,,,-50.0,50.0,183.0
+Gadjah Mada University,2017-09,JP,0.92,83.0,81.0,74.0,4.0,69.0,,,,,,-50.0,65.0,130.0
+Islamic Azad University of Karaj,2013-09,IT,0.95,24.0,24.0,22.0,22.0,24.0,,,,,,-50.0,38.0,75.0
+Sharif University of Technology,,,,,,,,,,,,,,,,
+Ben-Gurion University of the Negev (Be'er Sheva),2019-07,IT,0.85,25.0,23.0,,22.0,11.0,,,,,,0.0,149.0,128.0
+Ben-Gurion University of the Negev (Be'er Sheva),2016-08,ES,0.97,29.0,26.0,25.0,22.0,27.0,,20.0,,,,0.0,161.0,72.0
+Ben-Gurion University of the Negev (Be'er Sheva),2015-09,IT,0.85,20.0,15.0,7.0,13.0,12.0,,,,,,-10.0,213.0,68.0
+Ben-Gurion University of the Negev (Be'er Sheva),2015-09,CZ,0.85,13.0,13.0,13.0,6.0,13.0,,,,,,0.0,166.0,70.0
+Technion - Israel Institute of Technology,,,,,,,,,,,,,,,,
+Politecnico di Bari,,,,,,,,,,,,,,,,
+Alma Mater Studiorum - Università di Bologna,,,,,,,,,,,,,,,,
+Università degli Studi di Cassino e del Lazio Meridionale,,,,,,,,,,,,,,,,
+Politecnico di Milano,,,,,,,,,,,,,,,,
+Università degli Studi di Napoli Federico II,2019-07,IT,0.85,25.0,22.0,20.0,17.0,24.0,,,,,,0.0,151.0,135.0
+Università degli studi di Padova,2019-08,DE,0.97,38.0,19.0,4.0,17.0,10.0,,,,,,0.0,258.0,70.0
+Università degli studi di Padova,2019-07,IT,0.85,25.0,7.0,5.0,7.0,12.0,6.0,6.0,8.0,,,0.0,360.0,73.0
+Università degli studi di Padova,2018-07,IT,0.85,18.0,8.0,2.0,10.0,5.0,,,,,,0.0,277.0,71.0
+Università degli studi di Padova,2016-08,DE,1.0,37.0,32.0,32.0,34.0,28.0,,,,,,0.0,149.0,75.0
+Università degli Studi di Parma,2019-07,IT,0.85,25.0,15.0,16.0,19.0,14.0,,,,,,0.0,207.0,95.0
+"Università degli Studi di Roma ""La Sapienza""",2019-08,ES,0.95,39.0,39.0,28.0,39.0,39.0,,,,,,0.0,88.0,152.0
+"Università degli Studi di Roma ""La Sapienza""",2018-08,ES,0.97,38.0,32.0,34.0,24.0,27.0,,,,,,0.0,145.0,104.0
+"Università degli Studi di Roma ""La Sapienza""",2018-07,IT,0.85,18.0,14.0,4.0,14.0,11.0,,,,,,-90.0,146.0,97.0
+"Università degli Studi di Roma ""La Sapienza""",2017-08,ES,0.97,30.0,28.0,23.0,29.0,27.0,,,,,,0.0,174.0,83.0
+"Università degli Studi di Roma ""La Sapienza""",2017-07,IT,0.85,18.0,10.0,4.0,16.0,6.0,,,,,,0.0,236.0,86.0
+"Università degli Studi di Roma ""La Sapienza""",2016-07,IT,0.85,20.0,17.0,12.0,15.0,15.0,,,,,,0.0,185.0,77.0
+"Università degli Studi di Roma ""La Sapienza""",2015-09,IT,0.85,20.0,19.0,10.0,20.0,16.0,,,,,,-110.0,67.0,86.0
+"Università degli Studi di Roma ""La Sapienza""",2015-08,ES,0.97,30.0,30.0,28.0,30.0,29.0,,,,,,0.0,83.0,79.0
+"Università degli Studi di Roma ""La Sapienza""",2014-08,ES,0.96,23.0,21.0,20.0,18.0,21.0,,,,,,0.0,144.0,65.0
+"Università degli Studi di Roma ""La Sapienza""",2013-09,IT,0.95,24.0,22.0,20.0,17.0,23.0,,,,,,0.0,115.0,63.0
+Università degli Studi di Trento,2018-08,ES,0.97,38.0,30.0,33.0,3.0,26.0,,,,,,0.0,165.0,88.0
+Università degli Studi di Trento,2018-07,IT,0.85,18.0,10.0,13.0,4.0,9.0,,,,,,0.0,249.0,80.0
+Università degli Studi di Trento,2017-07,IT,0.85,18.0,16.0,15.0,12.0,13.0,,,,,,-30.0,135.0,107.0
+Università degli studi di Trieste,,,,,,,,,,,,,,,,
+Politecnico di Torino,2019-08,ES,0.95,39.0,14.0,4.0,12.0,16.0,7.0,14.0,7.0,,,0.0,399.0,30.0
+Politecnico di Torino,2019-08,CZ,0.85,15.0,6.0,2.0,6.0,2.0,4.0,5.0,3.0,,,0.0,488.0,20.0
+Politecnico di Torino,2019-07,IT,0.85,25.0,1.0,2.0,16.0,2.0,3.0,2.0,,1.0,1.0,0.0,802.0,14.0
+Politecnico di Torino,2018-08,ES,0.97,38.0,13.0,25.0,7.0,17.0,9.0,10.0,12.0,13.0,11.0,0.0,510.0,23.0
+Politecnico di Torino,2018-07,IT,0.85,18.0,3.0,3.0,15.0,4.0,4.0,4.0,4.0,3.0,4.0,0.0,700.0,25.0
+Politecnico di Torino,2017-08,ES,0.97,30.0,23.0,25.0,21.0,23.0,,,13.0,,,0.0,240.0,29.0
+Politecnico di Torino,2017-08,CZ,0.86,14.0,5.0,7.0,3.0,8.0,3.0,2.0,2.0,5.0,3.0,0.0,755.0,14.0
+Politecnico di Torino,2017-07,IT,0.85,18.0,3.0,6.0,8.0,5.0,3.0,1.0,2.0,3.0,5.0,-10.0,837.0,19.0
+Politecnico di Torino,2016-07,IT,0.85,20.0,9.0,4.0,9.0,10.0,5.0,5.0,,,,0.0,321.0,40.0
+Politecnico di Torino,2015-09,IT,0.85,20.0,5.0,18.0,16.0,4.0,12.0,6.0,11.0,4.0,6.0,0.0,581.0,33.0
+Politecnico di Torino,2015-08,AT,0.96,18.0,18.0,17.0,17.0,14.0,,,17.0,18.0,,0.0,230.0,47.0
+Politecnico di Torino,2014-09,IT,0.85,20.0,10.0,7.0,10.0,4.0,12.0,9.0,12.0,12.0,,0.0,321.0,46.0
+Politecnico di Torino,2014-07,UK,0.98,90.0,61.0,57.0,76.0,21.0,,,,,,0.0,172.0,38.0
+Politecnico di Torino,2013-08,DE,1.0,40.0,36.0,21.0,27.0,34.0,,,,,,-15.0,165.0,17.0
+Politecnico di Torino,2012-09,IT,0.85,17.0,3.0,1.0,1.0,3.0,3.0,5.0,1.0,4.0,5.0,0.0,868.0,7.0
+Politecnico di Torino,2012-08,HU,0.91,39.0,5.0,7.0,17.0,11.0,4.0,1.0,12.0,9.0,3.0,0.0,792.0,8.0
+Politecnico di Torino,2012-07,UK,0.95,97.0,68.0,71.0,34.0,48.0,,,,,,-3.0,170.0,32.0
+Kanagawa Institute of Technology,2019-08,JP,0.96,87.0,86.0,,84.0,66.0,,,,,,-40.0,12.0,191.0
+Kanagawa Institute of Technology,2014-09,JP,0.93,75.0,68.0,66.0,66.0,55.0,,,,,,0.0,60.0,75.0
+Kanagawa Institute of Technology,2013-09,IT,0.95,24.0,20.0,18.0,20.0,21.0,,,,,,0.0,143.0,60.0
+Shizuoka Institute of Science and Technology,2018-09,JP,0.95,86.0,83.0,72.0,30.0,79.0,,,,,,-50.0,36.0,152.0
+Shizuoka Institute of Science and Technology,2017-09,JP,0.92,83.0,75.0,42.0,60.0,82.0,,,54.0,58.0,,-23.0,112.0,109.0
+Shizuoka Institute of Science and Technology,2016-09,JP,0.94,83.0,56.0,49.0,15.0,30.0,,,,,,0.0,148.0,71.0
+Shizuoka Institute of Science and Technology,2015-09,JP,0.95,75.0,47.0,46.0,14.0,52.0,,39.0,1.0,50.0,,0.0,223.0,50.0
+Shizuoka Institute of Science and Technology,2014-09,JP,0.93,75.0,44.0,55.0,26.0,45.0,42.0,43.0,31.0,33.0,,0.0,261.0,46.0
+Shizuoka Institute of Science and Technology,2013-09,JP,0.93,69.0,38.0,,40.0,31.0,24.0,,18.0,46.0,2.0,0.0,356.0,30.0
+Iwate University,2019-08,JP,0.96,87.0,79.0,57.0,55.0,70.0,,,,,,-31.0,63.0,93.0
+Iwate University,2018-09,JP,0.95,86.0,35.0,40.0,13.0,51.0,37.0,52.0,47.0,37.0,5.0,0.0,484.0,48.0
+Iwate University,2017-09,JP,0.92,83.0,63.0,79.0,27.0,24.0,47.0,19.0,57.0,50.0,,0.0,163.0,64.0
+Iwate University,2016-09,JP,0.94,83.0,25.0,70.0,30.0,35.0,41.0,12.0,47.0,29.0,1.0,0.0,389.0,34.0
+Niigata Institute of Technology,2015-09,JP,0.95,75.0,70.0,64.0,59.0,70.0,40.0,,1.0,30.0,,0.0,57.0,74.0
+Niigata Institute of Technology,2013-09,JP,0.93,69.0,50.0,63.0,47.0,68.0,,,56.0,37.0,1.0,0.0,259.0,40.0
+Seikei University,2019-08,JP,0.96,87.0,74.0,61.0,52.0,55.0,,,,,,-10.0,94.0,170.0
+Daido Institute of Technology,2013-09,JP,0.93,69.0,65.0,64.0,64.0,56.0,46.0,37.0,60.0,,,0.0,75.0,65.0
+Nagoya University,2019-08,JP,0.96,87.0,3.0,34.0,15.0,3.0,4.0,4.0,17.0,10.0,2.0,0.0,746.0,2.0
+Nagoya University,2018-09,JP,0.95,86.0,3.0,19.0,10.0,2.0,3.0,32.0,16.0,16.0,7.0,0.0,777.0,3.0
+Nagoya University,2017-09,JP,0.92,83.0,4.0,16.0,1.0,2.0,3.0,28.0,15.0,16.0,2.0,0.0,766.0,8.0
+Toyota Technical College Nagoya,2019-08,JP,0.96,87.0,56.0,72.0,9.0,70.0,61.0,58.0,67.0,42.0,4.0,0.0,253.0,90.0
+Toyota Technical College Nagoya,2018-09,JP,0.95,86.0,49.0,78.0,48.0,48.0,44.0,58.0,62.0,42.0,4.0,0.0,361.0,58.0
+Toyota Technical College Nagoya,2017-09,JP,0.92,83.0,68.0,68.0,82.0,66.0,43.0,62.0,64.0,,,0.0,147.0,71.0
+Toyota Technical College Nagoya,2016-09,JP,0.94,83.0,28.0,62.0,53.0,57.0,33.0,28.0,43.0,30.0,2.0,0.0,378.0,52.0
+Toyota Technical College Nagoya,2015-09,JP,0.95,75.0,60.0,64.0,20.0,46.0,39.0,38.0,1.0,49.0,,0.0,120.0,83.0
+Toyota Technical College Nagoya,2014-09,JP,0.93,75.0,72.0,73.0,38.0,52.0,,,58.0,33.0,,0.0,21.0,85.0
+Tohoku University,2019-08,JP,0.96,87.0,61.0,25.0,65.0,66.0,15.0,41.0,,,,-15.0,197.0,103.0
+Tohoku University,2018-09,JP,0.95,86.0,81.0,46.0,21.0,63.0,,,,,,-70.0,52.0,100.0
+Tohoku University,2017-09,JP,0.92,83.0,36.0,59.0,7.0,56.0,9.0,44.0,38.0,45.0,6.0,-1.0,403.0,52.0
+Tohoku University,2016-09,JP,0.94,83.0,50.0,72.0,24.0,41.0,41.0,,49.0,48.0,,0.0,182.0,85.0
+Tohoku University,2015-09,JP,0.95,75.0,65.0,64.0,65.0,37.0,,,1.0,47.0,,0.0,81.0,87.0
+Tohoku University,2014-09,JP,0.93,75.0,71.0,63.0,53.0,72.0,,,,,,0.0,40.0,81.0
+Tohoku University,2013-09,JP,0.93,69.0,69.0,61.0,13.0,65.0,,,,,,-40.0,42.0,68.0
+Kyushu Institute of Technology,2016-09,JP,0.94,83.0,81.0,76.0,80.0,81.0,,,,,,0.0,8.0,108.0
+Toyohashi University of Technology,2019-08,JP,0.96,87.0,45.0,26.0,29.0,15.0,59.0,6.0,19.0,61.0,,0.0,349.0,37.0
+Toyohashi University of Technology,2018-09,JP,0.95,86.0,25.0,26.0,30.0,25.0,60.0,22.0,32.0,27.0,1.0,-1.0,582.0,16.0
+Kanagawa University,2019-08,JP,0.96,87.0,75.0,76.0,15.0,81.0,,,,,,-3.0,92.0,168.0
+Kanagawa University,2018-09,JP,0.95,86.0,76.0,65.0,71.0,73.0,63.0,58.0,,,,0.0,81.0,140.0
+Kanagawa University,2017-09,JP,0.92,83.0,66.0,62.0,34.0,79.0,55.0,51.0,60.0,63.0,,-1.0,154.0,104.0
+Vilnius Gediminas Technical University,,,,,,,,,,,,,,,,
+Tecnológico de Monterrey (ITESM) - Santa Fe,,,,,,,,,,,,,,,,
+Université Abdelmalek Essaadi (Tétouan),,,,,,,,,,,,,,,,
+The Hague University of Applied Sciences (Delft),2017-07,UK,0.85,62.0,62.0,58.0,37.0,56.0,,,,,,-30.0,29.0,134.0
+TU Delft,2019-08,AT,0.95,24.0,6.0,2.0,2.0,5.0,10.0,2.0,4.0,,,-10.0,453.0,20.0
+TU Delft,2019-07,EA,0.92,20.0,7.0,3.0,1.0,3.0,1.0,2.0,2.0,,,0.0,535.0,11.0
+TU Delft,2019-07,NL,0.89,21.0,1.0,4.0,1.0,1.0,3.0,1.0,4.0,1.0,2.0,0.0,943.0,5.0
+TU Delft,2018-08,DE,0.98,39.0,9.0,1.0,3.0,3.0,4.0,4.0,2.0,,,0.0,547.0,13.0
+TU Delft,2018-08,AT,0.97,19.0,10.0,3.0,5.0,2.0,15.0,13.0,1.0,,,0.0,440.0,14.0
+TU Delft,2018-07,EA,0.88,16.0,1.0,4.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,961.0,4.0
+TU Delft,2017-08,ES,0.97,30.0,4.0,14.0,22.0,3.0,,9.0,3.0,3.0,7.0,0.0,785.0,8.0
+TU Delft,2017-08,DE,0.96,34.0,13.0,11.0,3.0,2.0,5.0,,2.0,,,50.0,414.0,11.0
+TU Delft,2017-07,EA,0.99,38.0,3.0,9.0,1.0,1.0,4.0,4.0,2.0,8.0,6.0,0.0,838.0,2.0
+TU Delft,2016-08,ES,0.97,29.0,1.0,22.0,13.0,1.0,2.0,4.0,1.0,1.0,12.0,0.0,919.0,2.0
+TU Delft,2016-08,DE,1.0,37.0,2.0,8.0,7.0,5.0,2.0,4.0,5.0,1.0,7.0,0.0,900.0,3.0
+TU Delft,2016-07,UK,0.98,106.0,17.0,47.0,5.0,2.0,3.0,8.0,1.0,,,0.0,528.0,5.0
+TU Delft,2015-08,AT,0.96,18.0,9.0,3.0,7.0,2.0,3.0,3.0,3.0,16.0,14.0,0.0,580.0,2.0
+TU Delft,2015-08,DE,0.98,39.0,1.0,8.0,4.0,3.0,3.0,1.0,1.0,2.0,8.0,0.0,923.0,1.0
+TU Delft,2015-07,UK,0.94,92.0,1.0,21.0,1.0,5.0,2.0,5.0,4.0,2.0,3.0,0.0,909.0,1.0
+TU Delft,2014-08,AT,0.97,18.0,2.0,5.0,3.0,2.0,3.0,4.0,3.0,2.0,5.0,-50.0,800.0,2.0
+TU Delft,2014-08,DE,1.0,39.0,3.0,16.0,5.0,3.0,3.0,1.0,2.0,3.0,7.0,0.0,855.0,2.0
+TU Delft,2014-07,UK,0.98,90.0,1.0,32.0,17.0,4.0,2.0,2.0,1.0,7.0,2.0,0.0,856.0,2.0
+TU Delft,2013-08,AT,0.97,39.0,2.0,14.0,1.0,12.0,2.0,14.0,8.0,2.0,4.0,0.0,834.0,2.0
+TU Delft,2013-08,DE,1.0,40.0,1.0,9.0,2.0,14.0,1.0,,2.0,1.0,3.0,0.0,844.0,2.0
+TU Delft,2013-07,UK,0.97,83.0,13.0,22.0,9.0,2.0,2.0,11.0,1.0,47.0,,0.0,534.0,2.0
+TU Delft,2012-08,DE,0.99,32.0,1.0,1.0,4.0,1.0,1.0,3.0,2.0,2.0,2.0,-5.0,934.0,1.0
+TU Delft,2012-07,UK,0.95,97.0,2.0,39.0,12.0,1.0,3.0,9.0,9.0,6.0,1.0,0.0,848.0,1.0
+TU Delft,2011-08,DE,0.98,28.0,1.0,1.0,2.0,2.0,4.0,6.0,2.0,1.0,2.0,0.0,909.0,1.0
+TU Delft,2011-07,UK,0.85,10.0,1.0,1.0,4.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,910.0,2.0
+Technische Universiteit Eindhoven,2019-08,DE,0.97,38.0,5.0,3.0,11.0,13.0,14.0,4.0,14.0,5.0,6.0,-65.0,579.0,9.0
+Technische Universiteit Eindhoven,2019-07,NL,0.89,21.0,3.0,7.0,5.0,3.0,11.0,,,2.0,1.0,-20.0,678.0,11.0
+Technische Universiteit Eindhoven,2018-08,ES,0.97,38.0,6.0,3.0,3.0,13.0,10.0,3.0,11.0,7.0,9.0,0.0,720.0,13.0
+Technische Universiteit Eindhoven,2018-08,DE,0.98,39.0,5.0,17.0,10.0,14.0,12.0,11.0,10.0,8.0,8.0,0.0,678.0,21.0
+Technische Universiteit Eindhoven,2017-08,ES,0.97,30.0,12.0,2.0,6.0,17.0,8.0,11.0,7.0,,,0.0,438.0,33.0
+Technische Universiteit Eindhoven,2017-08,AT,0.92,19.0,8.0,11.0,8.0,8.0,6.0,4.0,6.0,,,0.0,391.0,38.0
+Technische Universiteit Eindhoven,2016-08,ES,0.97,29.0,14.0,2.0,16.0,6.0,18.0,13.0,15.0,,4.0,0.0,457.0,29.0
+Technische Universiteit Eindhoven,2016-08,DE,1.0,37.0,22.0,4.0,25.0,15.0,23.0,,20.0,,,0.0,270.0,38.0
+Technische Universiteit Eindhoven,2016-07,UK,0.98,106.0,42.0,22.0,31.0,7.0,21.0,15.0,,41.0,,0.0,336.0,29.0
+Technische Universiteit Eindhoven,2015-08,ES,0.97,30.0,8.0,6.0,9.0,4.0,5.0,9.0,7.0,7.0,2.0,0.0,532.0,20.0
+Technische Universiteit Eindhoven,2015-08,AT,0.96,18.0,16.0,1.0,5.0,10.0,7.0,16.0,16.0,12.0,,0.0,414.0,24.0
+Technische Universiteit Eindhoven,2015-08,DE,0.98,39.0,19.0,9.0,17.0,11.0,17.0,7.0,,,,-25.0,249.0,27.0
+Technische Universiteit Eindhoven,2014-08,ES,0.96,23.0,14.0,18.0,12.0,8.0,9.0,16.0,8.0,,7.0,0.0,412.0,17.0
+Technische Universiteit Eindhoven,2014-08,DE,1.0,39.0,5.0,12.0,21.0,8.0,8.0,4.0,,5.0,5.0,0.0,568.0,6.0
+Technische Universiteit Eindhoven,2014-07,UK,0.98,90.0,14.0,42.0,15.0,21.0,,,19.0,15.0,3.0,0.0,500.0,16.0
+Technische Universiteit Eindhoven,2013-09,ES,0.85,16.0,8.0,4.0,3.0,1.0,1.0,8.0,3.0,,,0.0,508.0,22.0
+Technische Universiteit Eindhoven,2013-08,DE,1.0,40.0,20.0,11.0,16.0,18.0,11.0,5.0,,,,0.0,331.0,16.0
+Technische Universiteit Eindhoven,2012-08,DE,0.99,32.0,4.0,5.0,5.0,9.0,6.0,1.0,8.0,5.0,6.0,-15.0,637.0,6.0
+Technische Universiteit Eindhoven,2012-07,UK,0.95,97.0,27.0,8.0,22.0,12.0,2.0,11.0,,,,0.0,358.0,8.0
+Technische Universiteit Eindhoven,2011-08,DE,0.98,28.0,6.0,10.0,9.0,11.0,6.0,9.0,,5.0,,0.0,598.0,6.0
+Technische Universiteit Eindhoven,2011-07,AT,0.94,27.0,12.0,9.0,12.0,9.0,,,13.0,10.0,1.0,0.0,395.0,4.0
+Technische Universiteit Eindhoven,2011-07,UK,0.85,10.0,3.0,5.0,3.0,6.0,2.0,3.0,4.0,3.0,4.0,0.0,552.0,4.0
+Technische Universiteit Eindhoven,2010-08,AT,0.93,27.0,4.0,18.0,4.0,8.0,14.0,18.0,11.0,10.0,2.0,0.0,762.0,2.0
+Technische Universiteit Eindhoven,2010-08,DE,1.0,15.0,2.0,9.0,2.0,3.0,5.0,2.0,4.0,2.0,2.0,0.0,785.0,2.0
+Hanze University of Applied Sciences Groningen,,,,,,,,,,,,,,,,
+Zuyd University of Applied Sciences (Heerlen),,,,,,,,,,,,,,,,
+Fontys University of Applied Sciences Campus Venlo,,,,,,,,,,,,,,,,
+University of Canterbury (Christchurch),2019-12,AU,0.85,16.0,3.0,7.0,7.0,3.0,2.0,6.0,2.0,2.0,7.0,0.0,738.0,13.0
+University of Canterbury (Christchurch),2018-12,AU,0.85,14.0,4.0,7.0,1.0,7.0,,10.0,3.0,2.0,,0.0,607.0,25.0
+University of Canterbury (Christchurch),2016-12,AU,0.9,32.0,12.0,24.0,2.0,3.0,8.0,1.0,5.0,18.0,,0.0,496.0,25.0
+University of Stavanger,2019-07,UK,0.85,64.0,50.0,56.0,46.0,31.0,,,,,,0.0,136.0,148.0
+University of Stavanger,2019-07,NL,0.89,21.0,21.0,19.0,20.0,21.0,,,,,,-20.0,97.0,147.0
+University of Stavanger,2018-07,UK,0.88,70.0,64.0,39.0,55.0,,,,,,,-4.0,77.0,118.0
+University of Stavanger,2017-07,UK,0.85,62.0,32.0,19.0,42.0,12.0,,,,45.0,,0.0,209.0,85.0
+University of Stavanger,2016-07,UK,0.98,106.0,70.0,53.0,34.0,50.0,,,,,,0.0,178.0,74.0
+University of Stavanger,2015-07,UK,0.94,92.0,74.0,48.0,58.0,77.0,,,,,,0.0,125.0,78.0
+University of Stavanger,2014-07,UK,0.98,90.0,89.0,85.0,78.0,67.0,,,,,,-50.0,32.0,79.0
+Norwegian University of Science and Technology,2019-08,DE,0.97,38.0,10.0,8.0,9.0,1.0,,2.0,2.0,,,-25.0,438.0,7.0
+Norwegian University of Science and Technology,2019-08,AT,0.95,24.0,2.0,4.0,5.0,1.0,,4.0,2.0,2.0,2.0,0.0,828.0,4.0
+Norwegian University of Science and Technology,2018-08,ES,0.97,38.0,4.0,10.0,9.0,6.0,5.0,,2.0,3.0,14.0,0.0,763.0,8.0
+Norwegian University of Science and Technology,2018-08,DE,0.98,39.0,2.0,15.0,18.0,5.0,9.0,2.0,6.0,2.0,4.0,0.0,859.0,11.0
+Norwegian University of Science and Technology,2018-08,AT,0.97,19.0,12.0,13.0,3.0,5.0,1.0,4.0,,,,0.0,418.0,38.0
+Norwegian University of Science and Technology,2017-08,ES,0.97,30.0,14.0,11.0,18.0,13.0,12.0,7.0,10.0,,,0.0,415.0,31.0
+Norwegian University of Science and Technology,2017-08,DE,0.96,34.0,16.0,16.0,8.0,10.0,,6.0,14.0,,,10.0,329.0,31.0
+Norwegian University of Science and Technology,2016-08,DE,1.0,37.0,16.0,9.0,17.0,5.0,18.0,9.0,17.0,,,0.0,366.0,15.0
+Norwegian University of Science and Technology,2016-08,AT,0.99,18.0,6.0,12.0,9.0,7.0,10.0,5.0,9.0,5.0,11.0,0.0,691.0,9.0
+Norwegian University of Science and Technology,2016-07,UK,0.98,106.0,23.0,24.0,18.0,4.0,6.0,5.0,7.0,,,0.0,489.0,17.0
+Norwegian University of Science and Technology,2015-08,AT,0.96,18.0,4.0,16.0,9.0,5.0,12.0,6.0,7.0,5.0,5.0,0.0,659.0,12.0
+Norwegian University of Science and Technology,2015-07,UK,0.94,92.0,26.0,28.0,13.0,3.0,,8.0,13.0,38.0,,0.0,388.0,23.0
+Norwegian University of Science and Technology,2014-08,DE,1.0,39.0,9.0,3.0,12.0,4.0,6.0,18.0,4.0,,,0.0,417.0,8.0
+Norwegian University of Science and Technology,2014-07,UK,0.98,90.0,9.0,,58.0,7.0,5.0,5.0,7.0,5.0,5.0,-50.0,645.0,6.0
+National University of Sciences and Technology - Karachi,,,,,,,,,,,,,,,,
+Silesian University of Technology (Gliwice),,,,,,,,,,,,,,,,
+AGH University of Science and Technology,2019-08,ES,0.95,39.0,32.0,27.0,33.0,28.0,,,,,,0.0,151.0,120.0
+AGH University of Science and Technology,2019-07,EA,0.92,20.0,16.0,20.0,17.0,7.0,,,,,,0.0,222.0,111.0
+AGH University of Science and Technology,2018-08,ES,0.97,38.0,35.0,32.0,31.0,35.0,,,,,,0.0,104.0,135.0
+AGH University of Science and Technology,2018-07,EA,0.88,16.0,15.0,14.0,16.0,11.0,,,,,,0.0,122.0,132.0
+Poznan University of Technology,,,,,,,,,,,,,,,,
+Warsaw University of Technology,,,,,,,,,,,,,,,,
+Wroclaw University of Technology,,,,,,,,,,,,,,,,
+Instituto Superior de Engenharia de Coimbra,,,,,,,,,,,,,,,,
+Instituto Superior de Engenharia de Lisboa,2018-08,ES,0.97,38.0,33.0,28.0,25.0,34.0,,,,,,0.0,123.0,121.0
+Universidade de Lisboa - Instituto Superior Técnico,2019-08,ES,0.95,39.0,15.0,8.0,8.0,13.0,16.0,16.0,8.0,,,0.0,375.0,51.0
+Universidade de Lisboa - Instituto Superior Técnico,2019-08,DE,0.97,38.0,9.0,23.0,16.0,8.0,8.0,14.0,,7.0,8.0,-35.0,475.0,47.0
+Universidade de Lisboa - Instituto Superior Técnico,2019-07,EA,0.92,20.0,14.0,15.0,4.0,9.0,11.0,11.0,13.0,,,0.0,298.0,72.0
+Universidade de Lisboa - Instituto Superior Técnico,2018-08,ES,0.97,38.0,22.0,30.0,18.0,11.0,23.0,13.0,20.0,,,0.0,260.0,59.0
+Universidade de Lisboa - Instituto Superior Técnico,2018-07,IT,0.85,18.0,9.0,15.0,2.0,3.0,6.0,5.0,7.0,7.0,,-110.0,267.0,52.0
+Universidade de Lisboa - Instituto Superior Técnico,2017-08,ES,0.97,30.0,17.0,15.0,6.0,6.0,16.0,19.0,17.0,,,0.0,357.0,41.0
+Universidade de Lisboa - Instituto Superior Técnico,2017-08,DE,0.96,34.0,17.0,14.0,7.0,5.0,17.0,,18.0,,,10.0,276.0,42.0
+Universidade de Lisboa - Instituto Superior Técnico,2017-08,CZ,0.86,14.0,9.0,1.0,4.0,1.0,,,,,,0.0,312.0,40.0
+Universidade de Lisboa - Instituto Superior Técnico,2016-08,CZ,0.85,10.0,3.0,5.0,1.0,4.0,6.0,2.0,6.0,4.0,2.0,0.0,678.0,29.0
+Universidade de Lisboa - Instituto Superior Técnico,2016-07,UK,0.98,106.0,51.0,53.0,7.0,36.0,,,37.0,26.0,,-50.0,244.0,44.0
+Universidade de Lisboa - Instituto Superior Técnico,2015-09,IT,0.85,20.0,7.0,14.0,5.0,2.0,3.0,13.0,3.0,12.0,,0.0,439.0,38.0
+Universidade de Lisboa - Instituto Superior Técnico,2015-08,ES,0.97,30.0,18.0,12.0,9.0,8.0,,,,,,0.0,239.0,39.0
+Universidade de Lisboa - Instituto Superior Técnico,2015-08,HU,0.9,37.0,21.0,21.0,26.0,14.0,,,21.0,18.0,3.0,0.0,481.0,35.0
+Universidade de Lisboa - Instituto Superior Técnico,2014-07,UK,0.98,90.0,49.0,40.0,37.0,21.0,,,,55.0,,-10.0,202.0,49.0
+Universidade de Lisboa - Instituto Superior Técnico,2013-09,ES,0.85,16.0,15.0,9.0,14.0,3.0,,,,,,0.0,236.0,42.0
+Universidade de Lisboa - Instituto Superior Técnico,2013-08,HU,0.92,37.0,30.0,15.0,2.0,12.0,,,,,,0.0,264.0,34.0
+Universidade de Lisboa - Instituto Superior Técnico,2013-08,DE,1.0,40.0,25.0,23.0,23.0,12.0,,,,,,0.0,222.0,33.0
+Universidade de Lisboa - Instituto Superior Técnico,2012-07,UK,0.95,97.0,22.0,34.0,59.0,34.0,,,,18.0,3.0,0.0,411.0,12.0
+Universidade de Lisboa - Instituto Superior Técnico,2011-08,DE,0.98,28.0,13.0,15.0,5.0,11.0,11.0,11.0,10.0,,,0.0,251.0,14.0
+Texas A&M University at Qatar (Doha),,,,,,,,,,,,,,,,
+Universitatea Transilvania din Braşov,,,,,,,,,,,,,,,,
+Technical University of Cluj-Napoca,,,,,,,,,,,,,,,,
+Belgorod state technological university named after V. G. Shukhov,2019-08,CZ,0.85,15.0,15.0,14.0,15.0,15.0,,,,,,0.0,136.0,154.0
+South Ural State University,,,,,,,,,,,,,,,,
+Ural State University of Railway Transport,,,,,,,,,,,,,,,,
+Bauman Moscow State Technical University,,,,,,,,,,,,,,,,
+Moscow State Automobile & Road Technical University - MADI,2017-07,EA,0.99,38.0,33.0,30.0,28.0,37.0,,,,,,0.0,130.0,91.0
+Moscow State Automobile & Road Technical University - MADI,2016-07,EA,0.89,28.0,15.0,19.0,18.0,21.0,18.0,,17.0,11.0,1.0,-20.0,273.0,71.0
+Moscow State Automobile & Road Technical University - MADI,2016-07,IT,0.85,20.0,18.0,7.0,19.0,18.0,,,,,,0.0,169.0,75.0
+Moscow State Automobile & Road Technical University - MADI,2015-08,ES,0.97,30.0,28.0,30.0,20.0,27.0,,,,,,0.0,107.0,78.0
+Moscow State Automobile & Road Technical University - MADI,2015-08,HU,0.9,37.0,36.0,30.0,30.0,36.0,,,,,,-5.0,109.0,77.0
+Moscow State Automobile & Road Technical University - MADI,2014-09,IT,0.85,20.0,18.0,6.0,13.0,17.0,,,,,,0.0,165.0,74.0
+Moscow State Automobile & Road Technical University - MADI,2014-08,HU,0.9,38.0,38.0,38.0,37.0,38.0,,,,,,0.0,66.0,76.0
+Moscow State Automobile & Road Technical University - MADI,2013-09,IT,0.95,24.0,23.0,13.0,21.0,22.0,,,,,,-50.0,79.0,69.0
+National Research University - Moscow Power Engineering Institute (Moscow),,,,,,,,,,,,,,,,
+Skolkovo Institute of Science and Technology (Moscow),,,,,,,,,,,,,,,,
+Togliatti State University,,,,,,,,,,,,,,,,
+University of Belgrade (Универзитет у Београду),,,,,,,,,,,,,,,,
+Slovak University of Technology in Bratislava,2019-08,CZ,0.85,15.0,13.0,15.0,12.0,11.0,,,8.0,,,0.0,200.0,125.0
+Slovak University of Technology in Bratislava,2019-07,IT,0.85,25.0,25.0,12.0,25.0,17.0,,,11.0,,,-100.0,101.0,131.0
+Slovak University of Technology in Bratislava,2018-07,EA,0.88,16.0,14.0,12.0,14.0,14.0,,,,,,0.0,147.0,81.0
+Slovak University of Technology in Bratislava,2017-08,CZ,0.86,14.0,7.0,14.0,8.0,13.0,8.0,10.0,8.0,7.0,4.0,0.0,359.0,64.0
+Slovak University of Technology in Bratislava,2017-07,EA,0.99,38.0,35.0,36.0,25.0,32.0,,,,,,0.0,120.0,95.0
+Slovak University of Technology in Bratislava,2016-08,CZ,0.85,10.0,10.0,9.0,2.0,7.0,,,,,,-70.0,157.0,69.0
+Slovak University of Technology in Bratislava,2015-09,CZ,0.85,13.0,9.0,10.0,5.0,12.0,7.0,8.0,,,4.0,0.0,342.0,58.0
+Slovak University of Technology in Bratislava,2015-08,HU,0.9,37.0,34.0,31.0,11.0,33.0,,,,,,-10.0,159.0,68.0
+Slovak University of Technology in Bratislava,2015-08,DE,0.98,39.0,37.0,33.0,35.0,36.0,,,,,,-40.0,79.0,68.0
+Slovak University of Technology in Bratislava,2014-09,IT,0.85,20.0,15.0,,15.0,19.0,6.0,10.0,10.0,15.0,,0.0,208.0,56.0
+Slovak University of Technology in Bratislava,2013-08,HU,0.92,37.0,29.0,24.0,14.0,35.0,17.0,28.0,28.0,,,0.0,284.0,38.0
+Slovak University of Technology in Bratislava,2012-09,ES,0.85,13.0,9.0,12.0,7.0,12.0,6.0,6.0,4.0,8.0,,0.0,330.0,37.0
+Slovak University of Technology in Bratislava,2011-08,DE,0.98,28.0,26.0,26.0,20.0,25.0,,,,,,-20.0,84.0,33.0
+Slovak University of Technology in Bratislava,2011-07,UK,0.85,10.0,10.0,10.0,9.0,8.0,,,,,,0.0,182.0,17.0
+Slovak University of Technology in Bratislava,2010-08,DE,1.0,15.0,12.0,1.0,15.0,11.0,,,,,,0.0,211.0,12.0
+University of Ljubljana,2019-08,DE,0.97,38.0,8.0,27.0,35.0,21.0,15.0,13.0,10.0,6.0,7.0,0.0,486.0,33.0
+University of Ljubljana,2019-08,AT,0.95,24.0,9.0,5.0,9.0,12.0,7.0,10.0,9.0,,,0.0,319.0,40.0
+University of Ljubljana,2019-07,IT,0.85,25.0,2.0,9.0,14.0,13.0,4.0,4.0,2.0,2.0,3.0,0.0,783.0,34.0
+University of Ljubljana,2019-07,EA,0.92,20.0,10.0,14.0,18.0,15.0,9.0,6.0,10.0,,,0.0,334.0,67.0
+University of Ljubljana,2019-07,NL,0.89,21.0,8.0,17.0,15.0,13.0,4.0,4.0,3.0,,,0.0,354.0,74.0
+University of Ljubljana,2018-07,EA,0.88,16.0,9.0,15.0,15.0,12.0,8.0,6.0,7.0,,,0.0,199.0,83.0
+University of Ljubljana,2018-07,IT,0.85,18.0,11.0,14.0,13.0,10.0,,,,,,0.0,225.0,75.0
+Nelson Mandela Metropolitan University (Port Elizabeth),,,,,,,,,,,,,,,,
+Yeungnam University College,,,,,,,,,,,,,,,,
+University of Ulsan,,,,,,,,,,,,,,,,
+Mondragon Unibertsitatea (Arrasate),,,,,,,,,,,,,,,,
+Escola d'Enginyeria de Barcelona Est. EEBE,2019-08,ES,0.95,39.0,34.0,25.0,37.0,29.0,,,,,,0.0,148.0,98.0
+Escola d'Enginyeria de Barcelona Est. EEBE,2019-07,IT,0.85,25.0,12.0,15.0,10.0,8.0,,,,,,0.0,240.0,78.0
+Escola d'Enginyeria de Barcelona Est. EEBE,2018-08,ES,0.97,38.0,28.0,14.0,27.0,23.0,,,,,,0.0,195.0,68.0
+Escola d'Enginyeria de Barcelona Est. EEBE,2017-08,ES,0.97,30.0,22.0,16.0,30.0,19.0,17.0,15.0,21.0,,,0.0,257.0,57.0
+Escola d'Enginyeria de Barcelona Est. EEBE,2017-08,CZ,0.86,14.0,11.0,2.0,8.0,11.0,,8.0,9.0,8.0,,0.0,295.0,60.0
+Escola d'Enginyeria de Barcelona Est. EEBE,2016-08,ES,0.97,29.0,22.0,13.0,8.0,16.0,,18.0,19.0,,,0.0,262.0,58.0
+Escola d'Enginyeria de Barcelona Est. EEBE,2015-08,ES,0.97,30.0,25.0,20.0,27.0,24.0,,,,,,0.0,138.0,73.0
+Escola d'Enginyeria de Barcelona Est. EEBE,2014-08,ES,0.96,23.0,22.0,22.0,18.0,22.0,,,,,,0.0,85.0,74.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2019-08,ES,0.95,39.0,8.0,11.0,3.0,8.0,25.0,9.0,14.0,8.0,4.0,0.0,541.0,27.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2018-08,ES,0.97,38.0,18.0,9.0,2.0,8.0,15.0,14.0,19.0,,,0.0,365.0,33.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2018-08,DE,0.98,39.0,16.0,26.0,5.0,7.0,10.0,6.0,16.0,,,-5.0,402.0,27.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2017-08,ES,0.97,30.0,9.0,2.0,3.0,7.0,11.0,12.0,15.0,9.0,10.0,0.0,640.0,14.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2017-08,DE,0.96,34.0,7.0,1.0,17.0,13.0,8.0,8.0,12.0,8.0,11.0,0.0,633.0,21.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2017-08,AT,0.92,19.0,9.0,1.0,11.0,9.0,5.0,9.0,5.0,,,0.0,389.0,28.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2016-08,ES,0.97,29.0,12.0,18.0,4.0,9.0,15.0,11.0,16.0,11.0,1.0,0.0,541.0,13.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2016-08,CZ,0.85,10.0,1.0,6.0,4.0,2.0,5.0,3.0,2.0,3.0,1.0,0.0,806.0,15.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2016-07,IT,0.85,20.0,6.0,5.0,1.0,4.0,6.0,4.0,4.0,6.0,2.0,0.0,604.0,31.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2015-08,ES,0.97,30.0,13.0,9.0,3.0,15.0,13.0,18.0,14.0,8.0,,0.0,309.0,44.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2015-08,DE,0.98,39.0,23.0,20.0,20.0,14.0,,,,,,0.0,211.0,49.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2014-08,ES,0.96,23.0,16.0,10.0,3.0,14.0,,17.0,14.0,,,0.0,270.0,46.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2014-08,DE,1.0,39.0,24.0,11.0,22.0,11.0,,,,,,0.0,238.0,43.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2013-09,IT,0.95,24.0,15.0,6.0,5.0,9.0,15.0,10.0,,16.0,,0.0,283.0,36.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2013-09,ES,0.85,16.0,9.0,3.0,5.0,6.0,14.0,5.0,13.0,,1.0,0.0,456.0,30.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2013-08,DE,1.0,40.0,24.0,1.0,11.0,18.0,,,21.0,,,0.0,247.0,32.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2012-09,IT,0.85,17.0,9.0,2.0,5.0,11.0,6.0,7.0,8.0,9.0,9.0,0.0,477.0,30.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2012-09,ES,0.85,13.0,12.0,5.0,8.0,8.0,9.0,5.0,10.0,,,-60.0,225.0,40.0
+Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,2012-08,DE,0.99,32.0,27.0,2.0,29.0,27.0,,,,,,0.0,180.0,35.0
+University of the Basque Country,2019-08,ES,0.95,39.0,10.0,9.0,19.0,10.0,21.0,21.0,20.0,9.0,5.0,0.0,502.0,34.0
+University of the Basque Country,2019-07,UK,0.85,64.0,10.0,2.0,6.0,3.0,24.0,8.0,9.0,20.0,2.0,0.0,540.0,47.0
+University of the Basque Country,2018-08,ES,0.97,38.0,21.0,6.0,12.0,10.0,,,20.0,16.0,,0.0,282.0,52.0
+University of the Basque Country,2018-07,UK,0.88,70.0,24.0,3.0,1.0,11.0,8.0,10.0,,34.0,,0.0,375.0,45.0
+University of the Basque Country,2017-08,ES,0.97,30.0,19.0,12.0,13.0,18.0,,20.0,19.0,11.0,,0.0,326.0,44.0
+University of the Basque Country,2017-07,UK,0.85,62.0,19.0,7.0,1.0,5.0,2.0,8.0,,43.0,,0.0,386.0,52.0
+University of the Basque Country,2016-08,ES,0.97,29.0,19.0,6.0,20.0,14.0,13.0,16.0,18.0,,,0.0,315.0,47.0
+University of the Basque Country,2016-07,UK,0.98,106.0,58.0,52.0,7.0,36.0,,,,,,0.0,216.0,51.0
+University of the Basque Country,2015-08,ES,0.97,30.0,17.0,16.0,15.0,23.0,16.0,10.0,14.0,,,0.0,242.0,43.0
+University of the Basque Country,2015-07,UK,0.94,92.0,40.0,37.0,33.0,34.0,20.0,24.0,39.0,47.0,,0.0,258.0,36.0
+University of the Basque Country,2014-08,ES,0.96,23.0,13.0,14.0,4.0,20.0,15.0,14.0,13.0,12.0,1.0,0.0,433.0,29.0
+University of the Basque Country,2014-07,UK,0.98,90.0,31.0,29.0,24.0,28.0,33.0,17.0,34.0,49.0,,0.0,291.0,41.0
+University of the Basque Country,2013-09,ES,0.85,16.0,11.0,12.0,7.0,13.0,13.0,12.0,10.0,,9.0,0.0,361.0,34.0
+University of the Basque Country,2013-07,UK,0.97,83.0,52.0,26.0,1.0,60.0,,,,,,0.0,202.0,44.0
+University of the Basque Country,2012-09,ES,0.85,13.0,11.0,3.0,12.0,11.0,11.0,11.0,10.0,8.0,,0.0,235.0,38.0
+Universidad de Castilla-La Mancha,2018-08,ES,0.97,38.0,37.0,35.0,36.0,38.0,,,,,,0.0,64.0,151.0
+Universitat de Girona,,,,,,,,,,,,,,,,
+University Carlos III of Madrid (Leganés),,,,,,,,,,,,,,,,
+Universidad Politécnica de Madrid (UPM),2019-08,ES,0.95,39.0,27.0,16.0,13.0,26.0,,,,,,0.0,208.0,87.0
+Universidad Politécnica de Madrid (UPM),2019-08,DE,0.97,38.0,23.0,19.0,18.0,21.0,,,,,,-15.0,198.0,87.0
+Universidad Politécnica de Madrid (UPM),2013-08,DE,1.0,40.0,31.0,20.0,31.0,28.0,,,,,,0.0,184.0,53.0
+Universidad Politécnica de Madrid (UPM),2012-07,UK,0.95,97.0,76.0,48.0,78.0,80.0,,,,,,0.0,129.0,42.0
+Universidad Politécnica de Madrid (UPM),2011-08,DE,0.98,28.0,27.0,,18.0,,,,,,,0.0,54.0,36.0
+Universidad Pontificia Comillas (Madrid),2019-08,ES,0.95,39.0,37.0,35.0,35.0,36.0,,,,,,0.0,104.0,166.0
+Universidad Pontificia Comillas (Madrid),2018-08,ES,0.97,38.0,36.0,31.0,35.0,36.0,,,,,,0.0,89.0,142.0
+Universidad de Oviedo,2016-08,ES,0.97,29.0,28.0,26.0,28.0,22.0,,,,,,0.0,139.0,80.0
+University of Cadiz (Puerto Real),,,,,,,,,,,,,,,,
+University of La Laguna,,,,,,,,,,,,,,,,
+TECNUN - University of Navarra (San Sebastián),2019-08,ES,0.95,39.0,30.0,17.0,34.0,25.0,,,,,,0.0,188.0,97.0
+TECNUN - University of Navarra (San Sebastián),2019-07,NL,0.89,21.0,16.0,7.0,19.0,11.0,,,,,,0.0,207.0,92.0
+TECNUN - University of Navarra (San Sebastián),2018-08,ES,0.97,38.0,29.0,11.0,34.0,25.0,,,20.0,,,0.0,186.0,91.0
+TECNUN - University of Navarra (San Sebastián),2017-08,ES,0.97,30.0,29.0,28.0,19.0,29.0,,,,,,0.0,155.0,94.0
+TECNUN - University of Navarra (San Sebastián),2017-07,IT,0.85,18.0,12.0,16.0,10.0,12.0,,,,,,0.0,169.0,90.0
+TECNUN - University of Navarra (San Sebastián),2016-08,ES,0.97,29.0,23.0,28.0,8.0,22.0,,,,,,0.0,183.0,73.0
+TECNUN - University of Navarra (San Sebastián),2015-08,ES,0.97,30.0,26.0,25.0,28.0,26.0,,,,,,0.0,125.0,69.0
+TECNUN - University of Navarra (San Sebastián),2014-09,IT,0.85,20.0,17.0,11.0,14.0,16.0,13.0,14.0,14.0,13.0,,0.0,180.0,66.0
+TECNUN - University of Navarra (San Sebastián),2013-09,ES,0.85,16.0,16.0,10.0,6.0,15.0,,,,,,0.0,200.0,56.0
+TECNUN - University of Navarra (San Sebastián),2012-09,ES,0.85,13.0,13.0,13.0,11.0,13.0,,,,,,0.0,16.0,57.0
+University of Seville,2019-08,ES,0.95,39.0,29.0,14.0,1.0,33.0,,,,,,0.0,201.0,96.0
+University of Seville,2019-08,DE,0.97,38.0,30.0,10.0,29.0,27.0,,,,,,-25.0,172.0,95.0
+University of Seville,2018-08,ES,0.97,38.0,27.0,26.0,1.0,24.0,,,,,,0.0,197.0,76.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2019-08,ES,0.95,39.0,13.0,3.0,5.0,11.0,13.0,11.0,10.0,13.0,,0.0,424.0,49.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2019-08,DE,0.97,38.0,14.0,7.0,28.0,8.0,12.0,9.0,12.0,,,-5.0,370.0,49.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2019-07,EA,0.92,20.0,8.0,2.0,3.0,5.0,7.0,5.0,11.0,,,0.0,425.0,51.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2019-07,NL,0.89,21.0,9.0,1.0,2.0,6.0,10.0,,9.0,,,0.0,308.0,57.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2018-08,ES,0.97,38.0,24.0,20.0,38.0,13.0,,20.0,20.0,,,0.0,230.0,43.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2017-08,ES,0.97,30.0,18.0,2.0,24.0,15.0,10.0,22.0,21.0,,,0.0,328.0,24.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2016-12,AU,0.9,32.0,2.0,12.0,3.0,1.0,3.0,6.0,13.0,9.0,3.0,0.0,832.0,7.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2016-08,ES,0.97,29.0,7.0,4.0,22.0,8.0,8.0,12.0,14.0,10.0,2.0,0.0,629.0,15.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2016-08,DE,1.0,37.0,8.0,3.0,11.0,23.0,19.0,17.0,24.0,6.0,1.0,0.0,454.0,21.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2016-07,UK,0.98,106.0,11.0,3.0,23.0,23.0,24.0,34.0,36.0,18.0,1.0,0.0,593.0,22.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2015-09,IT,0.85,20.0,8.0,2.0,7.0,6.0,4.0,11.0,2.0,10.0,,-50.0,429.0,39.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2015-08,ES,0.97,30.0,14.0,1.0,9.0,22.0,14.0,17.0,14.0,,,0.0,289.0,48.0
+"Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)",2015-07,UK,0.94,92.0,44.0,8.0,4.0,44.0,,,,,,0.0,227.0,58.0
+Universitat de Vic - Universitat Central de Catalunya,,,,,,,,,,,,,,,,
+Vitoria-University of the Basque Country,,,,,,,,,,,,,,,,
+University of Moratuwa,,,,,,,,,,,,,,,,
+Chalmers University of Technology (Göteborg),2019-08,AT,0.95,24.0,14.0,13.0,21.0,9.0,,,,,,0.0,221.0,54.0
+Chalmers University of Technology (Göteborg),2019-07,NL,0.89,21.0,15.0,10.0,21.0,8.0,12.0,,,,,0.0,223.0,36.0
+Chalmers University of Technology (Göteborg),2018-08,ES,0.97,38.0,11.0,23.0,30.0,18.0,21.0,9.0,17.0,8.0,15.0,0.0,582.0,12.0
+Chalmers University of Technology (Göteborg),2018-08,AT,0.97,19.0,3.0,4.0,8.0,10.0,4.0,9.0,5.0,3.0,5.0,0.0,811.0,10.0
+Chalmers University of Technology (Göteborg),2017-08,DE,0.96,34.0,8.0,10.0,10.0,10.0,9.0,9.0,7.0,11.0,10.0,0.0,556.0,23.0
+Chalmers University of Technology (Göteborg),2016-08,DE,1.0,37.0,9.0,16.0,15.0,15.0,15.0,12.0,7.0,,10.0,-15.0,442.0,16.0
+Chalmers University of Technology (Göteborg),2016-07,UK,0.98,106.0,6.0,19.0,27.0,23.0,26.0,,9.0,7.0,5.0,0.0,678.0,18.0
+Chalmers University of Technology (Göteborg),2015-08,DE,0.98,39.0,15.0,13.0,28.0,23.0,12.0,,11.0,,14.0,0.0,351.0,33.0
+Chalmers University of Technology (Göteborg),2015-07,UK,0.94,92.0,42.0,20.0,36.0,12.0,,,,,,0.0,238.0,54.0
+Karlstad University,,,,,,,,,,,,,,,,
+Linköping University,,,,,,,,,,,,,,,,
+Lund University,,,,,,,,,,,,,,,,
+KTH Royal Institute of Technology (Stockholm),2019-07,IT,0.85,25.0,14.0,14.0,5.0,16.0,,,,,,0.0,220.0,113.0
+KTH Royal Institute of Technology (Stockholm),2018-07,UK,0.88,70.0,53.0,55.0,46.0,44.0,,,,,,-10.0,128.0,97.0
+KTH Royal Institute of Technology (Stockholm),2017-07,UK,0.85,62.0,45.0,41.0,53.0,24.0,,,,45.0,,0.0,149.0,68.0
+KTH Royal Institute of Technology (Stockholm),2016-07,IT,0.85,20.0,7.0,8.0,13.0,12.0,9.0,9.0,6.0,8.0,,0.0,364.0,41.0
+KTH Royal Institute of Technology (Stockholm),2015-07,UK,0.94,92.0,31.0,29.0,63.0,57.0,,32.0,41.0,23.0,1.0,0.0,344.0,49.0
+KTH Royal Institute of Technology (Stockholm),2013-08,AT,0.97,39.0,37.0,30.0,18.0,35.0,,,,,,0.0,151.0,54.0
+KTH Royal Institute of Technology (Stockholm),2012-08,DE,0.99,32.0,30.0,28.0,24.0,29.0,,,,,,0.0,150.0,42.0
+KTH Royal Institute of Technology (Stockholm),2011-08,DE,0.98,28.0,23.0,21.0,15.0,20.0,,,,,,-5.0,157.0,29.0
+Bern University of Applied Sciences,2019-08,ES,0.95,39.0,35.0,33.0,21.0,31.0,,,,,,0.0,147.0,117.0
+Bern University of Applied Sciences,2017-08,ES,0.97,30.0,25.0,13.0,27.0,23.0,,23.0,21.0,,,0.0,209.0,86.0
+Bern University of Applied Sciences,2017-08,AT,0.92,19.0,16.0,15.0,19.0,18.0,,,,,,-5.0,155.0,114.0
+Bern University of Applied Sciences,2015-09,IT,0.85,20.0,20.0,19.0,19.0,18.0,,,,,,-50.0,66.0,92.0
+École Polytechnique Fédérale de Lausanne,2019-08,ES,0.95,39.0,36.0,34.0,17.0,34.0,,,,,,0.0,130.0,148.0
+École Polytechnique Fédérale de Lausanne,2019-08,DE,0.97,38.0,34.0,35.0,20.0,30.0,,,,,,-36.0,113.0,156.0
+Zürcher Hochschule für Angewandte Wissenschaften,,,,,,,,,,,,,,,,
+ETH Zürich,2019-08,ES,0.95,39.0,12.0,1.0,25.0,5.0,10.0,7.0,9.0,,,0.0,435.0,35.0
+ETH Zürich,2019-08,DE,0.97,38.0,12.0,13.0,9.0,2.0,18.0,3.0,11.0,,,0.0,408.0,34.0
+ETH Zürich,2019-08,AT,0.95,24.0,11.0,1.0,4.0,3.0,,,,,,0.0,310.0,29.0
+ETH Zürich,2019-07,NL,0.89,21.0,6.0,2.0,4.0,2.0,8.0,6.0,6.0,,,0.0,429.0,12.0
+ETH Zürich,2018-08,ES,0.97,38.0,7.0,7.0,13.0,1.0,3.0,7.0,7.0,11.0,3.0,0.0,720.0,1.0
+ETH Zürich,2018-08,DE,0.98,39.0,1.0,5.0,15.0,1.0,2.0,13.0,5.0,4.0,1.0,0.0,884.0,1.0
+ETH Zürich,2018-08,AT,0.97,19.0,5.0,1.0,4.0,1.0,12.0,2.0,2.0,8.0,1.0,0.0,699.0,1.0
+ETH Zürich,2017-08,ES,0.97,30.0,1.0,1.0,13.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,982.0,1.0
+ETH Zürich,2017-08,DE,0.96,34.0,2.0,14.0,9.0,1.0,3.0,3.0,4.0,4.0,3.0,0.0,825.0,3.0
+ETH Zürich,2017-08,AT,0.92,19.0,1.0,12.0,6.0,2.0,2.0,6.0,1.0,1.0,1.0,0.0,949.0,5.0
+ETH Zürich,2017-07,EA,0.99,38.0,11.0,2.0,11.0,2.0,5.0,3.0,5.0,,,0.0,538.0,6.0
+ETH Zürich,2016-08,ES,0.97,29.0,2.0,10.0,5.0,2.0,1.0,1.0,4.0,2.0,5.0,0.0,911.0,3.0
+ETH Zürich,2016-08,DE,1.0,37.0,5.0,21.0,5.0,1.0,1.0,5.0,3.0,,5.0,0.0,610.0,4.0
+ETH Zürich,2016-08,AT,0.99,18.0,1.0,4.0,3.0,1.0,1.0,1.0,1.0,1.0,6.0,0.0,946.0,1.0
+ETH Zürich,2016-07,UK,0.98,106.0,20.0,37.0,3.0,1.0,2.0,1.0,10.0,,,0.0,515.0,1.0
+ETH Zürich,2015-08,ES,0.97,30.0,1.0,4.0,2.0,1.0,2.0,1.0,1.0,2.0,8.0,0.0,929.0,1.0
+ETH Zürich,2015-08,AT,0.96,18.0,1.0,4.0,2.0,1.0,1.0,4.0,1.0,1.0,12.0,0.0,933.0,1.0
+ETH Zürich,2015-08,DE,0.98,39.0,2.0,1.0,2.0,4.0,1.0,3.0,3.0,1.0,12.0,-35.0,868.0,2.0
+ETH Zürich,2015-07,UK,0.94,92.0,17.0,34.0,32.0,1.0,1.0,1.0,3.0,,,0.0,529.0,2.0
+ETH Zürich,2014-08,ES,0.96,23.0,1.0,4.0,1.0,1.0,1.0,1.0,1.0,2.0,11.0,0.0,959.0,1.0
+ETH Zürich,2014-08,AT,0.97,18.0,1.0,7.0,2.0,1.0,1.0,1.0,2.0,1.0,4.0,0.0,962.0,1.0
+ETH Zürich,2014-08,DE,1.0,39.0,1.0,4.0,8.0,1.0,2.0,2.0,1.0,1.0,8.0,0.0,934.0,1.0
+ETH Zürich,2014-07,UK,0.98,90.0,4.0,16.0,7.0,3.0,1.0,3.0,6.0,9.0,1.0,0.0,827.0,1.0
+ETH Zürich,2013-09,IT,0.95,24.0,2.0,8.0,1.0,1.0,1.0,1.0,2.0,2.0,3.0,0.0,855.0,1.0
+ETH Zürich,2013-08,AT,0.97,39.0,1.0,7.0,5.0,1.0,1.0,1.0,3.0,4.0,5.0,0.0,937.0,1.0
+ETH Zürich,2013-08,DE,1.0,40.0,2.0,3.0,3.0,1.0,2.0,8.0,21.0,2.0,10.0,0.0,834.0,1.0
+ETH Zürich,2013-07,UK,0.97,83.0,1.0,9.0,3.0,1.0,7.0,16.0,3.0,1.0,3.0,0.0,921.0,1.0
+ETH Zürich,2012-09,ES,0.85,13.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,,0.0,926.0,2.0
+ETH Zürich,2012-08,DE,0.99,32.0,2.0,3.0,6.0,2.0,3.0,21.0,1.0,1.0,7.0,0.0,874.0,2.0
+ETH Zürich,2012-07,AT,0.95,37.0,2.0,5.0,21.0,1.0,1.0,7.0,1.0,4.0,2.0,0.0,827.0,2.0
+ETH Zürich,2012-07,UK,0.95,97.0,13.0,20.0,33.0,4.0,1.0,3.0,2.0,52.0,,0.0,522.0,3.0
+ETH Zürich,2011-08,DE,0.98,28.0,2.0,6.0,23.0,1.0,2.0,1.0,5.0,4.0,3.0,0.0,853.0,2.0
+ETH Zürich,2011-07,AT,0.94,27.0,4.0,10.0,22.0,2.0,1.0,6.0,7.0,7.0,2.0,0.0,678.0,3.0
+ETH Zürich,2011-07,UK,0.85,10.0,2.0,2.0,8.0,3.0,3.0,,2.0,1.0,3.0,0.0,728.0,3.0
+ETH Zürich,2010-08,AT,0.93,27.0,5.0,24.0,18.0,3.0,13.0,12.0,15.0,7.0,4.0,0.0,745.0,3.0
+ETH Zürich,2010-08,DE,1.0,15.0,5.0,4.0,7.0,1.0,3.0,3.0,3.0,,,0.0,486.0,5.0
+National Tsing Hua University (Hsinchu),2019-08,JP,0.96,87.0,9.0,51.0,4.0,25.0,5.0,33.0,44.0,18.0,3.0,0.0,575.0,18.0
+National Tsing Hua University (Hsinchu),2018-09,JP,0.95,86.0,33.0,51.0,48.0,30.0,30.0,54.0,62.0,23.0,2.0,0.0,490.0,30.0
+National Cheng Kung University,2019-08,JP,0.96,87.0,80.0,68.0,52.0,69.0,,,,,,-40.0,52.0,185.0
+National Taipei University of Technology,2019-08,JP,0.96,87.0,82.0,82.0,,73.0,,,,,,0.0,43.0,186.0
+Middle East Technical University (Ankara),,,,,,,,,,,,,,,,
+Fırat University (Elazığ),,,,,,,,,,,,,,,,
+Istanbul Technical University,,,,,,,,,,,,,,,,
+Yıldız Technical University (Istanbul),,,,,,,,,,,,,,,,
+Erciyes University (Kayseri),,,,,,,,,,,,,,,,
+University of Kocaeli,,,,,,,,,,,,,,,,
+Odessa Polytechnic National State University,,,,,,,,,,,,,,,,
+Khalifa University (Abu Dhabi),,,,,,,,,,,,,,,,
+University of Bath,2019-08,ES,0.95,39.0,16.0,19.0,6.0,20.0,24.0,,20.0,12.0,12.0,0.0,372.0,64.0
+University of Bath,2019-07,UK,0.85,64.0,31.0,16.0,34.0,6.0,,,,,,0.0,246.0,72.0
+University of Bath,2018-07,UK,0.88,70.0,17.0,35.0,3.0,16.0,16.0,23.0,24.0,23.0,2.0,-8.0,442.0,46.0
+University of Bath,2017-07,UK,0.85,62.0,39.0,26.0,45.0,20.0,,,,43.0,,0.0,180.0,92.0
+University of Bristol,2018-07,UK,0.88,70.0,66.0,60.0,29.0,,,,,,,-8.0,59.0,138.0
+University of Bristol,2016-07,UK,0.98,106.0,99.0,97.0,56.0,96.0,,,,,,0.0,83.0,93.0
+Coventry University,2015-07,UK,0.94,92.0,61.0,62.0,27.0,57.0,,,,,,0.0,154.0,68.0
+University of Strathclyde (Glasgow),,,,,,,,,,,,,,,,
+University of Surrey (Guildford),2019-07,UK,0.85,64.0,11.0,32.0,8.0,5.0,10.0,20.0,21.0,11.0,1.0,0.0,521.0,57.0
+University of Surrey (Guildford),2018-07,UK,0.88,70.0,41.0,53.0,33.0,57.0,24.0,18.0,37.0,25.0,,0.0,197.0,103.0
+University of Surrey (Guildford),2017-07,UK,0.85,62.0,53.0,35.0,44.0,58.0,,,,26.0,,0.0,115.0,122.0
+University of Surrey (Guildford),2016-07,UK,0.98,106.0,93.0,79.0,59.0,50.0,,,,,,-50.0,104.0,88.0
+University Of Hertfordshire (Hatfield),2010-08,DE,1.0,15.0,7.0,15.0,6.0,5.0,4.0,8.0,6.0,,4.0,0.0,344.0,7.0
+Kingston University,2016-07,UK,0.98,106.0,84.0,90.0,30.0,82.0,,,,,,0.0,126.0,89.0
+Kingston University,2015-07,UK,0.94,92.0,85.0,,21.0,,,,,,,0.0,58.0,82.0
+Kingston University,2014-07,UK,0.98,90.0,79.0,81.0,43.0,75.0,,,,,,0.0,107.0,69.0
+University of Leicester,2016-07,UK,0.98,106.0,103.0,,80.0,92.0,,,,,,0.0,70.0,97.0
+University of Leicester,2015-07,UK,0.94,92.0,89.0,85.0,82.0,87.0,,,,,,-10.0,36.0,88.0
+Liverpool John Moores University,,,,,,,,,,,,,,,,
+Imperial College London,2019-07,UK,0.85,64.0,48.0,27.0,40.0,45.0,,,,,,-25.0,143.0,133.0
+Imperial College London,2016-07,UK,0.98,106.0,104.0,89.0,104.0,92.0,,,,,,0.0,69.0,90.0
+Imperial College London,2015-07,UK,0.94,92.0,65.0,61.0,67.0,57.0,,,,,,0.0,141.0,70.0
+Imperial College London,2011-07,UK,0.85,10.0,5.0,7.0,2.0,9.0,,,,5.0,2.0,0.0,433.0,7.0
+Loughborough University,,,,,,,,,,,,,,,,
+Newcastle University,2017-07,UK,0.85,62.0,42.0,29.0,50.0,41.0,,,27.0,26.0,,0.0,173.0,97.0
+Newcastle University,2012-07,UK,0.95,97.0,93.0,88.0,93.0,92.0,,,,,,-7.0,32.0,45.0
+Oxford Brookes University,,,,,,,,,,,,,,,,
+University of Southampton,,,,,,,,,,,,,,,,
+Brunel University London (Uxbridge),2019-07,UK,0.85,64.0,65.0,63.0,55.0,51.0,,,,,,0.0,17.0,174.0
+University of Texas at Arlington,,,,,,,,,,,,,,,,
+University of North Carolina at Asheville,2017-06,LN,0.85,21.0,15.0,6.0,11.0,16.0,,,,,,0.0,171.0,96.0
+Auburn University,,,,,,,,,,,,,,,,
+University of Texas at Austin,2019-06,LN,0.86,25.0,7.0,10.0,9.0,4.0,6.0,7.0,8.0,6.0,6.0,-20.0,573.0,55.0
+University of Texas at Austin,2018-06,LN,0.85,21.0,18.0,6.0,19.0,16.0,,,,,,-10.0,145.0,119.0
+University of Texas at Austin,2017-06,LN,0.85,21.0,19.0,19.0,17.0,16.0,,,,,,0.0,136.0,110.0
+Virginia Polytechnic Institute and State University,2019-06,LN,0.86,25.0,19.0,10.0,19.0,16.0,,,,,,0.0,186.0,85.0
+Virginia Polytechnic Institute and State University,2017-06,LN,0.85,21.0,7.0,4.0,10.0,6.0,,,5.0,9.0,,0.0,295.0,60.0
+University of Missouri,,,,,,,,,,,,,,,,
+Oregon State University (Corvallis),2019-08,DE,0.97,38.0,31.0,32.0,15.0,19.0,,,,,,-28.0,172.0,30.0
+Oregon State University (Corvallis),2018-08,ES,0.97,38.0,5.0,19.0,31.0,13.0,11.0,5.0,6.0,5.0,7.0,0.0,723.0,4.0
+Oregon State University (Corvallis),2018-07,IT,0.85,18.0,2.0,7.0,5.0,12.0,3.0,2.0,1.0,2.0,3.0,0.0,901.0,7.0
+Oregon State University (Corvallis),2017-08,ES,0.97,30.0,8.0,20.0,9.0,11.0,17.0,10.0,11.0,7.0,3.0,0.0,647.0,12.0
+Oregon State University (Corvallis),2017-07,IT,0.85,18.0,2.0,9.0,4.0,2.0,4.0,4.0,4.0,2.0,3.0,0.0,905.0,10.0
+Oregon State University (Corvallis),2016-08,DE,1.0,37.0,11.0,2.0,1.0,12.0,13.0,11.0,11.0,,,-5.0,392.0,10.0
+Oregon State University (Corvallis),2016-08,AT,0.99,18.0,5.0,8.0,11.0,8.0,8.0,10.0,3.0,6.0,3.0,0.0,695.0,4.0
+Oregon State University (Corvallis),2015-08,AT,0.96,18.0,3.0,6.0,8.0,7.0,6.0,8.0,4.0,3.0,15.0,0.0,747.0,4.0
+Oregon State University (Corvallis),2015-08,DE,0.98,39.0,4.0,10.0,3.0,6.0,5.0,12.0,5.0,4.0,13.0,0.0,777.0,4.0
+Oregon State University (Corvallis),2014-08,AT,0.97,18.0,3.0,11.0,11.0,7.0,7.0,7.0,4.0,3.0,6.0,0.0,682.0,7.0
+Oregon State University (Corvallis),2014-08,DE,1.0,39.0,16.0,13.0,16.0,16.0,12.0,,11.0,,,0.0,288.0,13.0
+Oregon State University (Corvallis),2013-08,AT,0.97,39.0,6.0,9.0,3.0,26.0,5.0,8.0,7.0,7.0,7.0,0.0,759.0,8.0
+Oregon State University (Corvallis),2013-08,DE,1.0,40.0,18.0,13.0,6.0,8.0,4.0,17.0,,,,0.0,367.0,20.0
+Oregon State University (Corvallis),2012-08,DE,0.99,32.0,10.0,8.0,7.0,5.0,2.0,10.0,5.0,,,0.0,448.0,10.0
+Oregon State University (Corvallis),2012-07,AT,0.95,37.0,23.0,8.0,5.0,4.0,28.0,26.0,,21.0,,0.0,375.0,7.0
+Oregon State University (Corvallis),2011-08,DE,0.98,28.0,3.0,4.0,8.0,6.0,1.0,10.0,3.0,7.0,5.0,0.0,746.0,5.0
+Oregon State University (Corvallis),2011-07,AT,0.94,27.0,17.0,26.0,7.0,13.0,17.0,10.0,14.0,,,-10.0,302.0,10.0
+University of California Davis,2019-06,LN,0.86,25.0,4.0,2.0,10.0,8.0,,,10.0,2.0,5.0,0.0,651.0,39.0
+University of California Davis,2018-06,LN,0.85,21.0,17.0,1.0,,13.0,,,,,,0.0,152.0,72.0
+University of California Davis,2017-06,LN,0.85,21.0,6.0,11.0,15.0,11.0,4.0,5.0,6.0,5.0,3.0,0.0,446.0,36.0
+The University of Michigan-Dearborn,2019-06,LN,0.86,25.0,18.0,9.0,14.0,21.0,,,,,,0.0,189.0,101.0
+The University of Michigan-Dearborn,2017-06,LN,0.85,21.0,12.0,5.0,13.0,11.0,,,,,,0.0,197.0,86.0
+University of Iowa,2019-06,FN,0.85,12.0,11.0,6.0,8.0,8.0,,,,,,-50.0,134.0,133.0
+University of California Irvine,2018-06,LN,0.85,21.0,21.0,21.0,13.0,13.0,,,,,,-10.0,84.0,137.0
+Kennesaw State University,2019-06,LN,0.86,25.0,24.0,12.0,24.0,16.0,,,,,,-20.0,135.0,135.0
+University of Kansas (Lawrence),2017-06,LN,0.85,21.0,10.0,15.0,7.0,6.0,,,,,,0.0,226.0,72.0
+Olin College of Engineering (Needham),2019-06,FN,0.85,12.0,8.0,9.0,3.0,6.0,,,,,,-30.0,193.0,108.0
+Olin College of Engineering (Needham),2017-06,LN,0.85,21.0,18.0,20.0,12.0,16.0,,,,8.0,,0.0,149.0,104.0
+California Institute of Technology,2019-06,LN,0.86,25.0,22.0,20.0,2.0,23.0,,,,,,-20.0,153.0,130.0
+California Institute of Technology,2018-06,LN,0.85,21.0,19.0,17.0,18.0,19.0,,,,,,0.0,124.0,129.0
+University of Pennsylvania,2019-06,LN,0.86,25.0,3.0,6.0,16.0,8.0,,5.0,2.0,3.0,10.0,0.0,680.0,24.0
+University of Pennsylvania,2018-06,LN,0.85,21.0,11.0,9.0,1.0,4.0,,,,,,0.0,260.0,32.0
+University of Pennsylvania,2017-06,LN,0.85,21.0,1.0,1.0,1.0,3.0,1.0,2.0,1.0,1.0,4.0,-20.0,923.0,4.0
+Carnegie Mellon University,2019-06,LN,0.86,25.0,8.0,1.0,6.0,3.0,3.0,1.0,1.0,13.0,,0.0,558.0,11.0
+Carnegie Mellon University,2019-06,FN,0.85,12.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,3.0,0.0,981.0,1.0
+Carnegie Mellon University,2018-06,LN,0.85,21.0,1.0,10.0,4.0,9.0,5.0,5.0,4.0,2.0,6.0,-10.0,800.0,9.0
+"University of California, Riverside",2019-06,LN,0.86,25.0,20.0,17.0,7.0,23.0,,,,,,0.0,174.0,110.0
+University of Utah,2019-06,LN,0.86,25.0,21.0,24.0,13.0,21.0,,,,,,0.0,162.0,126.0
+University of Utah,2017-06,LN,0.85,21.0,21.0,21.0,16.0,21.0,,,,,,0.0,119.0,116.0
+University of Texas at San Antonio,2018-06,LN,0.85,21.0,20.0,3.0,,19.0,,,,,,0.0,119.0,130.0
+San Diego State University,2019-06,LN,0.86,25.0,23.0,25.0,22.0,16.0,,,,,,-10.0,145.0,131.0
+San Diego State University,2017-06,LN,0.85,21.0,20.0,18.0,20.0,16.0,,,,,,0.0,127.0,114.0
+San José State University,2019-06,LN,0.86,25.0,16.0,14.0,15.0,16.0,,,,,,0.0,193.0,99.0
+San José State University,2018-06,LN,0.85,21.0,15.0,16.0,13.0,10.0,,,,,,0.0,190.0,93.0
+San José State University,2017-06,LN,0.85,21.0,13.0,14.0,21.0,6.0,,,,,,0.0,192.0,87.0
+California State Polytechnic University - San Luis Obispo,2019-06,LN,0.86,25.0,15.0,4.0,20.0,10.0,,,,,,0.0,225.0,84.0
+California State Polytechnic University - San Luis Obispo,2018-06,LN,0.85,21.0,14.0,12.0,6.0,5.0,,,,,,-48.0,192.0,82.0
+California State Polytechnic University - San Luis Obispo,2017-06,LN,0.85,21.0,9.0,13.0,4.0,4.0,,,,,,0.0,245.0,69.0
+University of California - Santa Cruz,2019-06,LN,0.86,25.0,25.0,15.0,,25.0,,,,,,-60.0,40.0,167.0
+University of Washington (Seattle),2019-06,LN,0.86,25.0,2.0,21.0,7.0,4.0,,,4.0,1.0,7.0,0.0,709.0,14.0
+University of Washington (Seattle),2018-06,LN,0.85,21.0,3.0,18.0,3.0,2.0,,,5.0,1.0,7.0,0.0,722.0,14.0
+University of Washington (Seattle),2017-06,LN,0.85,21.0,5.0,16.0,6.0,6.0,,,,3.0,2.0,0.0,577.0,25.0
