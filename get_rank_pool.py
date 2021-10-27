@@ -1,4 +1,5 @@
 import requests
+import os
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
@@ -99,16 +100,21 @@ def pool_rank(root_in, root_out):
 
 
 def main():
-    # data = pd.read_csv(r'./data/ev_list.csv')
+    try:
+        os.remove(r'./data/cv_rank.csv')
+        os.remove(r'./data/ev_rank.csv')
+        os.remove(r'./data/dv_rank.csv')
+    except:
+        pass
 
     data_root = ['./data/cv_list.csv', './data/ev_list.csv', './data/dv_list.csv']
     save_root = ['./data/cv_rank.csv', './data/ev_rank.csv', './data/dv_rank.csv']
-    pool_rank(data_root[2], save_root[2])
-    # for i in range(2):
-    #     print('------------------------------------------   ------------------------------------------')
-    #     print('------------------------------------------', i, '------------------------------------------')
-    #     print('------------------------------------------   ------------------------------------------')
-    #     pool_rank(data_root[i], save_root[i])
+    for i in range(2):
+        print('------------------------------------------   ------------------------------------------')
+        print('------------------------------------------', i, '------------------------------------------')
+        print('------------------------------------------   ------------------------------------------')
+        pool_rank(data_root[i], save_root[i])
+    # pool_rank(data_root[0], save_root[0])
 
 
 if __name__ == '__main__':
