@@ -1,7 +1,9 @@
 import pymysql
 import pandas as pd
-import os
 
+
+PASSWORD = 'YourPassword'
+DATABASE = 'YourDatabaseName'
 
 def mysql_conn(host, user, password, db, port=3306, charset='utf8'):
     conn = pymysql.connect(
@@ -17,7 +19,7 @@ def mysql_conn(host, user, password, db, port=3306, charset='utf8'):
 
 def insert(dataframe, table_name):
     # 创建cursor负责操作conn接口
-    conn = mysql_conn('localhost', 'root', '121144', 'fsg')
+    conn = mysql_conn('localhost', 'root', PASSWORD, DATABASE)
     cursor = conn.cursor()
     # 开启事务
     conn.begin()
