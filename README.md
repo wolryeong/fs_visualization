@@ -13,3 +13,28 @@
 5. 图形界面编写：PySide2, Qt Designer  
     > `rank_history_show.py`  
 
+## 目录
+<a href="#mga">main_get_allinfo.py</a>  
+<a href="#grp">get_rank_pool.py</a>  
+<a href="#gsp">get_score_pool.py</a>  
+<a href="#sd">split_data.py</a>  
+<a href="#dc">data_cleaning.py</a>  
+<a href="#cst">create_sql_table.py</a>  
+<a href="#isd">insert_sql_data.py</a>  
+<a href="#rhs">rank_history_show.py</a>  
+
+## main_get_allinfo.py<a id="mga"/>  
+
+## get_rank_pool.py<a id="grp"/>
+
+## get_score_pool.py<a id="gsp"/>
+
+## split_data.py<a id="sd"/>
+
+## data_cleaning.py<a id="dc"/>
+
+## create_sql_table.py<a id="cst"/>
+
+## insert_sql_data.py<a id="isd"/>
+
+## rank_history_show.py<a id="rhs"/>
